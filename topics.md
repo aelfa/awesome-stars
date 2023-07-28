@@ -197,6 +197,7 @@
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [termux-hacking](#termux-hacking)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -5015,6 +5016,12 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
+
+## termux 
+
+- [tuanpham-dev/termux-ubuntu](https://github.com/tuanpham-dev/termux-ubuntu) - This helps you install Ubuntu 20 + XFCE4 desktop on Termux with ease.
+- [htr-tech/shorturl](https://github.com/htr-tech/shorturl) - URL Shortner using www.tinyurl.com
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
 
 ## termux-hacking 
 

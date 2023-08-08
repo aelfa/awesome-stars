@@ -245,6 +245,7 @@
 
 ## android 
 
+- [sikelio/plexmanager](https://github.com/sikelio/plexmanager) - A cross platform app build in React Native, based on the Plex API for managing Plex Media Servers from a phone.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
@@ -1006,6 +1007,7 @@
 
 ## devops 
 
+- [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
@@ -1539,6 +1541,7 @@
 
 ## github 
 
+- [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [repo-sync/repo-sync](https://github.com/repo-sync/repo-sync) - 🔄 Keep a pair of GitHub repos in sync
@@ -1643,6 +1646,7 @@
 
 ## golang 
 
+- [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery platform.
@@ -2098,6 +2102,7 @@
 
 ## ios 
 
+- [sikelio/plexmanager](https://github.com/sikelio/plexmanager) - A cross platform app build in React Native, based on the Plex API for managing Plex Media Servers from a phone.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
 - [kean/Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms
@@ -2149,6 +2154,7 @@
 
 ## javascript 
 
+- [sikelio/plexmanager](https://github.com/sikelio/plexmanager) - A cross platform app build in React Native, based on the Plex API for managing Plex Media Servers from a phone.
 - [hash3liZer/profileo](https://github.com/hash3liZer/profileo) - 🫠 A portfolio that i literally worked on for you 👉🏻👈🏻 CI/CD Integrated.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -2649,6 +2655,7 @@
 
 ## monitoring 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [whoopsmonitor/whoopsmonitor](https://github.com/whoopsmonitor/whoopsmonitor) - A monitoring tool that gives you clarity over your application landscape.
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a log analytics system written in Rust. It is built for high throughput log ingestion cases.
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
@@ -2907,6 +2914,7 @@
 
 ## others 
 
+- [chazlarson/PMM-Quickstart](https://github.com/chazlarson/PMM-Quickstart) - 
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [JayRHa/Custom-Compliance-Scripts](https://github.com/JayRHa/Custom-Compliance-Scripts) - 
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
@@ -4433,6 +4441,7 @@
 
 ## react-native 
 
+- [sikelio/plexmanager](https://github.com/sikelio/plexmanager) - A cross platform app build in React Native, based on the Plex API for managing Plex Media Servers from a phone.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -4581,6 +4590,7 @@
 
 ## security 
 
+- [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [antrea-io/antrea](https://github.com/antrea-io/antrea) - Kubernetes networking based on Open vSwitch
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ Secure and Easy Self-hosted platform. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)

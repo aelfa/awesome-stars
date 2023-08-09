@@ -418,6 +418,7 @@
 
 ## Dockerfile 
 
+- [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
 - [youegraillot/lidarr-on-steroids](https://github.com/youegraillot/lidarr-on-steroids) - Lidarr with some muscles thanks to deemix
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
@@ -500,6 +501,7 @@
 
 ## Go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [antrea-io/antrea](https://github.com/antrea-io/antrea) - Kubernetes networking based on Open vSwitch
 - [BeryJu/gravity](https://github.com/BeryJu/gravity) - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
@@ -1671,6 +1673,7 @@
 
 ## Python 
 
+- [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
 - [chazlarson/PMM-Quickstart](https://github.com/chazlarson/PMM-Quickstart) - 
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.

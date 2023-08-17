@@ -460,7 +460,7 @@
 - [nickkjolsing/dockerMullvadVPN](https://github.com/nickkjolsing/dockerMullvadVPN) - Mullvad VPN container tutorial for docker
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [tiredofit/docker-gitlab](https://github.com/tiredofit/docker-gitlab) - Dockerized Gitlab CE w/Alpine Linux, Zabbix Monitoring and S6 Overlay
-- [tiredofit/docker-nginx](https://github.com/tiredofit/docker-nginx) - Dockerzed webserver with many customizable options
+- [tiredofit/docker-nginx](https://github.com/tiredofit/docker-nginx) - Dockerized webserver with many customizable options
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [tiredofit/docker-collabora-online](https://github.com/tiredofit/docker-collabora-online) - Dockerized Collabora Office Online with customizable options
 - [tiredofit/docker-bookstack](https://github.com/tiredofit/docker-bookstack) - Dockerized Information Manager

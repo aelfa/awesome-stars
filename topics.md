@@ -1287,7 +1287,7 @@
 - [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [tiredofit/docker-gitlab](https://github.com/tiredofit/docker-gitlab) - Dockerized Gitlab CE w/Alpine Linux, Zabbix Monitoring and S6 Overlay
-- [tiredofit/docker-nginx](https://github.com/tiredofit/docker-nginx) - Dockerzed webserver with many customizable options
+- [tiredofit/docker-nginx](https://github.com/tiredofit/docker-nginx) - Dockerized webserver with many customizable options
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [tiredofit/docker-collabora-online](https://github.com/tiredofit/docker-collabora-online) - Dockerized Collabora Office Online with customizable options
 - [tiredofit/docker-traefik](https://github.com/tiredofit/docker-traefik) - Dockerized Traefik Reverse Proxy with customizable options

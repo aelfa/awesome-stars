@@ -2974,7 +2974,7 @@
 - [brokenscripts/authentik_traefik](https://github.com/brokenscripts/authentik_traefik) - Authentik behind Traefik
 - [infosec-au/altdns](https://github.com/infosec-au/altdns) - Generates permutations, alterations and mutations of subdomains and then resolves them
 - [Nebarik/mediscripts-shared](https://github.com/Nebarik/mediscripts-shared) - 
-- [FixTweet/FixTweet](https://github.com/FixTweet/FixTweet) - Embed Twitter videos, polls, and more on Discord and Telegram
+- [FixTweet/FixTweet](https://github.com/FixTweet/FixTweet) - Embed X / Twitter videos, polls, and more on Discord and Telegram
 - [bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [ChuckPa/UserCredentialReset](https://github.com/ChuckPa/UserCredentialReset) - User Credential Reset utility for Plex

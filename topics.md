@@ -481,6 +481,7 @@
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *Arrs and related stuff.
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -2916,6 +2917,7 @@
 
 ## others 
 
+- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily. Based on movie-cli by @JipFr.
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [LimeDrive/mesharr](https://github.com/LimeDrive/mesharr) - Mesharr Sync and harmonize Radarr, Sonarr, Readarr, and Lidarr instances for collaborative, cloud-based multi-user library management. Seamlessly mirror additions across instances, optimize Plex integ
 - [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Replaces thumbnails and modifies titles of videos on youtube.com
@@ -4373,7 +4375,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [ZakKemble/RouterPi](https://github.com/ZakKemble/RouterPi) - A Compute Module 4 Router
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
-- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Open source ambient lighting implementation for television sets based on the video and audio streams analysis for Windows, macOS and Linux (x86 and Raspberry Pi). Includes real-time HDR tone mapping a
+- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Highly optimized open source ambient lighting implementation based on modern digital video and audio stream analysis for Windows, macOS and Linux (x86 and Raspberry Pi / ARM).
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [Botspot/cloudbuddy](https://github.com/Botspot/cloudbuddy) - CloudBuddy is the ultimate wizard for cloud storage. It uses rclone to connect to your cloud drives, download from them, upload to them, mount them to your file manager, and more. In addition, CloudBu
 - [hiramvillarreal/iotpos](https://github.com/hiramvillarreal/iotpos) - IotPOS, an open source Point of Sale software.

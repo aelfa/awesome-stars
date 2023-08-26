@@ -298,6 +298,7 @@
 
 ## C++ 
 
+- [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [porla/porla](https://github.com/porla/porla) - A high performance BitTorrent client for servers and seedboxes.
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
 - [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - [Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
@@ -407,7 +408,6 @@
 
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [thitlwincoder/direct_link](https://github.com/thitlwincoder/direct_link) - Dart package for direct link extractor from URL to stream and download directly
@@ -1523,6 +1523,7 @@
 
 ## PHP 
 
+- [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
 - [farisc0de/Uploady](https://github.com/farisc0de/Uploady) - Simple File Uploading Software
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [rajukumargupta/whmcsbundleproductremove](https://github.com/rajukumargupta/whmcsbundleproductremove) - when a customer order a bundle product remove a product from cart . This hook will remove other product as well
@@ -2090,6 +2091,7 @@
 
 ## Rust 
 
+- [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎵 A Spotify music and playlist downloader written in Rust which also works with a free Spotify account
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [torrust/torrust-tracker](https://github.com/torrust/torrust-tracker) - A modern and feature-rich (private) BitTorrent tracker.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -2543,6 +2545,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
 - [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve

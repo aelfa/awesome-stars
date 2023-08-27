@@ -1673,6 +1673,7 @@
 
 ## Python 
 
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
 - [chazlarson/PMM-Quickstart](https://github.com/chazlarson/PMM-Quickstart) - 
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
@@ -2339,7 +2340,7 @@
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [jmcantrell/bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
 - [slomkowski/bash-full-of-colors](https://github.com/slomkowski/bash-full-of-colors) - Advanced .bashrc and .bash_profile coming together with colorful output.
-- [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [Jintin/aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
 - [pedro-hs/checkbox.sh](https://github.com/pedro-hs/checkbox.sh) - Interactive checkboxes (menu) with pagination and vim keybinds for bash
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.

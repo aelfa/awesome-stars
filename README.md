@@ -420,7 +420,7 @@
 
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
 - [youegraillot/lidarr-on-steroids](https://github.com/youegraillot/lidarr-on-steroids) - Lidarr with some muscles thanks to deemix
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [tiredofit/docker-alpine](https://github.com/tiredofit/docker-alpine) - Docker Alpine Linux Base Images
@@ -1320,7 +1320,7 @@
 - [GabryB03/ChatGPT-Jailbreaks](https://github.com/GabryB03/ChatGPT-Jailbreaks) - Official jailbreak for ChatGPT (GPT-3.5). Send a long message at the start of the conversation with ChatGPT to get offensive, unethical, aggressive, human-like answers in English and Italian.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [drag0n141/awesome-stars](https://github.com/drag0n141/awesome-stars) - A curated list of my GitHub stars!
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify

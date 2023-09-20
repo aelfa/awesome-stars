@@ -3889,7 +3889,6 @@
 - [cristianmiranda/docs](https://github.com/cristianmiranda/docs) - 🌱 Digital Garden
 - [nemchik/after-install](https://github.com/nemchik/after-install) - Scripts to automate common tasks after a fresh OS install
 - [cglatot/pasta](https://github.com/cglatot/pasta) - Audio & Subtitle Track Changer for Plex
-- [m-rots/kandd-tmdb](https://github.com/m-rots/kandd-tmdb) - TMDb fetcher for my Knowledge & Data project
 - [adolfintel/Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
 - [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault) - openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and ma
 - [protz/Manually-Sort-Folders](https://github.com/protz/Manually-Sort-Folders) - An extension for Thunderbird 3.0+ that allows you to sort folders in the folder pane.
@@ -3929,7 +3928,6 @@
 - [nemchik/rclone_services](https://github.com/nemchik/rclone_services) - 
 - [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [linuxserver/docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt) - DEPRECATED: Please use linuxserver/swag instead
-- [m-rots/stream](https://github.com/m-rots/stream) - Tiny resource-friendly server to stream your Google Drive files to Infuse & Kodi
 - [88lex/safire](https://github.com/88lex/safire) - 
 - [l3uddz/timearr](https://github.com/l3uddz/timearr) - Custom Import Script for Sonarr/Radarr/Lidarr to reset the mod-time of imported files.
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron

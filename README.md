@@ -462,7 +462,7 @@
 - [tiredofit/docker-gitlab](https://github.com/tiredofit/docker-gitlab) - Dockerized Gitlab CE w/Alpine Linux, Zabbix Monitoring and S6 Overlay
 - [tiredofit/docker-nginx](https://github.com/tiredofit/docker-nginx) - Dockerized webserver with many customizable options
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
-- [tiredofit/docker-collabora-online](https://github.com/tiredofit/docker-collabora-online) - Dockerized Collabora Office Online with customizable options
+- [tiredofit/docker-collabora-online](https://github.com/tiredofit/docker-collabora-online) - Dockerized Online Office Suite with customizable options
 - [tiredofit/docker-bookstack](https://github.com/tiredofit/docker-bookstack) - Dockerized Information Manager
 - [tiredofit/docker-traefik](https://github.com/tiredofit/docker-traefik) - Dockerized Traefik Reverse Proxy with customizable options
 - [dceoy/docker-bio](https://github.com/dceoy/docker-bio) - Dockerfile repository for Bioinformatics

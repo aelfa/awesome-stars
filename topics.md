@@ -308,6 +308,7 @@
 
 ## angular 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
@@ -1112,7 +1113,7 @@
 - [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
-- [NOXCIS/Worm-Hole](https://github.com/NOXCIS/Worm-Hole) - Wireguard VPN and Pihole + Unbound DNS running in a Docker enviroment
+- [NOXCIS/Worm-Hole](https://github.com/NOXCIS/Worm-Hole) - WireGuard VPN and Pihole/AdGuard + Unbound DNS running in a Docker environment
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: viewtube.wiki, Status: https://uptime.m-o.dev/status
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
 - [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
@@ -1594,6 +1595,7 @@
 
 ## go 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
@@ -1669,6 +1671,7 @@
 
 ## golang 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
@@ -2200,6 +2203,7 @@
 
 ## javascript 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [sikelio/plexmanager](https://github.com/sikelio/plexmanager) - A cross platform app build in React Native, based on the Plex API for managing Plex Media Servers from a phone.
 - [hash3liZer/profileo](https://github.com/hash3liZer/profileo) - 🫠 A portfolio that i literally worked on for you 👉🏻👈🏻 CI/CD Integrated.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
@@ -2439,6 +2443,7 @@
 
 ## linux 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -2601,6 +2606,7 @@
 
 ## macos 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -3069,7 +3075,7 @@
 - [captn3m0/plaintext-everything](https://github.com/captn3m0/plaintext-everything) - 📝 A list of tools and articles helpful for keeping everything under plaintext.
 - [zhuowei/DisneyPlusMetadataDownloader](https://github.com/zhuowei/DisneyPlusMetadataDownloader) - pulls metadata from Disney+. Probably useless for you.
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
-- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [voussoir/reddit](https://github.com/voussoir/reddit) - A collection of reddit bots and utilities
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [Flemmarr/Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps
@@ -3192,7 +3198,7 @@
 - [JakeWharton/qbt-tracker-hound](https://github.com/JakeWharton/qbt-tracker-hound) - Maintains a tag on torrents with broken trackers in qBittorrent
 - [falahati/NvAPIWrapper](https://github.com/falahati/NvAPIWrapper) - NvAPIWrapper is a .Net wrapper for NVIDIA public API, capable of managing all aspects of a display setup using NVIDIA GPUs
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
-- [cyberlooper/Discord-Ultimate-Guide](https://github.com/cyberlooper/Discord-Ultimate-Guide) - 
+- [OlympiTech/Discord-Ultimate-Guide](https://github.com/OlympiTech/Discord-Ultimate-Guide) - 
 - [jellyfin/TMDbLib](https://github.com/jellyfin/TMDbLib) - C#.Net library for TheMovieDB
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
 - [waldosax/plex-db-queries](https://github.com/waldosax/plex-db-queries) - 
@@ -4233,7 +4239,7 @@
 ## python 
 
 - [angristan/palette](https://github.com/angristan/palette) - Extract color palette from an image with k-means and k-NN // Project for the AI/ML class at Hanyang University
-- [NOXCIS/Worm-Hole](https://github.com/NOXCIS/Worm-Hole) - Wireguard VPN and Pihole + Unbound DNS running in a Docker enviroment
+- [NOXCIS/Worm-Hole](https://github.com/NOXCIS/Worm-Hole) - WireGuard VPN and Pihole/AdGuard + Unbound DNS running in a Docker environment
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
@@ -4451,6 +4457,7 @@
 
 ## react 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -5014,6 +5021,7 @@
 
 ## svelte 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 - [wirow-io/wirow-server](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform.
@@ -5262,6 +5270,7 @@
 
 ## vuejs 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: viewtube.wiki, Status: https://uptime.m-o.dev/status
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -5333,6 +5342,7 @@
 
 ## windows 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - [Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools

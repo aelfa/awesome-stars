@@ -3785,7 +3785,6 @@
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
 - [petio-team/petio](https://github.com/petio-team/petio) - Petio Request, Discover, Review
 - [Dalvii/plex-library-export](https://github.com/Dalvii/plex-library-export) - Export Plex libraries at image format for better preview of what you have in your Plex
-- [nextgens/anti-paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls
 - [wooque/site-bleacher](https://github.com/wooque/site-bleacher) - Remove automatically cookies, local storages, IndexedDBs, service workers, cache storages, filesystems and webSQLs
 - [WordPress/application-passwords](https://github.com/WordPress/application-passwords) - 
 - [lewazo/boreale](https://github.com/lewazo/boreale) - :evergreen_tree: A very lightweight authentication service for Traefik

@@ -891,6 +891,7 @@
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [TheFourGreatErrors/alpha-rptr](https://github.com/TheFourGreatErrors/alpha-rptr) - A trading bot for automated algorithmic trading on Binance Futures, Bybit, BitMEX and FTX written in python.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
+- [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
@@ -1874,6 +1875,7 @@
 - [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
@@ -1887,7 +1889,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
-- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - 🚀 A Next Generation Private Torrent Tracker (Community Edition)
+- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Torrent Tracker Built With Laravel, Livewire and AlpineJS.
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [Drapersniper/Qbitrr](https://github.com/Drapersniper/Qbitrr) - A simple Python script to talk to Qbit and Arr's
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -2405,7 +2407,7 @@
 
 - [stefanzweifel/screeenly](https://github.com/stefanzweifel/screeenly) - 📸  Screenshot as a Service
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
-- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - 🚀 A Next Generation Private Torrent Tracker (Community Edition)
+- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Torrent Tracker Built With Laravel, Livewire and AlpineJS.
 - [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
 - [NNTmux/newznab-tmux](https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -2973,6 +2975,7 @@
 
 ## others 
 
+- [the-rarbg/yaps](https://github.com/the-rarbg/yaps) - Y.A.P.S [Yet Another Piracy Site]
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
@@ -3761,7 +3764,6 @@
 - [cyd01/HTMLEditor](https://github.com/cyd01/HTMLEditor) - Real-time HTML and Markdown editor with CSS support
 - [hopeseekr/BashScripts](https://github.com/hopeseekr/BashScripts) - My own personal bash scripts that revolutionize my life!!
 - [technorabilia/docker-bits](https://github.com/technorabilia/docker-bits) - Various Docker bits
-- [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [jirikrepl/shrimpy-refollow-script](https://github.com/jirikrepl/shrimpy-refollow-script) - 
 - [sirloinofbeef/PlexTraktSync](https://github.com/sirloinofbeef/PlexTraktSync) - A python script that syncs the movies, shows and ratings between Trakt and hawke.one Plex (without needing a PlexPass or Trakt VIP subscription)
 - [sabrsorensen/alpine-cloudplow](https://github.com/sabrsorensen/alpine-cloudplow) - Alpine Linux Docker image for the cloudplow rclone transfer service.
@@ -3785,6 +3787,7 @@
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
 - [petio-team/petio](https://github.com/petio-team/petio) - Petio Request, Discover, Review
 - [Dalvii/plex-library-export](https://github.com/Dalvii/plex-library-export) - Export Plex libraries at image format for better preview of what you have in your Plex
+- [nextgens/anti-paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls
 - [wooque/site-bleacher](https://github.com/wooque/site-bleacher) - Remove automatically cookies, local storages, IndexedDBs, service workers, cache storages, filesystems and webSQLs
 - [WordPress/application-passwords](https://github.com/WordPress/application-passwords) - 
 - [lewazo/boreale](https://github.com/lewazo/boreale) - :evergreen_tree: A very lightweight authentication service for Traefik
@@ -4109,7 +4112,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allo
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
-- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - 🚀 A Next Generation Private Torrent Tracker (Community Edition)
+- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Torrent Tracker Built With Laravel, Livewire and AlpineJS.
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
@@ -4188,7 +4191,6 @@
 - [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 - [ninthwalker/saverr](https://github.com/ninthwalker/saverr) - Download and save media from Plex Servers
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
-- [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 - [nkasco/IT-Admin-Toolkit-WinUI](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) - A CUSTOMIZABLE AND EXPANDABLE DESTINATION FOR CENTRALIZING DAY-TO-DAY JOB FUNCTIONS
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel

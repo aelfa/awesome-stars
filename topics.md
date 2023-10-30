@@ -1122,7 +1122,7 @@
 - [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
-- [NOXCIS/Worm-Hole](https://github.com/NOXCIS/Worm-Hole) - Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS
+- [NOXCIS/wirehole](https://github.com/NOXCIS/wirehole) - Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.m-o.dev/status
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
 - [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
@@ -4246,7 +4246,7 @@
 ## python 
 
 - [angristan/palette](https://github.com/angristan/palette) - Extract color palette from an image with k-means and k-NN // Project for the AI/ML class at Hanyang University
-- [NOXCIS/Worm-Hole](https://github.com/NOXCIS/Worm-Hole) - Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS
+- [NOXCIS/wirehole](https://github.com/NOXCIS/wirehole) - Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image

@@ -479,7 +479,7 @@
 ## Elixir 
 
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform
 - [derek-zhou/liv](https://github.com/derek-zhou/liv) - Web mail of your own
 - [lewazo/boreale](https://github.com/lewazo/boreale) - :evergreen_tree: A very lightweight authentication service for Traefik
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -635,7 +635,6 @@
 - [akhilrex/hammond](https://github.com/akhilrex/hammond) - Self hosted vehicle and expense management system. Like Clarkson, but better
 - [tomtom5152/dnsyo](https://github.com/tomtom5152/dnsyo) - ALL THE DNS. Query up to 1000 name servers to view the state of your DNS across the internet.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [jenssegers/captain](https://github.com/jenssegers/captain) - ⚓️ Easily start and stop docker compose projects
@@ -921,7 +920,7 @@
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
 - [torakiki/pdfsam](https://github.com/torakiki/pdfsam) - PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages
 - [clean-apps/CleanSCAN](https://github.com/clean-apps/CleanSCAN) - A simple, smart and efficient document scanner for Android
-- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [guardianproject/PixelKnot](https://github.com/guardianproject/PixelKnot) - Image stego app using the F5 algorithm
 - [guardianproject/proofmode-android](https://github.com/guardianproject/proofmode-android) - THIS REPOSITORY IS MIGRATING TO: https://gitlab.com/guardianproject/proofmode/proofmode-android
 - [matrix-org/matrix-android-sdk](https://github.com/matrix-org/matrix-android-sdk) - The Matrix SDK for Android - DEPRECATED
@@ -1017,7 +1016,7 @@
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [brettpetch/nightwalker](https://github.com/brettpetch/nightwalker) - A dark but not black qBittorrent WebUI
 - [NNTmux/newznab-tmux](https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer
-- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [SamVerschueren/listr](https://github.com/SamVerschueren/listr) - Terminal task list
 - [jfarseneau/antennas](https://github.com/jfarseneau/antennas) - 📡 DVR emulator for Plex DVR to connect to Tvheadend.
 - [sudobox-io/sb-cli](https://github.com/sudobox-io/sb-cli) - 
@@ -1254,7 +1253,7 @@
 - [vector-im/element-android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
 - [matrix-org/matrix-android-sdk2](https://github.com/matrix-org/matrix-android-sdk2) - Matrix SDK for Android, extracted from the Element Android application
 - [grote/Transportr](https://github.com/grote/Transportr) - Free Public Transport Assistant without Ads or Tracking
-- [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [KaustubhPatange/Moviesy](https://github.com/KaustubhPatange/Moviesy) - A beautiful client for YTS website which also provides built-in torrent & subtitles downloader with Chromecast support.
 - [Ylianst/MeshCentralAndroidAgent](https://github.com/Ylianst/MeshCentralAndroidAgent) - MeshCentral Agent for Android Device
@@ -1393,6 +1392,7 @@
 - [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard) - A curated list of amazingly awesome dashboards/visualization resources.
 - [turbo/openftp4](https://github.com/turbo/openftp4) - A list of all FTP servers in IPv4 that allow anonymous logins.
 - [wahyd4/aria2-ariang-x-docker-compose](https://github.com/wahyd4/aria2-ariang-x-docker-compose) - Docker compose files for Aria2+ AriaNg+ filerun/ Nextcloud/ h5ai + Plex.  图形化BT，磁力，离线下载，文件管理，播放，投屏
+- [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [hotio/qbitmanage](https://github.com/hotio/qbitmanage) - 
 - [bakerboy448/pmm-config](https://github.com/bakerboy448/pmm-config) - Bakerboy448's Plex Meta Manager (PMM) Configs
@@ -1684,7 +1684,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
 - [chazlarson/PMM-Quickstart](https://github.com/chazlarson/PMM-Quickstart) - 
-- [NOXCIS/wirehole](https://github.com/NOXCIS/wirehole) - Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS
+- [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) - Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
@@ -2246,7 +2246,7 @@
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [spherex-dev/docker-backup-volume](https://github.com/spherex-dev/docker-backup-volume) - Tooling to backup docker volumes
 - [ibracorp/templates](https://github.com/ibracorp/templates) - A selection of docker compose files that follow our series of YouTube videos
-- [onedr0p/containers](https://github.com/onedr0p/containers) - Kubernetes tailored container images for various applications
+- [onedr0p/containers](https://github.com/onedr0p/containers) - An opinionated collection of container images
 - [newsnowlabs/docker-ingress-routing-daemon](https://github.com/newsnowlabs/docker-ingress-routing-daemon) - Docker swarm daemon that modifies ingress mesh routing to expose true client IPs to service containers
 - [sualko/bbb-optimize](https://github.com/sualko/bbb-optimize) - Better audio quality, increase recording processing speed, dynamic video profile, pagination, fix 1007/1020 errors and use apply-config.sh to manage your customizations are some key techniques for you
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD

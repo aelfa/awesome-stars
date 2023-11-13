@@ -1299,7 +1299,6 @@
 
 ## Nix 
 
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## OCaml 
@@ -1576,7 +1575,7 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [hash3liZer/BruteList](https://github.com/hash3liZer/BruteList) - Combined Worldlist from various projects Including Seclists, fuzzdb and other Database Management Tools
-- [userfrosting/UserFrosting](https://github.com/userfrosting/UserFrosting) - :doughnut: Modern PHP user login and management framework++.
+- [userfrosting/UserFrosting](https://github.com/userfrosting/UserFrosting) - Modern PHP user login and management framework
 - [poppabear8883/UNIT3D-INSTALLER](https://github.com/poppabear8883/UNIT3D-INSTALLER) - Provisioner and Installer for the UNIT3D Torrent Tracker Platform.
 - [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail written in PHP and JavaScript
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
@@ -1933,7 +1932,7 @@
 - [Pirate-Crew/IPTV](https://github.com/Pirate-Crew/IPTV) - Search and perform brute force attacks on illegal IPTV Servers
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [Critical-Impact/anime-tools](https://github.com/Critical-Impact/anime-tools) - Command line tool for fixing issues with Plex Anime libraries
-- [FolfyBlue/GetFreeGames](https://github.com/FolfyBlue/GetFreeGames) - Python script to search and find free games using Steam's API and to claim them using ASF's IPC API.
+- [JoshuaVandaele/GetFreeGames](https://github.com/JoshuaVandaele/GetFreeGames) - Python script to search and find free games using Steam's API and to claim them using ASF's IPC API.
 - [Nickwasused/FreeGamesonSteam](https://github.com/Nickwasused/FreeGamesonSteam) - Searching SteamDB for Free Games and Activating them using  ArchiSteamFarm
 - [openSUSE/mail-reminder](https://github.com/openSUSE/mail-reminder) - Small utility to use in a cron job, to send mail reminders (about upcoming meetings or deadlines, for instance)
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
@@ -2535,6 +2534,7 @@
 
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [rush86999/atomic](https://github.com/rush86999/atomic) - Chat with and teach your calendar to solve your scheduling & time problems
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.m-o.dev/status

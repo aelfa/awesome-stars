@@ -1553,7 +1553,7 @@
 
 - [caverym/proton-caller](https://github.com/caverym/proton-caller) - Run any Windows program through Proton
 - [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
-- [FolfyBlue/GetFreeGames](https://github.com/FolfyBlue/GetFreeGames) - Python script to search and find free games using Steam's API and to claim them using ASF's IPC API.
+- [JoshuaVandaele/GetFreeGames](https://github.com/JoshuaVandaele/GetFreeGames) - Python script to search and find free games using Steam's API and to claim them using ASF's IPC API.
 - [SushyDev/vapor-store](https://github.com/SushyDev/vapor-store) - Vapor Store
 
 ## git 
@@ -4162,7 +4162,7 @@
 - [shopware5/devdocs](https://github.com/shopware5/devdocs) - Shopware 5 Developers Website
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [userfrosting/UserFrosting](https://github.com/userfrosting/UserFrosting) - :doughnut: Modern PHP user login and management framework++.
+- [userfrosting/UserFrosting](https://github.com/userfrosting/UserFrosting) - Modern PHP user login and management framework
 - [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail written in PHP and JavaScript
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
@@ -4350,7 +4350,7 @@
 - [qeeqbox/osint](https://github.com/qeeqbox/osint) - Build custom OSINT tools and APIs (Ping, Traceroute, Scans, Archives, DNS, Scrape, Whois, Metadata & built-in database for more info) with this python package
 - [scito/extract_otp_secrets](https://github.com/scito/extract_otp_secrets) - Extract one time password (OTP) secrets from QR codes exported by two-factor authentication (2FA) apps such as "Google Authenticator". The exported QR codes from authentication apps can be captured by
 - [srichter/asksonic](https://github.com/srichter/asksonic) - An Alexa skill to play music from Subsonic API compatible music servers
-- [FolfyBlue/GetFreeGames](https://github.com/FolfyBlue/GetFreeGames) - Python script to search and find free games using Steam's API and to claim them using ASF's IPC API.
+- [JoshuaVandaele/GetFreeGames](https://github.com/JoshuaVandaele/GetFreeGames) - Python script to search and find free games using Steam's API and to claim them using ASF's IPC API.
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 - [Rikj000/MoniGoMani](https://github.com/Rikj000/MoniGoMani) - Isn't that what we all want? Our money to go many? Well that's what this framework/strategy hopes to do for you! By giving you & HyperOpt a lot of signals to alter the weights from.
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python

@@ -193,6 +193,7 @@
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sql-server](#sql-server)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [support](#support)
 - [svelte](#svelte)
@@ -1200,6 +1201,7 @@
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder
 - [silvio/docker-matrix](https://github.com/silvio/docker-matrix) - docker image for matrix.org
 - [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
@@ -3320,7 +3322,6 @@
 - [TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts) - The ultimate collection of scripts to download everything you bought on GOG.com
 - [d43m0nhLInt3r/socialblocklists](https://github.com/d43m0nhLInt3r/socialblocklists) - Blocklists to block the communication to social networking sites and privacy harming services
 - [panchalravi004/StarPlex](https://github.com/panchalravi004/StarPlex) - this is design for movie ticketing booking website with boot strap  five ,html and css
-- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support
 - [sudobox-io/sb-install](https://github.com/sudobox-io/sb-install) - 
 - [SamVerschueren/listr](https://github.com/SamVerschueren/listr) - Terminal task list
 - [sudobox-io/sb-cli](https://github.com/sudobox-io/sb-cli) - 
@@ -5026,6 +5027,14 @@
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [danhuss/awesome-sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases.
+
+## sqlite 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 
 ## statistics 
 

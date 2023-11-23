@@ -340,7 +340,7 @@
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
 - [hiramvillarreal/iotpos](https://github.com/hiramvillarreal/iotpos) - IotPOS, an open source Point of Sale software.
 - [apinprastya/sultan](https://github.com/apinprastya/sultan) - Minimarket Point Of Sales (POS) software writen in C++ with Qt framework
@@ -807,7 +807,6 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [l3uddz/plexarr](https://github.com/l3uddz/plexarr) - Fix mismatched media in Plex mastered by Sonarr/Radarr
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [atomheartother/qtweetgo](https://github.com/atomheartother/qtweetgo) - A Go rewrite of QTweet
 - [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [l3uddz/timearr](https://github.com/l3uddz/timearr) - Custom Import Script for Sonarr/Radarr/Lidarr to reset the mod-time of imported files.
@@ -933,7 +932,7 @@
 - [JackyAndroid/AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) - chrome browser of android version from chromium open project
 - [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
-- [scoooooott/tinyPornManager](https://github.com/scoooooott/tinyPornManager) - Made for pornhub. Fork from tinyMediaManager v3
+- [scoooooott/tinyPornManager](https://github.com/scoooooott/tinyPornManager) - A Pornhub.com scraper addon for tinyMediaManager v4
 - [portfolio-performance/portfolio](https://github.com/portfolio-performance/portfolio) - Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.
 - [threema-ch/threema-android](https://github.com/threema-ch/threema-android) - Threema App for Android.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
@@ -1151,7 +1150,7 @@
 - [TheUltimateC0der/alternatrr](https://github.com/TheUltimateC0der/alternatrr) - alternatrr lets you add alternative titles to your sonarr instance with a simple WebUI
 - [tuhinpal/CloudflareDB](https://github.com/tuhinpal/CloudflareDB) - The low latency database powered by Cloudflare Worker and KV
 - [ralphwetzel/theonionbox](https://github.com/ralphwetzel/theonionbox) - Dashboard to monitor Tor node operations
-- [webrecorder/replayweb.page](https://github.com/webrecorder/replayweb.page) - Serverless Web Archive Replay directly in the browser
+- [webrecorder/replayweb.page](https://github.com/webrecorder/replayweb.page) - Serverless replay of web archives directly in the browser
 - [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
 - [thegreenwebfoundation/green-cost-explorer](https://github.com/thegreenwebfoundation/green-cost-explorer) - See how much of your cloud bill is spent on fossil fuels ,so you can do the right thing and switch. We're in a climate crisis, remember?
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
@@ -2662,6 +2661,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
 - [ckcr4lyf/qbit-race](https://github.com/ckcr4lyf/qbit-race) - Qbittorrent utilities for racing
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [lithdew/flatend](https://github.com/lithdew/flatend) - Quickly build microservices using p2p networking in NodeJS/Go.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids

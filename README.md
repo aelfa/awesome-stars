@@ -1536,8 +1536,8 @@
 - [hitrov/oci-arm-host-capacity](https://github.com/hitrov/oci-arm-host-capacity) - This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when additional OCI capacity will appear in your Home Region / Availability domain.
 - [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 86 file formats in 13 languages.
-- [ArabCoders/hls_player](https://github.com/ArabCoders/hls_player) - A Web Video player that can play any video file in the browser using ffmpeg as backend.
-- [ArabCoders/watchstate](https://github.com/ArabCoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
+- [arabcoders/hls_player](https://github.com/arabcoders/hls_player) - A Web Video player that can play any video file in the browser using ffmpeg as backend.
+- [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [qdm12/2FAuth](https://github.com/qdm12/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 - [shiningw/ncdownloader](https://github.com/shiningw/ncdownloader) - An easy-to-use web interface for Aria2 and Youtube-dl (downloading bittorrents, videos from twitter, youtube and the likes)运行在nextcloud下的多功能下载工具（Aria2 and youtube-dl）

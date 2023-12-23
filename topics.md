@@ -2723,7 +2723,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
-- [nozel-org/serverbot](https://github.com/nozel-org/serverbot) - Lightweight server monitoring and alert tool for Linux
+- [nozel-org/linux-serverbot](https://github.com/nozel-org/linux-serverbot) - Lightweight server monitoring and alert tool for Linux
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [BSoDium/Slashboard-pulsar](https://github.com/BSoDium/Slashboard-pulsar) - A simple dashboard to keep track of all your active devices/servers
@@ -5003,7 +5003,7 @@
 - [silvio/docker-matrix](https://github.com/silvio/docker-matrix) - docker image for matrix.org
 - [plyint/encpass.sh](https://github.com/plyint/encpass.sh) - Lightweight solution for using encrypted passwords in shell scripts
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
-- [nozel-org/serverbot](https://github.com/nozel-org/serverbot) - Lightweight server monitoring and alert tool for Linux
+- [nozel-org/linux-serverbot](https://github.com/nozel-org/linux-serverbot) - Lightweight server monitoring and alert tool for Linux
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [meteoritt/topalias](https://github.com/meteoritt/topalias) - Linux bash/zsh aliases generator
 - [wick3dr0se/sysfetch](https://github.com/wick3dr0se/sysfetch) - A super tiny system information fetch script written in BASH

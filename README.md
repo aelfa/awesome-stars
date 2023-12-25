@@ -2536,7 +2536,7 @@
 
 ## TypeScript 
 
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [rush86999/atomic](https://github.com/rush86999/atomic) - Chat with and teach your calendar to solve your scheduling & time problems
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library

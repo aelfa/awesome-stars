@@ -2029,7 +2029,6 @@
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
-- [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [monogon-dev/NetMeta](https://github.com/monogon-dev/NetMeta) - NetMeta is a scalable network observability toolkit optimized for performance.
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
@@ -5457,6 +5456,7 @@
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Highly optimized open source ambient lighting implementation based on modern digital video and audio stream analysis for Windows, macOS and Linux (x86 and Raspberry Pi / ARM).
 - [DmitryBorodiy/PowerWidgets](https://github.com/DmitryBorodiy/PowerWidgets) - Power Widgets is new way to customize your at-a-glance info. With new widgets and mini-apps you can explore info and get fast access to important things.
 - [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [williamjohnstone/AutoRclone-Rewrite](https://github.com/williamjohnstone/AutoRclone-Rewrite) - Rewrite of https://github.com/xyou365/AutoRclone

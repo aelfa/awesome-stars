@@ -3815,7 +3815,7 @@
 - [scoooooott/tinyPornManager](https://github.com/scoooooott/tinyPornManager) - A Pornhub.com scraper addon for tinyMediaManager v4
 - [pornganizer/PGV5](https://github.com/pornganizer/PGV5) - Pornganizer V5
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [OlympiTech/OpenFLIXR3](https://github.com/OlympiTech/OpenFLIXR3) - OpenFLIXR Media system. Version 3
 - [capr/multigit](https://github.com/capr/multigit) - :trident: Overlapped Git Repositories
 - [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.

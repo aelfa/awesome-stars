@@ -1208,7 +1208,7 @@
 - [hassio-addons/addon-tautulli](https://github.com/hassio-addons/addon-tautulli) - Tautulli - Home Assistant Community Add-ons
 - [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
-- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.9% less leaked credentials
+- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.8% less leaked credentials
 - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [hashbang/shell-server](https://github.com/hashbang/shell-server) - #! shell server base images, ready to boot and allow user logins.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -1231,7 +1231,7 @@
 
 ## Kotlin 
 
-- [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - [Gap month 2023.12.1 - 2023.12.31] 数据备份 DataBackup for Android
+- [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - 数据备份 DataBackup for Android
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 - [KieronQuinn/DarQ](https://github.com/KieronQuinn/DarQ) - DarQ provides a per-app selectable force dark option for Android 10 and above

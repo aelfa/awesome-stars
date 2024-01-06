@@ -1287,7 +1287,6 @@
 ## Mathematica 
 
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space
-- [SilentButeo2/webgrabplus-siteinipack](https://github.com/SilentButeo2/webgrabplus-siteinipack) - Official user supported WebGrab+Plus Siteini.pack repo
 
 ## Mustache 
 
@@ -1779,6 +1778,7 @@
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [bitsbb01/m3u8_creator](https://github.com/bitsbb01/m3u8_creator) - M3U8 Creator pulls the json from Cat Scrapper and then converts it to M3U8, it also grabs the epg and other m3u8's and can then merge them into one file.
+- [SilentButeo2/webgrabplus-siteinipack](https://github.com/SilentButeo2/webgrabplus-siteinipack) - Official user supported WebGrab+Plus Siteini.pack repo
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [huxuan/iptvtools](https://github.com/huxuan/iptvtools) - A set of scripts that help to better the IPTV experience.

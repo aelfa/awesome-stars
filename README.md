@@ -341,7 +341,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
-- [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
+- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
 - [hiramvillarreal/iotpos](https://github.com/hiramvillarreal/iotpos) - IotPOS, an open source Point of Sale software.
 - [apinprastya/sultan](https://github.com/apinprastya/sultan) - Minimarket Point Of Sales (POS) software writen in C++ with Qt framework
 - [plexinc/plex-media-player](https://github.com/plexinc/plex-media-player) - Next generation Plex Desktop/Embedded Client
@@ -930,7 +930,7 @@
 - [projectmatris/antimalwareapp](https://github.com/projectmatris/antimalwareapp) - Anti-malware for Android using machine learning
 - [aaronjwood/PortAuthority](https://github.com/aaronjwood/PortAuthority) - A handy systems and security-focused tool, Port Authority is a very fast Android port scanner. Port Authority also allows you to quickly discover hosts on your network and will display useful network 
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 - [JackyAndroid/AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) - chrome browser of android version from chromium open project
 - [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
@@ -2313,7 +2313,7 @@
 - [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
 - [RandomNinjaAtk/docker-amd](https://github.com/RandomNinjaAtk/docker-amd) - AMD is a Lidarr companion script to automatically download music for Lidarr
 - [nozel-org/linux-serverbot](https://github.com/nozel-org/linux-serverbot) - Lightweight server monitoring and alert tool for Linux
-- [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks (continuation/revival by Apacelus on https://eupnea-linux.github.io/)
+- [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [jontsai/bash-ftw](https://github.com/jontsai/bash-ftw) - Collection of BASH scripts, aliases, and bootstraps For The Win!
 - [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
@@ -2599,7 +2599,7 @@
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Xarritomi/auto-replyarr](https://github.com/Xarritomi/auto-replyarr) - 
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) - Puts Docker Containers to sleep and wakes them back up when they're needed
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)

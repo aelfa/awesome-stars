@@ -1415,7 +1415,7 @@
 - [rushiranpise/win11devbypass](https://github.com/rushiranpise/win11devbypass) - Bypass New Windows 11 Dev Channel restriction for unsupported devices
 - [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository
 - [ValdikSS/Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) - Super UEFIinSecureBoot Disk: Boot any OS or .efi file without disabling UEFI Secure Boot
-- [polyestervoke/awesome-pt](https://github.com/polyestervoke/awesome-pt) - A curated list of awesome private tracker tools. PT工具集
+- [sabersalv/awesome-pt](https://github.com/sabersalv/awesome-pt) - A curated list of awesome private tracker tools. PT工具集
 - [Volodichev/ProxyHUB](https://github.com/Volodichev/ProxyHUB) - moved to: https://github.com/proxy4parsing
 - [anudeepND/pihole-unbound](https://github.com/anudeepND/pihole-unbound) - Guide to setup Unbound recursive DNS resolver with Pi-Hole. With additional configs for speed and security!! 🚀🔒
 - [crozuk/pi-hole-wireguard-privoxy](https://github.com/crozuk/pi-hole-wireguard-privoxy) - Pi-hole, Wireguard and Privoxy. Providing an ad-blocking VPN protected proxy server.

@@ -299,7 +299,7 @@
 - [hash3liZer/locohunt](https://github.com/hash3liZer/locohunt) - Search for Secrets and Other Confidential Information Through Directories and Files Based on Regex and Search Strings.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [JackyAndroid/AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) - chrome browser of android version from chromium open project
-- [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
+- [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_

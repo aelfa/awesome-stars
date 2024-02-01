@@ -3823,7 +3823,7 @@
 - [StenlyTU/K8s-training-official](https://github.com/StenlyTU/K8s-training-official) - The goal of this tutorial is to give you a good understanding of Kubernetes.
 - [nwithan8/dizqueTV-scripts](https://github.com/nwithan8/dizqueTV-scripts) - Scripts to automate dizqueTV tasks
 - [josephhitchcock/morpheus](https://github.com/josephhitchcock/morpheus) - A tool to export Plex library metadata into a graph database
-- [diericx/bevy](https://github.com/diericx/bevy) - Self hosted popcorn time alternative software for grabbing, streaming and seeding torrents
+- [diericx/bevy](https://github.com/diericx/bevy) - Self hosted software for streaming media over BitTorrent with the option to seed back
 - [scoooooott/tinyPornManager](https://github.com/scoooooott/tinyPornManager) - A Pornhub.com scraper addon for tinyMediaManager v4
 - [pornganizer/PGV5](https://github.com/pornganizer/PGV5) - Pornganizer V5
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli

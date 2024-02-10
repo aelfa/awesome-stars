@@ -3836,7 +3836,7 @@
 - [StenlyTU/K8s-training-official](https://github.com/StenlyTU/K8s-training-official) - The goal of this tutorial is to give you a good understanding of Kubernetes.
 - [nwithan8/dizqueTV-scripts](https://github.com/nwithan8/dizqueTV-scripts) - Scripts to automate dizqueTV tasks
 - [josephhitchcock/morpheus](https://github.com/josephhitchcock/morpheus) - A tool to export Plex library metadata into a graph database
-- [diericx/bevy](https://github.com/diericx/bevy) - Self hosted software for streaming media over BitTorrent with the option to seed back
+- [diericx/bevy](https://github.com/diericx/bevy) - Self hosted software for distibuted video streaming using BitTorrent
 - [scoooooott/tinyPornManager](https://github.com/scoooooott/tinyPornManager) - A Pornhub.com scraper addon for tinyMediaManager v4
 - [pornganizer/PGV5](https://github.com/pornganizer/PGV5) - Pornganizer V5
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
@@ -4891,7 +4891,7 @@
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
-- [onedr0p/containers](https://github.com/onedr0p/containers) - An opinionated collection of container images
+- [onedr0p/containers](https://github.com/onedr0p/containers) - My collection of container images
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure

@@ -1449,7 +1449,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [lokeshreddy007/freedom-of-education](https://github.com/lokeshreddy007/freedom-of-education) - Full List of websites from where any one can get free resources to improve ones Knowledge
 - [aeleos/cloudflared](https://github.com/aeleos/cloudflared) - Cloudflare Tunnel Instructions and Template for Unraid
-- [Loopple/loopple](https://github.com/Loopple/loopple) - Drag & drop dashboard builder
+- [Loopple/loopple](https://github.com/Loopple/loopple) - Template Builder for Modern Websites & Dashboards
 - [earthspecies/project](https://github.com/earthspecies/project) - Roadmaps towards decoding non-human languages.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [0x4447/0x4447_product_s3_email](https://github.com/0x4447/0x4447_product_s3_email) - 📫 A serverless email server on AWS using S3 and SES

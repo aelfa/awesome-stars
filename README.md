@@ -622,7 +622,6 @@
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [5HT2/ranet-clone](https://github.com/5HT2/ranet-clone) - A searchable clone of russianplanes.net, for transparency and ease of identifying planes.
 - [Famous8/Televarr](https://github.com/Famous8/Televarr) - A Manager for IPTV Playlists
-- [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [toolctl/toolctl](https://github.com/toolctl/toolctl) - The tool to control your tools
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder
@@ -2130,6 +2129,7 @@
 - [kentik/netdiag](https://github.com/kentik/netdiag) - 
 - [m-rots/a-train](https://github.com/m-rots/a-train) - 
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
+- [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [pombadev/ikill](https://github.com/pombadev/ikill) - Interactively kill running processes.
@@ -2560,7 +2560,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
 - [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.

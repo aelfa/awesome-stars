@@ -1306,7 +1306,7 @@
 
 ## Nix 
 
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## OCaml 
@@ -2314,7 +2314,7 @@
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
-- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
+- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GnuPG symmetric password manager
 - [RandomNinjaAtk/docker-amd](https://github.com/RandomNinjaAtk/docker-amd) - AMD is a Lidarr companion script to automatically download music for Lidarr
 - [nozel-org/linux-serverbot](https://github.com/nozel-org/linux-serverbot) - Lightweight server monitoring and alert tool for Linux
 - [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks

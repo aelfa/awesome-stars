@@ -1674,6 +1674,8 @@
 
 ## Python 
 
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [westsurname/scripts](https://github.com/westsurname/scripts) - 
 - [I-am-PUID-0/pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of itsToggle's, yowmamasita's, and ncw's projects -- plex_debrid, zurg, and rclone
 - [dreulavelle/iceberg](https://github.com/dreulavelle/iceberg) - Plex Debrid Rewrite (WIP)
@@ -2697,6 +2699,7 @@
 
 ## Vue 
 
+- [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [kaangiray26/forte](https://github.com/kaangiray26/forte) - Self-hosted, music streaming platform
 - [whoopsmonitor/whoopsmonitor](https://github.com/whoopsmonitor/whoopsmonitor) - A monitoring tool that gives you clarity over your application landscape.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks

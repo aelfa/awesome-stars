@@ -779,7 +779,6 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [nomasters/killcord](https://github.com/nomasters/killcord) - a censorship resistant deadman's switch
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas
 - [mrcruz/autoarr](https://github.com/mrcruz/autoarr) - 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -1261,6 +1260,7 @@
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [KaustubhPatange/Moviesy](https://github.com/KaustubhPatange/Moviesy) - A beautiful client for YTS website which also provides built-in torrent & subtitles downloader with Chromecast support.
 - [Ylianst/MeshCentralAndroidAgent](https://github.com/Ylianst/MeshCentralAndroidAgent) - MeshCentral Agent for Android Device
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [JakeWharton/plex-orphaned-files](https://github.com/JakeWharton/plex-orphaned-files) - Find files in your Plex libraries which are not indexed
 - [zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
 

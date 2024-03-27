@@ -123,7 +123,6 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
-- [localization](#localization)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -2038,7 +2037,6 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) - 
@@ -2587,10 +2585,6 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [xyou365/AutoRclone](https://github.com/xyou365/AutoRclone) - AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts
-
-## localization 
-
-- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 
 ## low-code 
 

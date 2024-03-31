@@ -483,7 +483,7 @@
 ## Elixir 
 
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [derek-zhou/liv](https://github.com/derek-zhou/liv) - Web mail of your own
 - [lewazo/boreale](https://github.com/lewazo/boreale) - :evergreen_tree: A very lightweight authentication service for Traefik
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.

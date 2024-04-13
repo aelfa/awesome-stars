@@ -2375,6 +2375,7 @@
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
+- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [1Password/connect-helm-charts](https://github.com/1Password/connect-helm-charts) - Official 1Password Helm Charts
 - [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with k3s and managed by flux (gitops).
@@ -3169,7 +3170,6 @@
 - [qdm12/tinier](https://github.com/qdm12/tinier) - Make your videos, images and audio files tinier
 - [lobaro/restic-backup-docker](https://github.com/lobaro/restic-backup-docker) - A docker container to automate backups with restic
 - [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers)
-- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [karakun/OpenWebStart](https://github.com/karakun/OpenWebStart) - Run Web Start based applications after the release of Java 11
 - [orangegrouptech/KnowMySystem](https://github.com/orangegrouptech/KnowMySystem) - A tool showing information about your system's hardware and software in one place. Useful for both end users and tech support who are trying to get more information about their/their customers' system
 - [orangegrouptech/Windows-Malware-Effects-Remediation-Tool](https://github.com/orangegrouptech/Windows-Malware-Effects-Remediation-Tool) - An open-source tool that makes recovering from malware effects - something AVs can't do - MUCH easier.
@@ -4829,6 +4829,7 @@
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
+- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
@@ -5508,6 +5509,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
 - [serge-rgb/milton](https://github.com/serge-rgb/milton) - An infinite-canvas paint program
 - [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.

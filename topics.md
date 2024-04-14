@@ -200,6 +200,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [support](#support)
 - [svelte](#svelte)
@@ -3562,7 +3563,6 @@
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [jbbriel/cloudflare-py](https://github.com/jbbriel/cloudflare-py) - Script to enable and disable pools in CF Load Balancers
-- [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - Just another multi-purpose Colab Notebook
 - [dimitrov-adrian/RcloneTray](https://github.com/dimitrov-adrian/RcloneTray) - Simple cross-platform GUI for Rclone
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
 - [standardnotes/self-hosted](https://github.com/standardnotes/self-hosted) - [Legacy] Self-host your own Standard Notes server for end-to-end encrypted notes and files
@@ -5150,6 +5150,10 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
+
+## stable-diffusion 
+
+- [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - Just another multi-purpose Colab Notebook
 
 ## statistics 
 

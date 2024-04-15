@@ -3257,7 +3257,7 @@
 - [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a better way to manage your Jellyfin users, now in go
 - [PREngineer/nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) - A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 - [l3uddz/tqm](https://github.com/l3uddz/tqm) - CLI application to manage torrent client queues and remove torrents that meet a specific criteria
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.

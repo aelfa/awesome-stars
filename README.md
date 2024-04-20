@@ -1225,7 +1225,7 @@
 - [CoreyMSchafer/code_snippets](https://github.com/CoreyMSchafer/code_snippets) - 
 - [biplobsd/OneClickRun](https://github.com/biplobsd/OneClickRun) - Another colab notebook!
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
-- [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - Just another multi-purpose Colab Notebook
+- [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - Yet another multi-purpose Colab Notebook
 - [teticio/Deej-AI](https://github.com/teticio/Deej-AI) - Create automatic playlists by using Deep Learning to *listen* to the music.
 - [rappergi/Google_Drive](https://github.com/rappergi/Google_Drive) - 
 - [abzdel/Swing-Trading-Stock-Bot](https://github.com/abzdel/Swing-Trading-Stock-Bot) - A Python-based bot that uses the Alpaca API and swing trading principles to buy and sell securities.

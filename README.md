@@ -1895,6 +1895,7 @@
 - [jakecreps/earthshot](https://github.com/jakecreps/earthshot) - A utility that automatically takes screenshots of coordinates using Google Earth.
 - [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
 - [djdembeck/bragibooks](https://github.com/djdembeck/bragibooks) - An audiobook library cleanup and management tool built with Python and Django. Leveraging m4b-merge for audiobook standardization and editing. Ideal for enhancing audiobook library management.
+- [vyos/vyos-build](https://github.com/vyos/vyos-build) - VyOS image build scripts
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [rg9400/Trakt-Arr-Integration](https://github.com/rg9400/Trakt-Arr-Integration) - Python scripts to push data from Radarr/Sonarr into your Trakt collection
 - [rg9400/Plextrakt-Season-Integration](https://github.com/rg9400/Plextrakt-Season-Integration) - Scripts to pull season data such as titles and summaries from Trakt into Plex
@@ -2376,7 +2377,6 @@
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) - Bash function to run tasks in parallel and display pretty output as they complete.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
-- [vyos/vyos-build](https://github.com/vyos/vyos-build) - VyOS image build scripts
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
 - [cturra/docker-ntp](https://github.com/cturra/docker-ntp) - 🕒 Chrony NTP Server running in a Docker container (without the priviledged flag)
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server

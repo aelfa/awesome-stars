@@ -2055,7 +2055,7 @@
 - [atrpm/emby_gdrive_autoscan](https://github.com/atrpm/emby_gdrive_autoscan) - 
 - [titooo7/plex_emby_jellyfin_autoscan](https://github.com/titooo7/plex_emby_jellyfin_autoscan) - A very basic fork of plex_autoscan created to make it compatible with Jellyfin and Emby. Useful if you host your files in google drive
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [Sleepingpirates/Invitarr](https://github.com/Sleepingpirates/Invitarr) - Plex Discord Bot to invite a user to a plex server
+- [faizyy01/Invitarr](https://github.com/faizyy01/Invitarr) - Plex Discord Bot to invite a user to a plex server
 - [Max-Sum/mergerfs-tools](https://github.com/Max-Sum/mergerfs-tools) - Optional tools to help manage data in a mergerfs pool
 - [l3uddz/plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports. Will only scan the folder that has been imported, instead of the whole library section.
 - [xyou365/AutoRclone](https://github.com/xyou365/AutoRclone) - AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts

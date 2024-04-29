@@ -4097,7 +4097,7 @@
 - [fionera/TeamDriveManager](https://github.com/fionera/TeamDriveManager) - Rewrite of the PHP version. Harder, Better, Faster, Stronger
 - [maximuskowalski/smount](https://github.com/maximuskowalski/smount) - A sharedrive mounter.
 - [88lex/sasync](https://github.com/88lex/sasync) - 
-- [Sleepingpirates/Invitarr](https://github.com/Sleepingpirates/Invitarr) - Plex Discord Bot to invite a user to a plex server
+- [faizyy01/Invitarr](https://github.com/faizyy01/Invitarr) - Plex Discord Bot to invite a user to a plex server
 - [Max-Sum/mergerfs-tools](https://github.com/Max-Sum/mergerfs-tools) - Optional tools to help manage data in a mergerfs pool
 - [l3uddz/plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports. Will only scan the folder that has been imported, instead of the whole library section.
 - [donwa/gclone](https://github.com/donwa/gclone) - rclone mod

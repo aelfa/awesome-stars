@@ -476,7 +476,7 @@
 - [linuxserver/docker-papermerge](https://github.com/linuxserver/docker-papermerge) - 
 - [ms-jpq/kde-in-docker](https://github.com/ms-jpq/kde-in-docker) - So you can run KDE inside a browser
 - [linuxserver/docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt) - DEPRECATED: Please use linuxserver/swag instead
-- [elmerfdz/docker-traktarr](https://github.com/elmerfdz/docker-traktarr) - Traktarr image with auto-update, Multiarch & PUID/PGID support
+- [elmerfds/docker-traktarr](https://github.com/elmerfds/docker-traktarr) - Traktarr image with auto-update, Multiarch & PUID/PGID support
 - [linuxserver/docker-muximux](https://github.com/linuxserver/docker-muximux) - 
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
 
@@ -557,7 +557,7 @@
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [DRuggeri/nut_exporter](https://github.com/DRuggeri/nut_exporter) - Network UPS Tools Prometheus Exporter
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
-- [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
+- [Permify/permify](https://github.com/Permify/permify) - Open source authorization service inspired by Google Zanzibar to build fine-grained and scalable authorization systems.
 - [qdm12/tinier](https://github.com/qdm12/tinier) - Make your videos, images and audio files tinier
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
@@ -800,6 +800,7 @@
 - [l3uddz/movearr](https://github.com/l3uddz/movearr) - Simple CLI tool to perform various Radarr/Sonarr move functions.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [libdns/duckdns](https://github.com/libdns/duckdns) - DuckDNS provider implementation for libdns
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [traefik/traefik-migration-tool](https://github.com/traefik/traefik-migration-tool) - A migration tool from Traefik v1 to Traefik v2
@@ -2328,7 +2329,7 @@
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [TheRealAlexV/proxmox-vzbackup-rclone](https://github.com/TheRealAlexV/proxmox-vzbackup-rclone) - This is a vzbackup hook script that backups up your proxmox vm's, container's and pve config's to remote storage using proxmox's native vzbackup tool and rclone.
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [key-networks/ztncui-containerized](https://github.com/key-networks/ztncui-containerized) - A Docker image that contains ZeroTier One and ztncui to set up a standalone ZeroTier network controller with a web user interface in a container.
 - [key-networks/ztncui-aio](https://github.com/key-networks/ztncui-aio) - Licensed Under AGPL v3
 - [docker-library/docker](https://github.com/docker-library/docker) - Docker Official Image packaging for Docker
@@ -2664,7 +2665,6 @@
 - [friederbluemle/react-native-fast-image](https://github.com/friederbluemle/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish

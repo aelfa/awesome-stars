@@ -1035,7 +1035,7 @@
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [WebTools-NG/WebTools-NG](https://github.com/WebTools-NG/WebTools-NG) - WebTools Next Generation for Plex
 - [etcet/HNES](https://github.com/etcet/HNES) - Hacker News Extension Suite
-- [nathan-149/hover-paywalls-browser-extension](https://github.com/nathan-149/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads.
+- [nang-dev/hover-paywalls-browser-extension](https://github.com/nang-dev/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads.
 - [schomery/popup-blocker](https://github.com/schomery/popup-blocker) - A reliable popup blocker with history
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [UnicornTranscoder/UnicornFFMPEG](https://github.com/UnicornTranscoder/UnicornFFMPEG) - Fake Plex Transcoder to get the arguments for FFMPEG

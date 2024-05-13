@@ -3473,7 +3473,7 @@
 - [MrBruz/Plex-Server-Hoover](https://github.com/MrBruz/Plex-Server-Hoover) - 
 - [google/farmhash](https://github.com/google/farmhash) - Automatically exported from code.google.com/p/farmhash
 - [jenssegers/captain](https://github.com/jenssegers/captain) - ⚓️ Easily start and stop docker compose projects
-- [nathan-149/hover-paywalls-browser-extension](https://github.com/nathan-149/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads.
+- [nang-dev/hover-paywalls-browser-extension](https://github.com/nang-dev/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads.
 - [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [schomery/popup-blocker](https://github.com/schomery/popup-blocker) - A reliable popup blocker with history
 - [shoobyban/sshman](https://github.com/shoobyban/sshman) - SSH Manager - manage users through authorized_keys files

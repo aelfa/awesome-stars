@@ -139,7 +139,7 @@
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, explo
 - [bitly/simplehttp](https://github.com/bitly/simplehttp) - a family of libraries and daemons for building scalable web infrastructure
-- [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
+- [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [basil00/reqrypt](https://github.com/basil00/reqrypt) - A censorship circumvention tool
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [shellinabox/shellinabox](https://github.com/shellinabox/shellinabox) - Official-ish Fork of Shell In A Box
@@ -476,7 +476,6 @@
 - [linuxserver/docker-papermerge](https://github.com/linuxserver/docker-papermerge) - 
 - [ms-jpq/kde-in-docker](https://github.com/ms-jpq/kde-in-docker) - So you can run KDE inside a browser
 - [linuxserver/docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt) - DEPRECATED: Please use linuxserver/swag instead
-- [elmerfds/docker-traktarr](https://github.com/elmerfds/docker-traktarr) - Traktarr image with auto-update, Multiarch & PUID/PGID support
 - [linuxserver/docker-muximux](https://github.com/linuxserver/docker-muximux) - 
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
 

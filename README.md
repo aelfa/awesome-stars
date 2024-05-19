@@ -2516,7 +2516,7 @@
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
-- [kean/Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms
+- [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
 - [Ylianst/MeshCentralRouterMacOS](https://github.com/Ylianst/MeshCentralRouterMacOS) - MacOS tool that performs TCP port mapping thru the MeshCentral server
 - [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
 - [friederbluemle/CoronaTracker](https://github.com/friederbluemle/CoronaTracker) - Coronavirus tracker app for iOS & macOS with maps & charts

@@ -3382,7 +3382,7 @@
 - [kboghe/NordVPN-switcher](https://github.com/kboghe/NordVPN-switcher) - Rotate between different NordVPN servers with ease. Works both on Linux and Windows without any required changes to your code!
 - [jerheij/docker-spotweb](https://github.com/jerheij/docker-spotweb) - Alpine based Docker Spotweb image
 - [jgeusebroek/docker-spotweb](https://github.com/jgeusebroek/docker-spotweb) - A docker image running ubuntu/20.04 Linux and Spotweb
-- [Kometa-Team/Default-Images](https://github.com/Kometa-Team/Default-Images) - Images for Plex Meta Managers default collections
+- [Kometa-Team/Default-Images](https://github.com/Kometa-Team/Default-Images) - Images for Kometa default collections
 - [darkweak/souin](https://github.com/darkweak/souin) - An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrun
 - [Paxxs/traefik-get-real-ip](https://github.com/Paxxs/traefik-get-real-ip) - traefik get the real IP from the X-Forwarded-For or CDN specified header field.
 - [WinSSHTerm/WSL_Starter](https://github.com/WinSSHTerm/WSL_Starter) - 
@@ -3868,7 +3868,7 @@
 - [backuppc/backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 - [l3uddz/wantarr](https://github.com/l3uddz/wantarr) - CLI Tool to find wanted media for the *arr suite
 - [JakeWharton/plex-orphaned-files](https://github.com/JakeWharton/plex-orphaned-files) - Find files in your Plex libraries which are not indexed
-- [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Plex Meta Manager
+- [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Kometa
 - [l3uddz/plex_dupefinder](https://github.com/l3uddz/plex_dupefinder) - Find and delete duplicate files in Plex
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server

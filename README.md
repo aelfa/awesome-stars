@@ -428,6 +428,7 @@
 - [youegraillot/lidarr-on-steroids](https://github.com/youegraillot/lidarr-on-steroids) - Lidarr with some muscles thanks to deemix
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [tiredofit/docker-mariadb](https://github.com/tiredofit/docker-mariadb) - Dockerized database server with integrated monitoring
+- [onedr0p/containers](https://github.com/onedr0p/containers) - My collection of container images
 - [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [tiredofit/docker-alpine](https://github.com/tiredofit/docker-alpine) - Docker Alpine Linux Base Images
 - [mikenye/docker-plex_dupefinder](https://github.com/mikenye/docker-plex_dupefinder) - Multi-arch docker image for l3uddz/plex_dupefinder (amd64, arm/v7, arm64)
@@ -2240,7 +2241,6 @@
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [spherex-dev/docker-backup-volume](https://github.com/spherex-dev/docker-backup-volume) - Tooling to backup docker volumes
 - [ibracorp/templates](https://github.com/ibracorp/templates) - A selection of docker compose files that follow our series of YouTube videos
-- [onedr0p/containers](https://github.com/onedr0p/containers) - My collection of container images
 - [newsnowlabs/docker-ingress-routing-daemon](https://github.com/newsnowlabs/docker-ingress-routing-daemon) - Docker swarm daemon that modifies ingress mesh routing to expose true client IPs to service containers
 - [sualko/bbb-optimize](https://github.com/sualko/bbb-optimize) - Better audio quality, increase recording processing speed, dynamic video profile, pagination, fix 1007/1020 errors and use apply-config.sh to manage your customizations are some key techniques for you
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD

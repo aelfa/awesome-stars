@@ -2591,7 +2591,7 @@
 - [Dusk-Labs/dim-mobile](https://github.com/Dusk-Labs/dim-mobile) - Android and ios apps for dim.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
-- [R-Rajaneesh/Mr.BookMark](https://github.com/R-Rajaneesh/Mr.BookMark) - Book Marks your message to your Dm's
+- [r-rajaneesh/Mr.BookMark](https://github.com/r-rajaneesh/Mr.BookMark) - Book Marks your message to your Dm's
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies

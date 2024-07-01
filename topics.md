@@ -650,7 +650,7 @@
 - [wick3dr0se/sysfetch](https://github.com/wick3dr0se/sysfetch) - A super tiny system information fetch script written in BASH
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-- [methatronc/checker](https://github.com/methatronc/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
+- [b4too/checker](https://github.com/b4too/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
@@ -1122,7 +1122,7 @@
 - [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [darkalfx/requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for 
-- [methatronc/checker](https://github.com/methatronc/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
+- [b4too/checker](https://github.com/b4too/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
 - [projetssd/ssdv2](https://github.com/projetssd/ssdv2) - Script Seedbox Docker - local ou rclone avec sécurité Oauth, Authelia, Cloudlfare, Radarr, Sonarr, Plex ....
 - [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
 - [kiranshila/Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord
@@ -1274,7 +1274,7 @@
 - [fredliang44/derper-docker](https://github.com/fredliang44/derper-docker) - tailscale‘s selfhosted derp-server docker image
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
-- [methatronc/checker](https://github.com/methatronc/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
+- [b4too/checker](https://github.com/b4too/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [projetssd/ssdv2](https://github.com/projetssd/ssdv2) - Script Seedbox Docker - local ou rclone avec sécurité Oauth, Authelia, Cloudlfare, Radarr, Sonarr, Plex ....
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
@@ -3364,7 +3364,7 @@
 - [T3los/mRemoteNGOpenVPN](https://github.com/T3los/mRemoteNGOpenVPN) - 
 - [realslacker/PSmRemoteNG](https://github.com/realslacker/PSmRemoteNG) - A module to create mRemoteNG connection files from PowerShell. You can install this module from the PSGallery!
 - [mbruel/ngPost](https://github.com/mbruel/ngPost) - Command Line (or minimalist GUI) usenet poster for binaries developped in C++/QT designed to be as fast as possible and offer all the main features to post data easily and safely. Releases for Linux, 
-- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
+- [muleyo/VideoAdBlockForTwitch](https://github.com/muleyo/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [ayufan/pve-helpers](https://github.com/ayufan/pve-helpers) - A set of Proxmox VE scripts that aids with suspend/resume and cpu pinning
 - [linuxserver/docker-doublecommander](https://github.com/linuxserver/docker-doublecommander) - 
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code

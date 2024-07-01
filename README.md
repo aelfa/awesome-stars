@@ -1018,7 +1018,7 @@
 - [St3ph-fr/my-apps-script-utils](https://github.com/St3ph-fr/my-apps-script-utils) - Some code to reuse for developping in Apps Script
 - [chocolateboy/userscripts](https://github.com/chocolateboy/userscripts) - Userscripts for Greasemonkey, Tampermonkey etc.
 - [MsGsuite/Shared-Drives-Creator-Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - 
-- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
+- [muleyo/VideoAdBlockForTwitch](https://github.com/muleyo/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [brettpetch/nightwalker](https://github.com/brettpetch/nightwalker) - A dark but not black qBittorrent WebUI
 - [NNTmux/newznab-tmux](https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer
 - [SamVerschueren/listr](https://github.com/SamVerschueren/listr) - Terminal task list
@@ -2337,7 +2337,7 @@
 - [docker-library/docker](https://github.com/docker-library/docker) - Docker Official Image packaging for Docker
 - [Botspot/cloudbuddy](https://github.com/Botspot/cloudbuddy) - CloudBuddy is the ultimate wizard for cloud storage. It uses rclone to connect to your cloud drives, download from them, upload to them, mount them to your file manager, and more. In addition, CloudBu
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
-- [methatronc/checker](https://github.com/methatronc/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
+- [b4too/checker](https://github.com/b4too/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
 - [projetssd/ssdv2](https://github.com/projetssd/ssdv2) - Script Seedbox Docker - local ou rclone avec sécurité Oauth, Authelia, Cloudlfare, Radarr, Sonarr, Plex ....
 - [standardnotes/self-hosted](https://github.com/standardnotes/self-hosted) - [Legacy] Self-host your own Standard Notes server for end-to-end encrypted notes and files
 - [Visorask/sarotate](https://github.com/Visorask/sarotate) - For rotating Google service accounts.

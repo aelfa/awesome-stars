@@ -3076,6 +3076,8 @@
 
 ## others 
 
+- [iPromKnight/zilean](https://github.com/iPromKnight/zilean) - 
+- [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [SenexCrenshaw/StreamMaster](https://github.com/SenexCrenshaw/StreamMaster) - 

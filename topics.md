@@ -3086,7 +3086,7 @@
 - [knightcrawler-stremio/knightcrawler](https://github.com/knightcrawler-stremio/knightcrawler) - A selfhosted Stremio addon
 - [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [I-am-PUID-0/pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of itsToggle's, yowmamasita's, and ncw's projects -- plex_debrid, zurg, and rclone
-- [rivenmedia/riven](https://github.com/rivenmedia/riven) - Plex Debrid Rewrite (WIP)
+- [rivenmedia/riven](https://github.com/rivenmedia/riven) - Handle your Media Library with ease!
 - [the-rarbg/yaps](https://github.com/the-rarbg/yaps) - Y.A.P.S [Yet Another Piracy Site]
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.

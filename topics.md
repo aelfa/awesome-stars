@@ -3076,6 +3076,7 @@
 
 ## others 
 
+- [debridmediamanager/awesome-debrid](https://github.com/debridmediamanager/awesome-debrid) - 🆓 Download and stream in an instant
 - [iPromKnight/zilean](https://github.com/iPromKnight/zilean) - 
 - [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor

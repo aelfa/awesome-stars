@@ -1177,7 +1177,6 @@
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-- [sbycrosz/react-native-credit-card-input](https://github.com/sbycrosz/react-native-credit-card-input) - Easy, cross-platform credit-card input for your React Native Project! Start accepting payment 💰 in your app today!
 - [tuhinpal/WhatsBot](https://github.com/tuhinpal/WhatsBot) - Modular Userbot for Whatsapp. Supports MultiDevice authentication on non persistent server.
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability
 - [autodl-community/autodl-rutorrent](https://github.com/autodl-community/autodl-rutorrent) - ruTorrent plugin for autodl-community fork of autodl-irssi
@@ -2663,6 +2662,7 @@
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
 - [friederbluemle/react-native-fast-image](https://github.com/friederbluemle/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+- [sbycrosz/react-native-credit-card-input](https://github.com/sbycrosz/react-native-credit-card-input) - Easy, cross-platform credit-card input for your React Native Project! Start accepting payment 💰 in your app today!
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.

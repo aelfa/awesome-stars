@@ -3293,7 +3293,7 @@
 - [grahampugh/jamf-upload](https://github.com/grahampugh/jamf-upload) - Scripts for uploading packages to Jamf Cloud
 - [MarkDoggen/borg-rclone](https://github.com/MarkDoggen/borg-rclone) - 
 - [BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) - This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision
-- [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a better way to manage your Jellyfin users, now in go
+- [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a bit-of-everything user managament app for Jellyfin
 - [PREngineer/nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) - A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
@@ -4076,7 +4076,7 @@
 - [l3uddz/timearr](https://github.com/l3uddz/timearr) - Custom Import Script for Sonarr/Radarr/Lidarr to reset the mod-time of imported files.
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [anonaddy/browser-extension](https://github.com/anonaddy/browser-extension) - The source code for the browser extension
-- [anonaddy/anonaddy.com](https://github.com/anonaddy/anonaddy.com) - The source code for anonaddy.com.
+- [anonaddy/addy.io](https://github.com/anonaddy/addy.io) - The source code for addy.io landing page
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [angristan/nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) - Compile NGINX from source with custom modules and patches on Debian and Ubuntu
 - [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy

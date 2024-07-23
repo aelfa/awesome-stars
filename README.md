@@ -123,7 +123,7 @@
 
 ## Blade 
 
-- [anonaddy/anonaddy.com](https://github.com/anonaddy/anonaddy.com) - The source code for anonaddy.com.
+- [anonaddy/addy.io](https://github.com/anonaddy/addy.io) - The source code for addy.io landing page
 
 ## C 
 
@@ -583,7 +583,7 @@
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
 - [omegion/ssh-manager](https://github.com/omegion/ssh-manager) - SSH Key Manager for 1Password, Bitwarden and AWS S3.
-- [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a better way to manage your Jellyfin users, now in go
+- [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a bit-of-everything user managament app for Jellyfin
 - [vieux/docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) - sshfs docker volume plugin
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter

@@ -1316,7 +1316,7 @@
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [dreulavelle/Prowlarr-Indexers](https://github.com/dreulavelle/Prowlarr-Indexers) - Prowlarr Indexers used by Cardigann
 - [LimeDrive/mesharr](https://github.com/LimeDrive/mesharr) - Mesharr Sync and harmonize Radarr, Sonarr, Readarr, and Lidarr instances for collaborative, cloud-based multi-user library management. Seamlessly mirror additions across instances, optimize Plex integ
-- [indianajson/can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns) - "Can I take over DNS?" — a list of DNS providers and how to claim (sub)domains via missing hosted zones
+- [indianajson/can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns) - "Can I take over DNS?" — a list of DNS providers and how to claim vulnerable domains.
 - [yaochih/awesome-video-stabilization](https://github.com/yaochih/awesome-video-stabilization) - A curated list of video stabilization methods
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.

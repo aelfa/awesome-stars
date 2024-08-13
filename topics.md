@@ -3076,6 +3076,7 @@
 
 ## others 
 
+- [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [debridmediamanager/awesome-debrid](https://github.com/debridmediamanager/awesome-debrid) - 🆓 Download and stream in an instant
 - [iPromKnight/zilean](https://github.com/iPromKnight/zilean) - 
@@ -5216,6 +5217,7 @@
 
 ## svelte 
 
+- [rivenmedia/riven-frontend](https://github.com/rivenmedia/riven-frontend) - Source code for Riven's frontend
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.

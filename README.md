@@ -1673,6 +1673,7 @@
 
 ## Python 
 
+- [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
 - [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -2644,7 +2645,7 @@
 - [notrab/headless-dropshipping-starter](https://github.com/notrab/headless-dropshipping-starter) - Create your own dropshipping store with Next.js, Snipcart & Printful 👕
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [Chia-Network/chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) - Chia blockchain GUI in electron/react
-- [espimarisa/hibiki](https://github.com/espimarisa/hibiki) - ⚓ A Discord bot focused on accessible and informational utilities.
+- [espimarisa/hibiki](https://github.com/espimarisa/hibiki) - ⚓ A Discord app providing informational tools and utilities.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers

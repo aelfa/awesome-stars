@@ -3147,7 +3147,6 @@
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [plugsy/core](https://github.com/plugsy/core) - A simple, pluggable dashboard and status page
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-- [GabryB03/DeepNude-AI-List](https://github.com/GabryB03/DeepNude-AI-List) - The most famous and complete AI List for NSFW (Not Safe For Work) image editing, generation, in particular de-nudification of people (male & female). Advertisements are accepted!
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
 - [Z3Prover/FirewallChecker](https://github.com/Z3Prover/FirewallChecker) - A self-contained firewall checker

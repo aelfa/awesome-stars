@@ -32,6 +32,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -752,7 +753,7 @@
 - [storaged-project/udisks](https://github.com/storaged-project/udisks) - The UDisks project provides a daemon, tools and libraries to access and manipulate disks, storage devices and technologies.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 
 ## c-plus-plus 
@@ -763,8 +764,15 @@
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+
+## chatbot 
+
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) - "Is karma really that important to you? Damn bro, you need a life" - YouTube Comment
 
 ## chatgpt 
 
@@ -1050,7 +1058,7 @@
 
 ## data-visualization 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 
@@ -1059,7 +1067,7 @@
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [RealOrangeOne/docker-db-auto-backup](https://github.com/RealOrangeOne/docker-db-auto-backup) - A script to automatically back up all databases running under docker on a host
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [lukecav/awesome-wp-speed-up](https://github.com/lukecav/awesome-wp-speed-up) - Plugins and resources to speed up and optimize your WordPress site.
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -1112,7 +1120,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [geerlingguy/ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
@@ -1248,7 +1256,7 @@
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image
 - [aelfa/scripts](https://github.com/aelfa/scripts) - A bunch of useful scripts
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
@@ -1846,7 +1854,7 @@
 - [uptrace/bunrouter](https://github.com/uptrace/bunrouter) - Golang HTTP router
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
@@ -2098,7 +2106,7 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [espimarisa/hibiki](https://github.com/espimarisa/hibiki) - ⚓ A Discord app providing informational tools and utilities.
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
@@ -2440,7 +2448,7 @@
 - [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with k3s and managed by flux (gitops).
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -2578,7 +2586,7 @@
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [aelfa/scripts](https://github.com/aelfa/scripts) - A bunch of useful scripts
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [ZakKemble/RouterPi](https://github.com/ZakKemble/RouterPi) - A Compute Module 4 Router
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [chadgeary/cloudworkstation](https://github.com/chadgeary/cloudworkstation) - A linux desktop in the cloud - reachable via browser using Apache Guacamole. Deployed automatically via Terraform ( + Ansible ).
@@ -2704,7 +2712,7 @@
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
@@ -2810,7 +2818,7 @@
 
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [zyndex-drive/server](https://github.com/zyndex-drive/server) - High Performance Metadata & Media Streamer and User Authentication API made with Nodejs and Typescript
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [wil-gerard/git-connected](https://github.com/wil-gerard/git-connected) - A social networking web application to help connect the 100Devs community
 - [muhsin-k/URL-Shortner](https://github.com/muhsin-k/URL-Shortner) - Creating custom URL shortener using Nodejs
 - [polonel/trudesk](https://github.com/polonel/trudesk) - :coffee: :seedling: Trudesk is an open-source help desk/ticketing solution.
@@ -2835,7 +2843,7 @@
 - [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [nozel-org/linux-serverbot](https://github.com/nozel-org/linux-serverbot) - Lightweight server monitoring and alert tool for Linux
@@ -2888,7 +2896,7 @@
 - [RealOrangeOne/docker-db-auto-backup](https://github.com/RealOrangeOne/docker-db-auto-backup) - A script to automatically back up all databases running under docker on a host
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
@@ -4309,7 +4317,7 @@
 - [RealOrangeOne/docker-db-auto-backup](https://github.com/RealOrangeOne/docker-db-auto-backup) - A script to automatically back up all databases running under docker on a host
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -4427,7 +4435,7 @@
 - [officelifehq/officelife](https://github.com/officelifehq/officelife) - OfficeLife is the first EmpOps platform.  It manages everything employees do in a company. From projects to holidays to 1:1s to teams.
 - [nafiesl/free-pmo](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel.
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 
@@ -4644,7 +4652,7 @@
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [ZakKemble/RouterPi](https://github.com/ZakKemble/RouterPi) - A Compute Module 4 Router
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Highly optimized open source ambient lighting implementation based on modern digital video and audio stream analysis for Windows, macOS and Linux (x86 and Raspberry Pi / ARM).

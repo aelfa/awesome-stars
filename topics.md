@@ -3114,7 +3114,7 @@
 
 ## others 
 
-- [sirrobot01/debrid-blackhole](https://github.com/sirrobot01/debrid-blackhole) - A Debrid Torrent Blackhole
+- [sirrobot01/debrid-blackhole](https://github.com/sirrobot01/debrid-blackhole) - A Debrid Torrent Blackhole with Proxy Support
 - [debridmediamanager/hashlists](https://github.com/debridmediamanager/hashlists) - Share your media library or mirror others
 - [Waujito/youtubeUnblock](https://github.com/Waujito/youtubeUnblock) - Bypasses Deep Packet Inspection (DPI) systems thay rely on SNI
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge

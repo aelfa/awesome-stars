@@ -1341,7 +1341,6 @@
 - [captn3m0/plaintext-everything](https://github.com/captn3m0/plaintext-everything) - 📝 A list of tools and articles helpful for keeping everything under plaintext.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [repo-sync/repo-sync](https://github.com/repo-sync/repo-sync) - 🔄 Keep a pair of GitHub repos in sync
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
@@ -1628,7 +1627,7 @@
 - [scottbreenmsft/scripts](https://github.com/scottbreenmsft/scripts) - A collection of scripts for Microsoft Endpoint Manager (Intune) or related technologies (Windows, Azure AD, Graph).
 - [amidaware/community-scripts](https://github.com/amidaware/community-scripts) - A curated list of powershell, python, and batch scripts for use in TacticalRMM or anywhere!
 - [EvotecIT/PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell sample scripts (.ps1) for every system!
 - [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [ThomasKur/M365Documentation](https://github.com/ThomasKur/M365Documentation) - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.

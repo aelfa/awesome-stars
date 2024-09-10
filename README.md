@@ -1259,7 +1259,7 @@
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [matrix-org/matrix-android-sdk2](https://github.com/matrix-org/matrix-android-sdk2) - Matrix SDK for Android, extracted from the Element Android application
 - [grote/Transportr](https://github.com/grote/Transportr) - Free Public Transport Assistant without Ads or Tracking
-- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [KaustubhPatange/Moviesy](https://github.com/KaustubhPatange/Moviesy) - A beautiful client for YTS website which also provides built-in torrent & subtitles downloader with Chromecast support.
 - [Ylianst/MeshCentralAndroidAgent](https://github.com/Ylianst/MeshCentralAndroidAgent) - MeshCentral Agent for Android Device
@@ -1804,7 +1804,7 @@
 - [NightfallGT/NordVPN-Checker](https://github.com/NightfallGT/NordVPN-Checker) - Fast NordVPN Checker with threading
 - [Alvixeon/NordVPN-checker](https://github.com/Alvixeon/NordVPN-checker) - A selenium driven tool to check if you can login to a given account
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [whatdaybob/sonarr_youtubedl](https://github.com/whatdaybob/sonarr_youtubedl) - A Sonarr companion script to allow the automatic downloading of web series normally not available for Sonarr to search for. Using Youtube-DL it allows you to download your webseries from the list of s
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
@@ -2104,7 +2104,6 @@
 
 ## Rust 
 
-- [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎧 A Spotify music and playlist downloader working with free Spotify accounts written in Rust
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [torrust/torrust-tracker](https://github.com/torrust/torrust-tracker) - A modern and feature-rich (private) BitTorrent tracker.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)

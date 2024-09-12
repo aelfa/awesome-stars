@@ -1819,7 +1819,7 @@
 - [mlsmithjr/plex-watchlist-migration](https://github.com/mlsmithjr/plex-watchlist-migration) - Script to migrate your "watch" list of media to a new Plex server.
 - [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) - check links in web documents or full websites
 - [frenck/python-adguardhome](https://github.com/frenck/python-adguardhome) - Asynchronous Python client for the AdGuard Home API
-- [globaleaks/GLOBALEAKS](https://github.com/globaleaks/GLOBALEAKS) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
+- [globaleaks/GLOBALEAKS](https://github.com/globaleaks/GLOBALEAKS) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
 - [GOATS2K/overpass](https://github.com/GOATS2K/overpass) - A self-hosted live video streaming platform with Discord authentication, auto-recording and more!
 - [radssh/radssh](https://github.com/radssh/radssh) - RadSSH is a Python utility/toolkit that facilitates multiple concurrent SSH interactive command execution shells, as well as many other parallel execution tricks.
@@ -2544,7 +2544,7 @@
 
 ## TypeScript 
 
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [Disane87/docudigger](https://github.com/Disane87/docudigger) - Website scraper for getting invoices automagically as pdf (useful for taxes or DMS)

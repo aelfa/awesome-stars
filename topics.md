@@ -391,7 +391,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [xnbox/DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) - Simple self-hosted music streaming server
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
@@ -883,7 +883,7 @@
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [KuroLabs/Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
@@ -1057,7 +1057,7 @@
 ## data-visualization 
 
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 
 ## database 
@@ -1068,7 +1068,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [lukecav/awesome-wp-speed-up](https://github.com/lukecav/awesome-wp-speed-up) - Plugins and resources to speed up and optimize your WordPress site.
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [smallbets/userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [database-of-embassies/database-of-embassies](https://github.com/database-of-embassies/database-of-embassies) - Database of embassies and consulates. Download as CSV, no registration, public domain. Powered by Wikidata.
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
@@ -1901,7 +1901,7 @@
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [xnbox/DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses.
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
@@ -2067,7 +2067,7 @@
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jhwohlgemuth/zsh-pentest](https://github.com/jhwohlgemuth/zsh-pentest) - Aliases and functions for the lazy penetration tester
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [nordtheme/tmux](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme.
@@ -2351,7 +2351,7 @@
 - [Michal2SAB/video-stream-stealer](https://github.com/Michal2SAB/video-stream-stealer) - Download many .ts video stream files from a website, then create a single mp4 video file from them, in node.js.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
@@ -2912,7 +2912,7 @@
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [ibracorp/authelia](https://github.com/ibracorp/authelia) - Instructions and configuration files to deploy Authelia in Unraid OS using Docker + FreeIPA LDAP.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -2970,7 +2970,7 @@
 - [wil-gerard/git-connected](https://github.com/wil-gerard/git-connected) - A social networking web application to help connect the 100Devs community
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [lukeautry/ts-app](https://github.com/lukeautry/ts-app) - Boilerplate project for a TypeScript API (Express, tsoa) + UI (React/TSX)
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -4336,7 +4336,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [lukeautry/ts-app](https://github.com/lukeautry/ts-app) - Boilerplate project for a TypeScript API (Express, tsoa) + UI (React/TSX)
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [shanmugharajk/react-point-of-sale](https://github.com/shanmugharajk/react-point-of-sale) - A simple point of sale app built in nodejs and reactjs
@@ -5185,7 +5185,7 @@
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [bitbull-team/docker-exec-web-console](https://github.com/bitbull-team/docker-exec-web-console) - A web UI to docker exec from the browser
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [drvy/ufw-cloudflare](https://github.com/drvy/ufw-cloudflare) - Automatically whitelist Cloudflare IPs with UFW and get an easier way to delete old rules
@@ -5233,7 +5233,7 @@
 ## sql 
 
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
@@ -5250,7 +5250,7 @@
 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 
@@ -5365,7 +5365,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [pedro-hs/checkbox.sh](https://github.com/pedro-hs/checkbox.sh) - Interactive checkboxes (menu) with pagination and vim keybinds for bash
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [nordtheme/tmux](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme.
@@ -5455,7 +5455,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [lukeautry/ts-app](https://github.com/lukeautry/ts-app) - Boilerplate project for a TypeScript API (Express, tsoa) + UI (React/TSX)
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) - Simple self-hosted music streaming server
@@ -5531,7 +5531,7 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [PlexRipper/PlexRipper](https://github.com/PlexRipper/PlexRipper) - The best cross-platform Plex media downloader there is! In active development and feedback is very welcome!
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.

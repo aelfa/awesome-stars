@@ -128,7 +128,7 @@
 ## C 
 
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
-- [Waujito/youtubeUnblock](https://github.com/Waujito/youtubeUnblock) - Bypasses Deep Packet Inspection (DPI) systems thay rely on SNI
+- [Waujito/youtubeUnblock](https://github.com/Waujito/youtubeUnblock) - Bypasses Deep Packet Inspection (DPI) systems that rely on SNI
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
@@ -1629,7 +1629,7 @@
 - [scottbreenmsft/scripts](https://github.com/scottbreenmsft/scripts) - A collection of scripts for Microsoft Endpoint Manager (Intune) or related technologies (Windows, Azure AD, Graph).
 - [amidaware/community-scripts](https://github.com/amidaware/community-scripts) - A curated list of powershell, python, and batch scripts for use in TacticalRMM or anywhere!
 - [EvotecIT/PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell sample scripts (.ps1) for every system!
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell sample scripts (.ps1) for Linux, Mac OS, and Windows.
 - [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [ThomasKur/M365Documentation](https://github.com/ThomasKur/M365Documentation) - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.
@@ -2209,6 +2209,7 @@
 
 ## Shell 
 
+- [plexguide/Installer](https://github.com/plexguide/Installer) - 
 - [plexguide/Apps](https://github.com/plexguide/Apps) - 
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!

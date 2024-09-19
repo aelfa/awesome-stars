@@ -841,7 +841,7 @@
 ## HCL 
 
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
-- [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with k3s and managed by flux (gitops).
+- [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with Talos and managed by flux (gitops).
 - [chadgeary/cloudworkstation](https://github.com/chadgeary/cloudworkstation) - A linux desktop in the cloud - reachable via browser using Apache Guacamole. Deployed automatically via Terraform ( + Ansible ).
 - [chadgeary/nifi](https://github.com/chadgeary/nifi) - Deploy a secured, clustered, auto-scaling NiFi service in AWS.
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
@@ -1629,7 +1629,7 @@
 - [scottbreenmsft/scripts](https://github.com/scottbreenmsft/scripts) - A collection of scripts for Microsoft Endpoint Manager (Intune) or related technologies (Windows, Azure AD, Graph).
 - [amidaware/community-scripts](https://github.com/amidaware/community-scripts) - A curated list of powershell, python, and batch scripts for use in TacticalRMM or anywhere!
 - [EvotecIT/PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell sample scripts (.ps1) for Linux, Mac OS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [ThomasKur/M365Documentation](https://github.com/ThomasKur/M365Documentation) - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.

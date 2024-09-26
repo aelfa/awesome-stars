@@ -223,7 +223,7 @@
 - [cjmanca/plex-credits-detect](https://github.com/cjmanca/plex-credits-detect) - Augments plex's built in intro detection, additionally detecting credits.
 - [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 - [orangegrouptech/KnowMySystem](https://github.com/orangegrouptech/KnowMySystem) - A tool showing information about your system's hardware and software in one place. Useful for both end users and tech support who are trying to get more information about their/their customers' system
-- [orangegrouptech/Windows-Malware-Effects-Remediation-Tool](https://github.com/orangegrouptech/Windows-Malware-Effects-Remediation-Tool) - An open-source tool that makes recovering from malware effects - something AVs can't do - MUCH easier.
+- [orangegrouptech/Windows-Malware-Effects-Remediation-Tool](https://github.com/orangegrouptech/Windows-Malware-Effects-Remediation-Tool) - An open-source tool that makes recovering from malware effects MUCH easier.
 - [aimaat/RemoteUpdate](https://github.com/aimaat/RemoteUpdate) - Install Windows Updates remotely with the help of the famous PSWindowsUpdate module
 - [whyvra/tunnel](https://github.com/whyvra/tunnel) - The secure manager for your WireGuard clients
 - [Ombrelin/plex-rich-presence](https://github.com/Ombrelin/plex-rich-presence) - A desktop app to enable discord rich presence for your Plex Media Server Activity
@@ -2488,7 +2488,7 @@
 - [TechPerplexed/Gooby](https://github.com/TechPerplexed/Gooby) - Gooby: The ultimate infinite Plex media server using a VPS and Cloud service
 - [arakasi72/rtinst](https://github.com/arakasi72/rtinst) - seedbox installation script for Ubuntu and Debian systems
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [twistedpair/tmux-config](https://github.com/twistedpair/tmux-config) - Defend your .tmux.conf at all costs
 - [hthighway/scripts](https://github.com/hthighway/scripts) - various scripts and tool
 - [sabrsorensen/alpine-plex_autoscan](https://github.com/sabrsorensen/alpine-plex_autoscan) - Alpine Linux-based plex_autoscan image.

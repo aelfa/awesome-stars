@@ -1428,7 +1428,7 @@
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
@@ -2016,12 +2016,14 @@
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [ryanpcmcquen/linuxTweaks](https://github.com/ryanpcmcquen/linuxTweaks) - :penguin: A whole host of Linux tricks I have picked up over the years, in plain text. Some of them are even useful.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [linuxserver/docker-doublecommander](https://github.com/linuxserver/docker-doublecommander) - 
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
+- [linuxserver/docker-qdirstat](https://github.com/linuxserver/docker-qdirstat) - 
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
@@ -2128,6 +2130,7 @@
 - [monogon-dev/NetMeta](https://github.com/monogon-dev/NetMeta) - NetMeta is a scalable network observability toolkit optimized for performance.
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) - 
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
@@ -2153,6 +2156,7 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
@@ -3459,7 +3463,6 @@
 - [mbruel/ngPost](https://github.com/mbruel/ngPost) - Command Line (or minimalist GUI) usenet poster for binaries developped in C++/QT designed to be as fast as possible and offer all the main features to post data easily and safely. Releases for Linux, 
 - [muleyo/VideoAdBlockForTwitch](https://github.com/muleyo/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [ayufan/pve-helpers](https://github.com/ayufan/pve-helpers) - A set of Proxmox VE scripts that aids with suspend/resume and cpu pinning
-- [linuxserver/docker-doublecommander](https://github.com/linuxserver/docker-doublecommander) - 
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) - 
 - [brettpetch/nightwalker](https://github.com/brettpetch/nightwalker) - A dark but not black qBittorrent WebUI
@@ -3527,7 +3530,6 @@
 - [Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates) - Template file for new portainer setup
 - [dogbutcat/gclone](https://github.com/dogbutcat/gclone) - fork from https://github.com/donwa/gclone
 - [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享
-- [linuxserver/docker-qdirstat](https://github.com/linuxserver/docker-qdirstat) - 
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [filewatcher/filewatcher](https://github.com/filewatcher/filewatcher) - Ruby gem to perform actions when files are changed. No config files. Pure Ruby implementation and minimalistic Ruby API.
 - [nicjansma/plex-poster-optimizer](https://github.com/nicjansma/plex-poster-optimizer) - Ensures Plex Posters are high-quality, e.g. above a minimum height/width threshold.
@@ -4046,7 +4048,6 @@
 - [AzSiAz/Odin](https://github.com/AzSiAz/Odin) - Like Plex but for Books
 - [jsaddiction/TrailerTech](https://github.com/jsaddiction/TrailerTech) - Download Trailers for you movies
 - [selfhosters/selfhosters.net](https://github.com/selfhosters/selfhosters.net) - 
-- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) - 
 - [threema-ch/threema-android](https://github.com/threema-ch/threema-android) - Threema App for Android.
 - [l3uddz/movearr](https://github.com/l3uddz/movearr) - Simple CLI tool to perform various Radarr/Sonarr move functions.
 - [LearnLinuxTV/personal_ansible_desktop_configs](https://github.com/LearnLinuxTV/personal_ansible_desktop_configs) - 
@@ -4177,7 +4178,6 @@
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [RasPlex/OpenPHT](https://github.com/RasPlex/OpenPHT) - OpenPHT is a community driven fork of Plex Home Theater
 - [linuxserver/docker-muximux](https://github.com/linuxserver/docker-muximux) - 
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
 - [twistedpair/tmux-config](https://github.com/twistedpair/tmux-config) - Defend your .tmux.conf at all costs
 - [pbrink231/plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) - A python script for creating playlists and collections for all server users from sources like IMDB and Trakt
 - [hthighway/scripts](https://github.com/hthighway/scripts) - various scripts and tool
@@ -5520,7 +5520,7 @@
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [arakasi72/rtinst](https://github.com/arakasi72/rtinst) - seedbox installation script for Ubuntu and Debian systems
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
 
 ## vagrant 

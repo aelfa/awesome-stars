@@ -1061,6 +1061,7 @@
 - [Mika-/torrent-control](https://github.com/Mika-/torrent-control) - Firefox extension for adding torrents to remote clients.
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 - [FauxTuner/faux-tuner](https://github.com/FauxTuner/faux-tuner) - A virtual tuner card and EPG guide for online live TV sources like PlutoTV and Locast. Designed to work with Plex Media Server's Live TV / DVR feature.
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
@@ -1401,7 +1402,6 @@
 - [Shayne55434/kometa](https://github.com/Shayne55434/kometa) - My setup for Plex Meta Manager
 - [stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) - Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-- [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 - [scriptzteam/WinRAR-Unlimited](https://github.com/scriptzteam/WinRAR-Unlimited) - Unlimited license, owned WinRAR
 - [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues) - This is the community-maintained issue tracker for uBlock Origin
 - [HostingA/GigaBox-Frontend](https://github.com/HostingA/GigaBox-Frontend) - GigaRapid - GigaBox Frontend Site

@@ -2207,6 +2207,7 @@
 
 ## Shell 
 
+- [kpma1985/ansible_proxmox_hetzner](https://github.com/kpma1985/ansible_proxmox_hetzner) - Setup Proxmox and OPNsense on Hetzner Bare Metal via Ansible
 - [plexguide/Installer](https://github.com/plexguide/Installer) - 
 - [plexguide/Apps](https://github.com/plexguide/Apps) - 
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables

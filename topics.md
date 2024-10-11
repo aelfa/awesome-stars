@@ -3062,6 +3062,7 @@
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [omegion/ssh-manager](https://github.com/omegion/ssh-manager) - SSH Key Manager for 1Password, Bitwarden and AWS S3.
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard DNS filter
 - [globaleaks/whistleblowing-software](https://github.com/globaleaks/whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
@@ -3147,6 +3148,7 @@
 
 ## others 
 
+- [kpma1985/ansible_proxmox_hetzner](https://github.com/kpma1985/ansible_proxmox_hetzner) - Setup Proxmox and OPNsense on Hetzner Bare Metal via Ansible
 - [plexguide/Installer](https://github.com/plexguide/Installer) - 
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [waveform80/tvrip](https://github.com/waveform80/tvrip) - A HandBrake wrapper which eases conversion of TV series

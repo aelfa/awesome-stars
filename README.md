@@ -685,7 +685,7 @@
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
 - [habitualdev/Pixy](https://github.com/habitualdev/Pixy) - PXE server in a small package.
 - [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
-- [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [tellytv/telly](https://github.com/tellytv/telly) - An IPTV proxy
 - [hashicorp/damon](https://github.com/hashicorp/damon) - A terminal UI (TUI) for HashiCorp Nomad
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
@@ -917,7 +917,7 @@
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [billthefarmer/currency](https://github.com/billthefarmer/currency) - Android currency conversion
 - [xnbox/DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses.
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [SmartPack/SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - Source code of SmartPack-Kernel Manager, the Ultimate Tool to Manage your Kernel
 - [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) - An application using the power of Magisk to debloat unwanted system apps!
 - [SmartPack/BusyBox-Installer](https://github.com/SmartPack/BusyBox-Installer) - A one-click BusyBox installation utility for Android

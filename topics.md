@@ -3678,7 +3678,7 @@
 - [ms-jpq/simple-traefik-identity](https://github.com/ms-jpq/simple-traefik-identity) - Simple & Configurable -- single sign-on auth, for Traefik.
 - [syncarr/syncarr](https://github.com/syncarr/syncarr) - one/two way sync of Radarr, Sonarr, or Lidarr instances
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
-- [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.

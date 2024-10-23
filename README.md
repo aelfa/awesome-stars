@@ -1863,7 +1863,7 @@
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
 - [syncarr/syncarr](https://github.com/syncarr/syncarr) - one/two way sync of Radarr, Sonarr, or Lidarr instances
-- [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [jbbriel/cloudflare-py](https://github.com/jbbriel/cloudflare-py) - Script to enable and disable pools in CF Load Balancers
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording

@@ -247,6 +247,7 @@
 
 ## ai 
 
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [rush86999/atomic](https://github.com/rush86999/atomic) - Chat with and teach your calendar to solve your scheduling & time problems
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -345,7 +346,7 @@
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
@@ -426,7 +427,7 @@
 
 ## atom 
 
-- [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS]
+- [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS].  Supports IMAP/SMTP, JMAP and soon EWS
 
 ## automation 
 
@@ -690,6 +691,7 @@
 
 ## bitcoin 
 
+- [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [TheFourGreatErrors/alpha-rptr](https://github.com/TheFourGreatErrors/alpha-rptr) - A trading bot for automated algorithmic trading on Binance Futures, Bybit, BitMEX and FTX written in python.
@@ -701,6 +703,7 @@
 
 ## blockchain 
 
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -710,7 +713,7 @@
 ## bootstrap 
 
 - [Chewbaka69/PlexShare](https://github.com/Chewbaka69/PlexShare) - Web Application standalone that provide management of local users, many PlexServer and it's libraries.
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [LavaLite/cms](https://github.com/LavaLite/cms) - Multilingual PHP CMS built with Laravel  and bootstrap
 - [Loopple/loopple](https://github.com/Loopple/loopple) - Template Builder for Modern Websites & Dashboards
 - [StartBootstrap/startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
@@ -965,6 +968,7 @@
 
 ## cryptocurrency 
 
+- [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [TheFourGreatErrors/alpha-rptr](https://github.com/TheFourGreatErrors/alpha-rptr) - A trading bot for automated algorithmic trading on Binance Futures, Bybit, BitMEX and FTX written in python.
@@ -1209,7 +1213,7 @@
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
 - [whoopsmonitor/whoopsmonitor](https://github.com/whoopsmonitor/whoopsmonitor) - A monitoring tool that gives you clarity over your application landscape.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [etherai/selfhosted-gateway](https://github.com/etherai/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.
+- [hintjen/selfhosted-gateway](https://github.com/hintjen/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.
 - [Cesura/pastey](https://github.com/Cesura/pastey) - A minimal, self-hosted paste platform
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible.
 - [dev-sec/cis-docker-benchmark](https://github.com/dev-sec/cis-docker-benchmark) - CIS Docker Benchmark - InSpec Profile
@@ -2066,7 +2070,6 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2091,7 +2094,6 @@
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [srichter/asksonic](https://github.com/srichter/asksonic) - An Alexa skill to play music from Subsonic API compatible music servers
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
@@ -2210,7 +2212,7 @@
 ## html5 
 
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
-- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
+- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
 - [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
@@ -2342,7 +2344,7 @@
 - [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [zyndex-drive/server](https://github.com/zyndex-drive/server) - High Performance Metadata & Media Streamer and User Authentication API made with Nodejs and Typescript
-- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
+- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
@@ -2364,7 +2366,7 @@
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [TheRandomCrew/movie-discover](https://github.com/TheRandomCrew/movie-discover) - A simple web application that allows users to discover new movies and search for them.
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -2625,7 +2627,7 @@
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles of things
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -2917,7 +2919,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
-- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
+- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -2956,7 +2958,6 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -3015,7 +3016,7 @@
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) - Puts Docker Containers to sleep and wakes them back up when they're needed
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [BSoDium/Slashboard-pulsar](https://github.com/BSoDium/Slashboard-pulsar) - A simple dashboard to keep track of all your active devices/servers
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [shanmugharajk/react-point-of-sale](https://github.com/shanmugharajk/react-point-of-sale) - A simple point of sale app built in nodejs and reactjs
@@ -3066,7 +3067,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard DNS filter
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -3151,7 +3152,6 @@
 
 - [kpma1985/ansible_proxmox_hetzner](https://github.com/kpma1985/ansible_proxmox_hetzner) - Setup Proxmox and OPNsense on Hetzner Bare Metal via Ansible
 - [plexguide/Installer](https://github.com/plexguide/Installer) - 
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [waveform80/tvrip](https://github.com/waveform80/tvrip) - A HandBrake wrapper which eases conversion of TV series
 - [plexguide/Apps](https://github.com/plexguide/Apps) - 
 - [sirrobot01/debrid-blackhole](https://github.com/sirrobot01/debrid-blackhole) - A Debrid Torrent Blackhole with Proxy Support
@@ -3778,7 +3778,7 @@
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [rg9400/Trakt-Arr-Integration](https://github.com/rg9400/Trakt-Arr-Integration) - Python scripts to push data from Radarr/Sonarr into your Trakt collection
-- [rg9400/Plextrakt-Season-Integration](https://github.com/rg9400/Plextrakt-Season-Integration) - Scripts to pull season data such as titles and summaries from Trakt into Plex
+- [rg9400/Trakt-Season-Integration](https://github.com/rg9400/Trakt-Season-Integration) - Scripts to pull season data such as titles and summaries from Trakt into Plex
 - [Roxedus/lsio-docker-mods](https://github.com/Roxedus/lsio-docker-mods) - 
 - [Roxedus/docker-TS-DnsServer](https://github.com/Roxedus/docker-TS-DnsServer) - container for TechnitiumSoftware/DnsServer
 - [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
@@ -4299,7 +4299,7 @@
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Torrent Tracker Built With Laravel, Livewire and AlpineJS.
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
-- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
+- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.
@@ -4327,7 +4327,7 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [userfrosting/UserFrosting](https://github.com/userfrosting/UserFrosting) - Modern PHP user login and management framework
-- [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS]
+- [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS].  Supports IMAP/SMTP, JMAP and soon EWS
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
@@ -4410,7 +4410,7 @@
 - [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -4537,7 +4537,7 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
@@ -4722,6 +4722,7 @@
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
+- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
@@ -4739,7 +4740,7 @@
 - [lukeautry/ts-app](https://github.com/lukeautry/ts-app) - Boilerplate project for a TypeScript API (Express, tsoa) + UI (React/TSX)
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [SheetAble/SheetAble](https://github.com/SheetAble/SheetAble) - Self-hosted music sheet organizing software
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [TheRandomCrew/movie-discover](https://github.com/TheRandomCrew/movie-discover) - A simple web application that allows users to discover new movies and search for them.
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [enigma-reloaded/enigma-reloaded](https://github.com/enigma-reloaded/enigma-reloaded) - Reloaded with xsalsa20 and ready to help people escape mass surveillance.
@@ -4966,7 +4967,7 @@
 - [mehrdadrad/radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [chenjj/espoofer](https://github.com/chenjj/espoofer) - An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.🍻
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [ajinabraham/CMSScan](https://github.com/ajinabraham/CMSScan) - CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
@@ -5469,7 +5470,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [wil-gerard/git-connected](https://github.com/wil-gerard/git-connected) - A social networking web application to help connect the 100Devs community
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -5478,6 +5479,7 @@
 - [lukeautry/ts-app](https://github.com/lukeautry/ts-app) - Boilerplate project for a TypeScript API (Express, tsoa) + UI (React/TSX)
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) - Simple self-hosted music streaming server
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [shanmugharajk/react-point-of-sale](https://github.com/shanmugharajk/react-point-of-sale) - A simple point of sale app built in nodejs and reactjs
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.

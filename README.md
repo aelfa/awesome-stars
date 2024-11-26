@@ -514,7 +514,7 @@
 
 ## Go 
 
-- [sirrobot01/debrid-blackhole](https://github.com/sirrobot01/debrid-blackhole) - A Debrid Torrent Blackhole with Proxy Support
+- [sirrobot01/debrid-blackhole](https://github.com/sirrobot01/debrid-blackhole) - A Debrid Qbittorent API with Proxy Support
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [SushyDev/qdebrid](https://github.com/SushyDev/qdebrid) - 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go

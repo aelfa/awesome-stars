@@ -1650,7 +1650,7 @@
 - [lukesampson/psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 - [fscorrupt/docker-tautulli2discord](https://github.com/fscorrupt/docker-tautulli2discord) - Send Tautulli Stats via Webhook to Discord Channel
 - [Digressive/HyperV-Backup-Utility](https://github.com/Digressive/HyperV-Backup-Utility) - Flexible Hyper-V Backup Utility
-- [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
+- [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [mikeslattery/tunic](https://github.com/mikeslattery/tunic) - Install Linux from a running Windows system, without need for a live USB.
 - [jantari/ClickableMenus](https://github.com/jantari/ClickableMenus) - This PowerShell module lets you create very simple but clickable menus in the PowerShell console.
 - [SvenGroot/WslManagementPS](https://github.com/SvenGroot/WslManagementPS) - PowerShell cmdlets to manage Windows Subsystem for Linux distributions.

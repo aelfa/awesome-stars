@@ -2849,6 +2849,7 @@
 - [wil-gerard/git-connected](https://github.com/wil-gerard/git-connected) - A social networking web application to help connect the 100Devs community
 - [muhsin-k/URL-Shortner](https://github.com/muhsin-k/URL-Shortner) - Creating custom URL shortener using Nodejs
 - [polonel/trudesk](https://github.com/polonel/trudesk) - :coffee: :seedling: Trudesk is an open-source help desk/ticketing solution.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [BuchholzTim/Whitebird](https://github.com/BuchholzTim/Whitebird) - Open-Source, collaborative, digital Whiteboard
 - [nodemailer/wildduck](https://github.com/nodemailer/wildduck) - Opinionated email server
@@ -3641,7 +3642,7 @@
 - [machengim/oasis](https://github.com/machengim/oasis) - Self-hosted file server
 - [drkno/cloudmount](https://github.com/drkno/cloudmount) - Mount a remote drive for streaming. Uses a combination of rclone, plexdrive and cloudplow to get optimal streaming performance.
 - [Xarritomi/auto-replyarr](https://github.com/Xarritomi/auto-replyarr) - 
-- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
+- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [stargatedaw/stargate](https://github.com/stargatedaw/stargate) - Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor
 - [controlol/rclone-webui](https://github.com/controlol/rclone-webui) - A simple webui which displays information about your rclone transfers

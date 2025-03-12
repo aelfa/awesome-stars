@@ -863,6 +863,7 @@
 - [shen-yu/iptv-list](https://github.com/shen-yu/iptv-list) - List of IPTV channels with the option to play them directly in the browser. 📺
 - [panchalravi004/StarPlex](https://github.com/panchalravi004/StarPlex) - this is design for movie ticketing booking website with boot strap  five ,html and css
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
 - [Buildstarted/linksfordevs](https://github.com/Buildstarted/linksfordevs) - A curated list of sources of development information including c#, c++, and other dev related links.
@@ -2312,7 +2313,6 @@
 - [tronyx/HealthChecks-Linux](https://github.com/tronyx/HealthChecks-Linux) - Script to test various application reverse proxies, as well as their internal pages, and report to their respective Healthchecks.io checks
 - [PriamX/plexwho](https://github.com/PriamX/plexwho) - A Linux command-line shell script that lists current Plex media streams pulled from Tautulli's API.
 - [zvyn/pdf-decrypt](https://github.com/zvyn/pdf-decrypt) - Remove password-protection from a PDF-document permanently.
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 - [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GnuPG symmetric password manager
 - [RandomNinjaAtk/docker-amd](https://github.com/RandomNinjaAtk/docker-amd) - AMD is a Lidarr companion script to automatically download music for Lidarr

@@ -1102,6 +1102,7 @@
 - [aaronlam/textnow-autosend](https://github.com/aaronlam/textnow-autosend) - Refresh textnow phone number
 - [Kayomani/PlexExternalPlayer](https://github.com/Kayomani/PlexExternalPlayer) - Allows you to use Plex to browse your media then play the files in your favorite media player (where the files are local).
 - [hazim-j/zeroqueue](https://github.com/hazim-j/zeroqueue) - ⏰ A low-code queue management system ⏰
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [nordtheme/tmux](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme.
 - [Taisun-Docker/taisun](https://github.com/Taisun-Docker/taisun) - Application for a Docker enabled device with an emphasis on providing a web based interface for managing a single server.
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) - Redis management tool written in node.js
@@ -1675,6 +1676,8 @@
 
 ## Python 
 
+- [plexguide/Huntarr](https://github.com/plexguide/Huntarr) - A specialized utility that automates discovering missing and upgrading your TV collection.
+- [plexguide/Huntarr-Radarr](https://github.com/plexguide/Huntarr-Radarr) - A specialized utility that automates discovering missing and upgrading your movie collection.
 - [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [godver3/cli_debrid](https://github.com/godver3/cli_debrid) - 
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
@@ -2209,7 +2212,6 @@
 ## Shell 
 
 - [kpma1985/ansible_proxmox_hetzner](https://github.com/kpma1985/ansible_proxmox_hetzner) - Setup Proxmox and OPNsense on Hetzner Bare Metal via Ansible
-- [plexguide/Installer](https://github.com/plexguide/Installer) - 
 - [plexguide/Apps](https://github.com/plexguide/Apps) - 
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
@@ -2450,7 +2452,7 @@
 - [tbienias/home_cloud](https://github.com/tbienias/home_cloud) - Personal Home Cloud Container Setup.
 - [RXWatcher/docker-templates](https://github.com/RXWatcher/docker-templates) - Personal collection of docker-compose files.
 - [ZZROTDesign/docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
-- [SimpleHomelab/docker-traefik](https://github.com/SimpleHomelab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+- [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [lusky3/my-dash](https://github.com/lusky3/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
 - [88lex/sa-gen](https://github.com/88lex/sa-gen) - Create projects, service accounts, jsons and a group list in csv using gcloud sdk
 - [binhex/arch-qbittorrentvpn](https://github.com/binhex/arch-qbittorrentvpn) - Docker build script for Arch Linux base with qBittorrent, Privoxy and OpenVPN
@@ -2519,7 +2521,6 @@
 - [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
 - [machengim/oasis](https://github.com/machengim/oasis) - Self-hosted file server
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
 

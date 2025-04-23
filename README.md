@@ -846,7 +846,7 @@
 
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [debridmediamanager/hashlists](https://github.com/debridmediamanager/hashlists) - Share your media library or mirror others
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [Cesura/pastey](https://github.com/Cesura/pastey) - A minimal, self-hosted paste platform
@@ -869,7 +869,6 @@
 - [Buildstarted/linksfordevs](https://github.com/Buildstarted/linksfordevs) - A curated list of sources of development information including c#, c++, and other dev related links.
 - [ghuntley/thenftbay.org](https://github.com/ghuntley/thenftbay.org) - The NFT Bay is the galaxy's most resilient NFT BitTorrent site! You wouldn't steal a JPEG (or would you)
 - [KuroLabs/Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [vteams/open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online.
 - [nicolasdz/UNGDC](https://github.com/nicolasdz/UNGDC) - The UN General Debate Corpus (UNGDC) is a dataset of all speeches given at the high-level UN forum usually held in September of each year.
@@ -1104,6 +1103,7 @@
 - [hazim-j/zeroqueue](https://github.com/hazim-j/zeroqueue) - ⏰ A low-code queue management system ⏰
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [nordtheme/tmux](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme.
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [Taisun-Docker/taisun](https://github.com/Taisun-Docker/taisun) - Application for a Docker enabled device with an emphasis on providing a web based interface for managing a single server.
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) - Redis management tool written in node.js
 - [rahiel/archiveror](https://github.com/rahiel/archiveror) - Archiveror will help you preserve the webpages you love. 💾
@@ -1677,7 +1677,7 @@
 ## Python 
 
 - [Pukabyte/alfred](https://github.com/Pukabyte/alfred) - A symlink manager for realdebrid & arrs ecosystem
-- [plexguide/Huntarr](https://github.com/plexguide/Huntarr) - A specialized utility that automates discovering missing and upgrading your TV collection.
+- [plexguide/Huntarr-Sonarr](https://github.com/plexguide/Huntarr-Sonarr) - A specialized utility that automates discovering missing and upgrading your TV collection.
 - [plexguide/Huntarr-Radarr](https://github.com/plexguide/Huntarr-Radarr) - A specialized utility that automates discovering missing and upgrading your movie collection.
 - [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [godver3/cli_debrid](https://github.com/godver3/cli_debrid) - 
@@ -1687,7 +1687,7 @@
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
 - [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [westsurname/scripts](https://github.com/westsurname/scripts) - 
 - [I-am-PUID-0/pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of itsToggle's, yowmamasita's, and ncw's projects -- plex_debrid, zurg, and rclone
 - [rivenmedia/riven](https://github.com/rivenmedia/riven) - Handle your Media Library with ease!
@@ -2323,7 +2323,7 @@
 - [PriamX/plexwho](https://github.com/PriamX/plexwho) - A Linux command-line shell script that lists current Plex media streams pulled from Tautulli's API.
 - [zvyn/pdf-decrypt](https://github.com/zvyn/pdf-decrypt) - Remove password-protection from a PDF-document permanently.
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
-- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GnuPG symmetric secrets manager
+- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GnuPG symmetric secrets manager using Bash.
 - [RandomNinjaAtk/docker-amd](https://github.com/RandomNinjaAtk/docker-amd) - AMD is a Lidarr companion script to automatically download music for Lidarr
 - [nozel-org/linux-serverbot](https://github.com/nozel-org/linux-serverbot) - Lightweight server monitoring and alert tool for Linux
 - [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks

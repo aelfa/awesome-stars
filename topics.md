@@ -238,6 +238,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [vpn](#vpn)
@@ -5597,6 +5598,10 @@
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
+
+## ui-design 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## vagrant 
 

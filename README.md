@@ -275,7 +275,7 @@
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [ispysoftware/iSpy](https://github.com/ispysoftware/iSpy) - Open source surveillance software
-- [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin
+- [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 - [saltydk/SARotate](https://github.com/saltydk/SARotate) - 
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Ylianst/MeshCentralRouter](https://github.com/Ylianst/MeshCentralRouter) - Windows tool that performs TCP/UDP port mapping thru the MeshCentral server
@@ -395,7 +395,6 @@
 - [xtncz/Legion-Website](https://github.com/xtncz/Legion-Website) - The official website for the Discord bot Legion.
 - [ryjo1026/plex-landing-page](https://github.com/ryjo1026/plex-landing-page) - A Landing Page for a Plex Media Server
 - [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) - 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
 - [danielquinn/aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -1172,6 +1171,7 @@
 - [monitoringartist/dockbix-xxl](https://github.com/monitoringartist/dockbix-xxl) - :whale: Dockerized Zabbix - server, web, proxy, java gateway, snmpd with additional extensions
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀

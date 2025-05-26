@@ -341,7 +341,7 @@
 - [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
@@ -442,6 +442,7 @@
 
 ## automation 
 
+- [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [porla/porla](https://github.com/porla/porla) - A high performance BitTorrent client for servers and seedboxes.
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
@@ -605,7 +606,7 @@
 - [chadgeary/cloudworkstation](https://github.com/chadgeary/cloudworkstation) - A linux desktop in the cloud - reachable via browser using Apache Guacamole. Deployed automatically via Terraform ( + Ansible ).
 - [chadgeary/nifi](https://github.com/chadgeary/nifi) - Deploy a secured, clustered, auto-scaling NiFi service in AWS.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security Platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [0x4447/0x4447_product_s3_email](https://github.com/0x4447/0x4447_product_s3_email) - 📫 A serverless email server on AWS using S3 and SES
 - [hash3liZer/locohunt](https://github.com/hash3liZer/locohunt) - Search for Secrets and Other Confidential Information Through Directories and Files Based on Regex and Search Strings.
@@ -625,7 +626,7 @@
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [bank-vaults/bank-vaults](https://github.com/bank-vaults/bank-vaults) - A Vault swiss-army knife: A CLI tool to init, unseal and configure Vault (auth methods, secret engines).
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security Platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening
 - [chadgeary/cloudoffice](https://github.com/chadgeary/cloudoffice) - Cloudoffice deploys Nextcloud and OnlyOffice automatically with LetsEncrypt HTTPS certificates. Text and video instructions included. Six compatible cloud providers, or via Ubuntu/Raspberry Pi. Cloud 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 
@@ -633,7 +634,7 @@
 
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## bash 
@@ -1202,7 +1203,7 @@
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
 - [djdembeck/bragibooks](https://github.com/djdembeck/bragibooks) - An audiobook library cleanup and management tool built with Python and Django. Leveraging m4b-merge for audiobook standardization and editing. Ideal for enhancing audiobook library management.
@@ -1215,6 +1216,7 @@
 
 ## docker 
 
+- [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -1397,7 +1399,7 @@
 - [TheCatLady/dockermod-strip-tracks](https://github.com/TheCatLady/dockermod-strip-tracks) - Docker Mod to strip unwanted tracks from media files upon import to Radarr or Sonarr (compatible with linuxserver/radarr and linuxserver/sonarr) ✂️
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [vallezw/Image-Uploader](https://github.com/vallezw/Image-Uploader) - An open source, self hosted image uploader
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [bubuntux/nordvpn](https://github.com/bubuntux/nordvpn) - NordVpn Docker Client
@@ -1591,7 +1593,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 - [karlhadwen/instagram](https://github.com/karlhadwen/instagram) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Instagram Using React
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 
 ## firefox 
@@ -1634,7 +1636,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [thitlwincoder/direct_link](https://github.com/thitlwincoder/direct_link) - Direct link extractor from URL to stream and download directly
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
 
 ## flutter-apps 
@@ -1795,7 +1797,7 @@
 
 ## golang 
 
-- [sirrobot01/debrid-blackhole](https://github.com/sirrobot01/debrid-blackhole) - A Qbittorent API with Debrid Support
+- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - A Qbittorent API with Debrid Support
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover
@@ -2020,7 +2022,6 @@
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [XanderStrike/goplaxt](https://github.com/XanderStrike/goplaxt) - Scrobble Plex plays to Trakt with ease!
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
@@ -2031,7 +2032,6 @@
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
 - [zyndex-drive/server](https://github.com/zyndex-drive/server) - High Performance Metadata & Media Streamer and User Authentication API made with Nodejs and Typescript
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
-- [ewpratten/youtube_ad_blocklist](https://github.com/ewpratten/youtube_ad_blocklist) - This is an open project to maintain a list of domain names that serve YouTube ads
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [ikifar2012/remote-backup-addon](https://github.com/ikifar2012/remote-backup-addon) - Automatically create and backup HA snapshots using SCP
 - [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible) - Awesome Ansible List
@@ -2128,7 +2128,6 @@
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [espimarisa/hibiki](https://github.com/espimarisa/hibiki) - A Discord bot with polished community and developer tools.
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -2136,7 +2135,7 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) - 
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -2294,7 +2293,7 @@
 - [zzzkeil/Wireguard-DNScrypt-VPN-Server](https://github.com/zzzkeil/Wireguard-DNScrypt-VPN-Server) - Fast setup wireguard server script, with dnscrypt and adblocking, maleware blocking, more blocking if you need. Use case eg. always on vpn and adblocking on ios or android, and be more secured in unkn
 - [sickcodes/Docker-eyeOS](https://github.com/sickcodes/Docker-eyeOS) - Run iPhone (xnu-arm64) in a Docker container! Supports KVM + iOS kernel debugging (GDB)! Run xnu-qemu-arm64 in Docker! Works on ANY device.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
@@ -2399,7 +2398,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -2816,6 +2815,7 @@
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an feature-rich Open Source self-hostable Pastebin.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -2975,7 +2975,7 @@
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 
@@ -3000,6 +3000,7 @@
 
 ## node 
 
+- [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
@@ -3017,6 +3018,7 @@
 
 ## nodejs 
 
+- [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [Disane87/docudigger](https://github.com/Disane87/docudigger) - Website scraper for getting invoices automagically as pdf (useful for taxes or DMS)
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -3180,10 +3182,10 @@
 
 ## others 
 
+- [flmorg/cleanuperr](https://github.com/flmorg/cleanuperr) - cleanuperr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
 - [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru) - Companion for Stremio.
 - [Pukabyte/alfred](https://github.com/Pukabyte/alfred) - A symlink manager for realdebrid & arrs ecosystem
 - [plexguide/Huntarr-Radarr](https://github.com/plexguide/Huntarr-Radarr) - A specialized utility that automates discovering missing and upgrading your movie collection.
-- [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [godver3/cli_debrid](https://github.com/godver3/cli_debrid) - 
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
@@ -3256,7 +3258,7 @@
 - [RomansPriv/PSChatGPT](https://github.com/RomansPriv/PSChatGPT) - PowerShell into the ChatGPT OpenAI API
 - [TekWizely/run](https://github.com/TekWizely/run) - Task runner that helps you easily manage and invoke small scripts and wrappers
 - [fhanau/Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool) - Fast and effective C++ file optimizer
-- [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
+- [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -4508,6 +4510,7 @@
 ## python 
 
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
+- [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [angristan/palette](https://github.com/angristan/palette) - Extract color palette from an image with k-means and k-NN // Project for the AI/ML class at Hanyang University
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
@@ -4554,7 +4557,7 @@
 - [clinton-hall/nzbToMedia](https://github.com/clinton-hall/nzbToMedia) - Provides NZB and Torrent postprocessing To CouchPotatoServer, SickBeard/SickRage, HeadPhones, Mylar and Gamez
 - [vfosterm/NordVPN-NetworkManager-Gui](https://github.com/vfosterm/NordVPN-NetworkManager-Gui) - A NordVPN GUI client for linux using the native Network Manager
 - [Alvixeon/NordVPN-checker](https://github.com/Alvixeon/NordVPN-checker) - A selenium driven tool to check if you can login to a given account
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
@@ -4586,7 +4589,7 @@
 - [djdembeck/bragibooks](https://github.com/djdembeck/bragibooks) - An audiobook library cleanup and management tool built with Python and Django. Leveraging m4b-merge for audiobook standardization and editing. Ideal for enhancing audiobook library management.
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security Platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
@@ -4774,7 +4777,7 @@
 - [karlhadwen/instagram](https://github.com/karlhadwen/instagram) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Instagram Using React
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [vallezw/Image-Uploader](https://github.com/vallezw/Image-Uploader) - An open source, self hosted image uploader
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
@@ -4791,10 +4794,11 @@
 
 - [sikelio/plexmanager](https://github.com/sikelio/plexmanager) - A cross platform app build in React Native, based on the Plex API for managing Plex Media Servers from a phone.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [bailabs/tailpos](https://github.com/bailabs/tailpos) - TailPOS  an Offline First Open Source POS for ERPNext
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
@@ -5012,7 +5016,7 @@
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository)
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security Platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening
 - [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [projectmatris/antimalwareapp](https://github.com/projectmatris/antimalwareapp) - Anti-malware for Android using machine learning
@@ -5067,7 +5071,7 @@
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [drk1wi/Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security Platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [scito/extract_otp_secrets](https://github.com/scito/extract_otp_secrets) - Extract one time password (OTP) secrets from QR codes exported by two-factor authentication (2FA) apps such as "Google Authenticator". The exported QR codes from authentication apps can be captured by
@@ -5117,7 +5121,7 @@
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [GOATS2K/overpass](https://github.com/GOATS2K/overpass) - A self-hosted live video streaming platform with Discord authentication, auto-recording and more!
-- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
+- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an feature-rich Open Source self-hostable Pastebin.
 - [binwiederhier/pcopy](https://github.com/binwiederhier/pcopy) - pcopy is a temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
 - [getmango/Mango](https://github.com/getmango/Mango) - Mango is a self-hosted manga server and web reader
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
@@ -5157,7 +5161,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [vallezw/Image-Uploader](https://github.com/vallezw/Image-Uploader) - An open source, self hosted image uploader
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [Archmonger/Conreq](https://github.com/Archmonger/Conreq) - A content requesting platform.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
@@ -5213,7 +5217,7 @@
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 
@@ -5360,7 +5364,7 @@
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
 - [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 
 ## symfony 
 
@@ -5681,7 +5685,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
-- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
+- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an feature-rich Open Source self-hostable Pastebin.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -5735,7 +5739,7 @@
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [qeeqbox/docker-images](https://github.com/qeeqbox/docker-images) - Kali and Parrot OS docker images accessible via VNC, RDP and Web
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
@@ -5748,6 +5752,7 @@
 
 ## webapp 
 
+- [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 - [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.

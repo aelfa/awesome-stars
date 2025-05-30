@@ -3865,7 +3865,6 @@
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [ahoneybun/fresh-install-script](https://github.com/ahoneybun/fresh-install-script) - A script to help me update, upgrade and install my most used software in a quick and clean manner.
 - [lfit/itpol](https://github.com/lfit/itpol) - Useful IT policies
-- [farag2/PC-information](https://github.com/farag2/PC-information) - Get all PC information
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [vadim-hunter/Detection-Ideas-Rules](https://github.com/vadim-hunter/Detection-Ideas-Rules) - Detection Ideas & Rules repository.
 - [waldosax/PlexSports](https://github.com/waldosax/PlexSports) - 

@@ -329,7 +329,7 @@
 - [serge-rgb/milton](https://github.com/serge-rgb/milton) - An infinite-canvas paint program
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [M2Team/NanaGet](https://github.com/M2Team/NanaGet) - Lightweight file transfer utility based on aria2 and XAML Islands
-- [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - Official read only mirror of the smartmontools project SVN
+- [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - NEWS: This is now the official upstream repository of smartmontools
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [johang/vlc-bittorrent](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
@@ -963,7 +963,7 @@
 - [webfactory/ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [hash3liZer/profileo](https://github.com/hash3liZer/profileo) - 🫠 A portfolio that i literally worked on for you 👉🏻👈🏻 CI/CD Integrated.
-- [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+- [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [theahura/shoot-the-messenger](https://github.com/theahura/shoot-the-messenger) - Script to auto-unsend all messages from a facebook messenger chat
 - [eliasthecactus/Plexer](https://github.com/eliasthecactus/Plexer) - A Website which helps you to download original files from a plex share (even if you're not allowed to download)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.

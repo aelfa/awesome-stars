@@ -98,6 +98,7 @@
 - [framework](#framework)
 - [frontend](#frontend)
 - [games](#games)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -1731,6 +1732,10 @@
 - [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
 - [JoshuaVandaele/GetFreeGames](https://github.com/JoshuaVandaele/GetFreeGames) - Python script to search and find free games using Steam's API and to claim them using ASF's IPC API.
 - [SushyDev/vapor-store](https://github.com/SushyDev/vapor-store) - Vapor Store
+
+## gaming 
+
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 
 ## git 
 
@@ -4102,7 +4107,6 @@
 - [scoooooott/tinyPornManager](https://github.com/scoooooott/tinyPornManager) - A Pornhub.com scraper addon for tinyMediaManager v4
 - [pornganizer/PGV5](https://github.com/pornganizer/PGV5) - Pornganizer V5
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [OlympiTech/OpenFLIXR3](https://github.com/OlympiTech/OpenFLIXR3) - OpenFLIXR Media system. Version 3
 - [capr/multigit](https://github.com/capr/multigit) - :trident: Overlapped Git Repositories
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.

@@ -191,6 +191,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -2067,6 +2068,7 @@
 - [torrust/torrust-tracker](https://github.com/torrust/torrust-tracker) - A modern and feature-rich (private) BitTorrent tracker.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [stakater/IngressMonitorController](https://github.com/stakater/IngressMonitorController) - A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc.  – [✩Star] if you're using it!
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -3011,7 +3013,6 @@
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
-- [PyCoding-A/Spotifarr](https://github.com/PyCoding-A/Spotifarr) - Spotifarr
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) - Simple self-hosted music streaming server
 - [XDGFX/ultrasonics](https://github.com/XDGFX/ultrasonics) - Sync music playlists between all your music services. Do more with your music.
 - [srichter/asksonic](https://github.com/srichter/asksonic) - An Alexa skill to play music from Subsonic API compatible music servers
@@ -4612,6 +4613,10 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
+## programming-language 
+
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
 ## project-management 
 
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
@@ -4697,7 +4702,6 @@
 - [JerBouma/ThePassiveInvestor](https://github.com/JerBouma/ThePassiveInvestor) - Passive Investing for the Average Joe
 - [TheFourGreatErrors/alpha-rptr](https://github.com/TheFourGreatErrors/alpha-rptr) - A trading bot for automated algorithmic trading on Binance Futures, Bybit, BitMEX and FTX written in python.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-- [PyCoding-A/Spotifarr](https://github.com/PyCoding-A/Spotifarr) - Spotifarr
 - [Skelmis/Discord-Anti-Spam](https://github.com/Skelmis/Discord-Anti-Spam) - Ever wanted a bot to automatically deal with spammers? This is your Python library for it.
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
@@ -5979,7 +5983,7 @@
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata

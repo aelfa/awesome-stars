@@ -39,6 +39,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -265,6 +266,7 @@
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -457,7 +459,7 @@
 
 ## automation 
 
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Modern Open-Source Alternative to NSSM, WinSW & FireDaemon
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Modern Open-Source Alternative to NSSM, WinSW, AlwaysUp & FireDaemon
 - [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [porla/porla](https://github.com/porla/porla) - A high performance BitTorrent client for servers and seedboxes.
@@ -947,6 +949,41 @@
 
 - [kiranshila/Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord
 - [tanrax/RSSPAPER](https://github.com/tanrax/RSSPAPER) - Generate your own static RSS newspaper that you can embed on your device (PWA support)
+
+## cloud 
+
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
+- [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
+- [dgl/cloud-regions](https://github.com/dgl/cloud-regions) - Data on cloud regions
+- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
+- [Cyclenerd/google-cloud-pricing-cost-calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) - 💸 Calculate estimated monthly costs of Google Cloud Platform products and resources via YAML files and CLI program (Linux, macOS, Windows)
+- [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
+- [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
+- [chadgeary/cloudworkstation](https://github.com/chadgeary/cloudworkstation) - A linux desktop in the cloud - reachable via browser using Apache Guacamole. Deployed automatically via Terraform ( + Ansible ).
+- [chadgeary/nifi](https://github.com/chadgeary/nifi) - Deploy a secured, clustered, auto-scaling NiFi service in AWS.
+- [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [Botspot/cloudbuddy](https://github.com/Botspot/cloudbuddy) - CloudBuddy is the ultimate wizard for cloud storage. It uses rclone to connect to your cloud drives, download from them, upload to them, mount them to your file manager, and more. In addition, CloudBu
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place.
+- [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
+- [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+- [chadgeary/cloudoffice](https://github.com/chadgeary/cloudoffice) - Cloudoffice deploys Nextcloud and OnlyOffice automatically with LetsEncrypt HTTPS certificates. Text and video instructions included. Six compatible cloud providers, or via Ubuntu/Raspberry Pi. Cloud 
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
+- [tbienias/home_cloud](https://github.com/tbienias/home_cloud) - Personal Home Cloud Container Setup.
+- [madslundt/cloud-media-scripts](https://github.com/madslundt/cloud-media-scripts) - Upload and stream media from the cloud with or without encryption. Cache all new and recently streamed media locally to access quickly and reduce API calls
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## cms 
 
@@ -1542,7 +1579,7 @@
 
 ## dotnet 
 
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Modern Open-Source Alternative to NSSM, WinSW & FireDaemon
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Modern Open-Source Alternative to NSSM, WinSW, AlwaysUp & FireDaemon
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [whyvra/tunnel](https://github.com/whyvra/tunnel) - The secure manager for your WireGuard clients
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -3537,7 +3574,6 @@
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
 - [waldosax/plex-db-queries](https://github.com/waldosax/plex-db-queries) - 
 - [hush-shell/hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language
-- [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)
 - [Fmstrat/plex-cluster](https://github.com/Fmstrat/plex-cluster) - Synchronizes the watched and timeline status between any number of Plex servers all using standard Plex APIs.
@@ -3557,7 +3593,6 @@
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [jauderho/cf-warp](https://github.com/jauderho/cf-warp) - 
 - [mochman/Bypass_CGNAT](https://github.com/mochman/Bypass_CGNAT) - Wireguard setup to bypass CGNAT with a VPS
-- [tamcore/autoupdate-oh-my-zsh-plugins](https://github.com/tamcore/autoupdate-oh-my-zsh-plugins) - Plugin for oh-my-zsh to automatically update custom-plugins
 - [tamcore/ssh-punchhole](https://github.com/tamcore/ssh-punchhole) - Tiny SSH based reverse-tunnel to expose services behind a firewall
 - [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [zodiacon/TotalRegistry](https://github.com/zodiacon/TotalRegistry) - Total Registry - enhanced Registry editor/viewer
@@ -3983,7 +4018,6 @@
 - [Nickwasused/FreeGamesonSteam](https://github.com/Nickwasused/FreeGamesonSteam) - Searching SteamDB for Free Games and Activating them using  ArchiSteamFarm
 - [openSUSE/mail-reminder](https://github.com/openSUSE/mail-reminder) - Small utility to use in a cron job, to send mail reminders (about upcoming meetings or deadlines, for instance)
 - [brianspilner01/media-server-scripts](https://github.com/brianspilner01/media-server-scripts) - 
-- [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [euangoddard/clipboard2markdown](https://github.com/euangoddard/clipboard2markdown) - Convert rich-text on your clipbaord to markdown
 - [erikgahner/PolData](https://github.com/erikgahner/PolData) - A dataset with political datasets
 - [brickleq/CoW](https://github.com/brickleq/CoW) - Exploring Correlates of War Data
@@ -4219,7 +4253,6 @@
 - [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 - [bearlikelion/popularplex](https://github.com/bearlikelion/popularplex) - Generate dynamic collections of popular media for Plex using Tautulli
 - [lusky3/PGClone](https://github.com/lusky3/PGClone) - Visit the PG Repos @ https://github.com/PGBlitz  - PGClone (PG's Mount & RClone Execution)
-- [madslundt/cloud-media-scripts](https://github.com/madslundt/cloud-media-scripts) - Upload and stream media from the cloud with or without encryption. Cache all new and recently streamed media locally to access quickly and reduce API calls
 - [ultimate-pms/ultimate-media-server-core](https://github.com/ultimate-pms/ultimate-media-server-core) - A bunch of scripts that I've collected, written, and forked for the ultimate administration & automation of your Media Server - Think of this as your "Media server in a box"
 - [mescon/Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC
 - [hashbang/shell-server](https://github.com/hashbang/shell-server) - #! shell server base images, ready to boot and allow user logins.
@@ -6020,6 +6053,21 @@
 
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+
+## zsh 
+
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [tamcore/autoupdate-oh-my-zsh-plugins](https://github.com/tamcore/autoupdate-oh-my-zsh-plugins) - Plugin for oh-my-zsh to automatically update custom-plugins
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [meteoritt/topalias](https://github.com/meteoritt/topalias) - Linux bash/zsh aliases generator
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
+- [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [stevemcilwain/quiver](https://github.com/stevemcilwain/quiver) - Quiver is the tool to manage all of your tools for bug bounty hunting and penetration testing.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License

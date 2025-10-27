@@ -1026,7 +1026,7 @@
 
 ## compiler 
 
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
@@ -3335,7 +3335,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Modern Open-Source Alternative to NSSM, WinSW, AlwaysUp & FireDaemon
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Modern Open-Source Alternative to NSSM & WinSW
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) - Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [amcgready/Surge](https://github.com/amcgready/Surge) - Surge is an automated media server deployment and management toolkit that streamlines the setup, configuration, and orchestration of Plex, Jellyfin, Emby, and related services using Docker, with advan
@@ -3445,7 +3445,7 @@
 - [docker-archive-public/docker.dockercraft](https://github.com/docker-archive-public/docker.dockercraft) - Docker + Minecraft = Dockercraft
 - [Sanakan8472/copy-dialog-lunar-lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander) - Play lunar lander in you windows file copy dialog
 - [dawtmaytrikx/pySceneTools](https://github.com/dawtmaytrikx/pySceneTools) - Collection of Python tools for SCENE afficionados.
-- [terem42/zfs-hetzner-vm](https://github.com/terem42/zfs-hetzner-vm) - script to install Debian 10, 11, 12 and Ubuntu 18, 20, 22 LTS with ZFS root on Hetzner VPS
+- [terem42/zfs-hetzner-vm](https://github.com/terem42/zfs-hetzner-vm) - script to install Debian 10, 11, 12, 13 and Ubuntu 18, 20, 22, 24 LTS with ZFS root on Hetzner VPS
 - [CasCas2/proxmox-hetzner](https://github.com/CasCas2/proxmox-hetzner) - proxmox post installation scripts
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [ajmandourah/autorefresh](https://github.com/ajmandourah/autorefresh) - Plex autorefresh is a tool which can be triggered to forcefully refresh a certain content metadata.

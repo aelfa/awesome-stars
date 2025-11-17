@@ -71,7 +71,6 @@
 - [TeX](#tex)
 - [Twig](#twig)
 - [TypeScript](#typescript)
-- [VBScript](#vbscript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
@@ -112,9 +111,6 @@
 - [Kristijan1001/Android-App-Installer-And-Android-Settings-Launcher-For-Windows-11](https://github.com/Kristijan1001/Android-App-Installer-And-Android-Settings-Launcher-For-Windows-11) - 
 - [bmrf/standalone_scripts](https://github.com/bmrf/standalone_scripts) - Various standalone scripts
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
-- [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
-- [abbodi1406/C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Office Click-to-Run Retail-to-Volume AIO
-- [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [esc0rtd3w/portable-cleaning-lab](https://github.com/esc0rtd3w/portable-cleaning-lab) - Portable Cleaning Lab (PCL) Scripting and Utilities For A Completely Portable Malware Removal Experience
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Kometa
@@ -212,7 +208,7 @@
 - [TheUltimateC0der/listrr](https://github.com/TheUltimateC0der/listrr) - listrr.pro creates and maintains lists on trakt.tv completely automated based on your filters.
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Open-Source Alternative to NSSM, WinSW & FireDaemon Pro
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Full-Featured Alternative to NSSM, WinSW & FireDaemon Pro
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [iPromKnight/zilean](https://github.com/iPromKnight/zilean) - 
@@ -958,7 +954,6 @@
 
 ## JavaScript 
 
-- [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [knightcrawler-stremio/knightcrawler](https://github.com/knightcrawler-stremio/knightcrawler) - A selfhosted Stremio addon
@@ -1708,7 +1703,6 @@
 - [rivenmedia/riven](https://github.com/rivenmedia/riven) - Handle your Media Library with ease!
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [angristan/palette](https://github.com/angristan/palette) - Extract color palette from an image with k-means and k-NN // Project for the AI/ML class at Hanyang University
-- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, storage, meetings, email, tasks, finance, notes, search, shopify, marketing, design, web app and research
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
@@ -2099,7 +2093,6 @@
 ## Ruby 
 
 - [dev-sec/cis-docker-benchmark](https://github.com/dev-sec/cis-docker-benchmark) - CIS Docker Benchmark - InSpec Profile
-- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [Gueils/whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.
 - [boltops-tools/terraspace](https://github.com/boltops-tools/terraspace) - Terraspace: The Terraform Framework
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
@@ -2263,6 +2256,7 @@
 - [tronyx/tronitor](https://github.com/tronyx/tronitor) - Bash script to work with UptimeRobot, StatusCake,  HealthChecks.io, & Upptime monitoring providers
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [redhat-plumbers-in-action/differential-shellcheck](https://github.com/redhat-plumbers-in-action/differential-shellcheck) - 🐚 GitHub Action for running ShellCheck differentially
+- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [SolidWallOfCode/tools](https://github.com/SolidWallOfCode/tools) - Various scripts and other snippets used for my development.
 - [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
@@ -2464,7 +2458,6 @@
 - [sdetweil/MagicMirror_scripts](https://github.com/sdetweil/MagicMirror_scripts) - Magic Mirror installation and setup scripts
 - [CoffeeKnyte/local-remote](https://github.com/CoffeeKnyte/local-remote) - 
 - [tbienias/home_cloud](https://github.com/tbienias/home_cloud) - Personal Home Cloud Container Setup.
-- [RXWatcher/docker-templates](https://github.com/RXWatcher/docker-templates) - Personal collection of docker-compose files.
 - [ZZROTDesign/docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 - [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Built with Deployrr and UDMS guides/videos.
 - [lusky3/my-dash](https://github.com/lusky3/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
@@ -2481,7 +2474,6 @@
 - [tom472/mediabox](https://github.com/tom472/mediabox) - Container based media tools configuration
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
-- [RXWatcher/DockSTARTer](https://github.com/RXWatcher/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
 - [nemchik/after-install](https://github.com/nemchik/after-install) - Scripts to automate common tasks after a fresh OS install
 - [SimpleHomelab/AtoMiC-ToolKit](https://github.com/SimpleHomelab/AtoMiC-ToolKit) - AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, 
 - [hotio/arr-discord-notifier](https://github.com/hotio/arr-discord-notifier) - 
@@ -2563,6 +2555,7 @@
 
 ## TypeScript 
 
+- [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
@@ -2573,6 +2566,7 @@
 - [rivenmedia/riven-frontend](https://github.com/rivenmedia/riven-frontend) - Source code for Riven's frontend
 - [Disane87/docudigger](https://github.com/Disane87/docudigger) - Website scraper for getting invoices automagically as pdf (useful for taxes or DMS)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
@@ -2713,11 +2707,6 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
-
-## VBScript 
-
-- [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
-- [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
 ## Vala 
 

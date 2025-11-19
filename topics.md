@@ -278,7 +278,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
-- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, storage, meetings, email, tasks, finance, notes, search, shopify, marketing, design, web app and research
+- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -1684,7 +1684,7 @@
 
 ## finance 
 
-- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, storage, meetings, email, tasks, finance, notes, search, shopify, marketing, design, web app and research
+- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant
 - [achillesrasquinha/bulbea](https://github.com/achillesrasquinha/bulbea) - :boar: :bear: Deep Learning based Python Library for Stock Market Prediction and Modelling
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
@@ -3332,7 +3332,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Open-Source Alternative to NSSM, WinSW & FireDaemon Pro
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Full-Featured Alternative to NSSM, WinSW & FireDaemon Pro
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) - Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [amcgready/Surge](https://github.com/amcgready/Surge) - Surge is an automated media server deployment and management toolkit that streamlines the setup, configuration, and orchestration of Plex, Jellyfin, Emby, and related services using Docker, with advan
@@ -3928,7 +3928,7 @@
 - [Tensai75/plpp](https://github.com/Tensai75/plpp) - PHP Library Presenter for PLEX
 - [ceph/ceph-deploy](https://github.com/ceph/ceph-deploy) - Deploy Ceph with minimal infrastructure, using just SSH access
 - [Kayomani/PlexExternalPlayer](https://github.com/Kayomani/PlexExternalPlayer) - Allows you to use Plex to browse your media then play the files in your favorite media player (where the files are local).
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
 - [crozuk/pi-hole-wireguard-privoxy](https://github.com/crozuk/pi-hole-wireguard-privoxy) - Pi-hole, Wireguard and Privoxy. Providing an ad-blocking VPN protected proxy server.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -3952,11 +3952,6 @@
 - [rg9400/Trakt-Season-Integration](https://github.com/rg9400/Trakt-Season-Integration) - Scripts to pull season data such as titles and summaries from Trakt into Plex
 - [Roxedus/lsio-docker-mods](https://github.com/Roxedus/lsio-docker-mods) - 
 - [Roxedus/docker-TS-DnsServer](https://github.com/Roxedus/docker-TS-DnsServer) - container for TechnitiumSoftware/DnsServer
-- [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
-- [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
-- [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
-- [abbodi1406/C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Office Click-to-Run Retail-to-Volume AIO
-- [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [teticio/Deej-AI](https://github.com/teticio/Deej-AI) - Create automatic playlists by using Deep Learning to *listen* to the music.
 - [soulteary/docker-sso-server](https://github.com/soulteary/docker-sso-server) - Lightweight 🪶 self-hosted SSO server, resource utilization rate is &lt;1% CPU, MEM &lt;15 M
@@ -4240,7 +4235,6 @@
 - [n2cms/n2cms](https://github.com/n2cms/n2cms) - N2 CMS, an open source CMS for ASP.NET
 - [CVJoint/traefik2](https://github.com/CVJoint/traefik2) - Traefik v2: docker-compose repo
 - [sshnet/SSH.NET](https://github.com/sshnet/SSH.NET) - SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.
-- [RXWatcher/docker-templates](https://github.com/RXWatcher/docker-templates) - Personal collection of docker-compose files.
 - [traefik/traefik-migration-tool](https://github.com/traefik/traefik-migration-tool) - A migration tool from Traefik v1 to Traefik v2
 - [b2evolution/b2evolution](https://github.com/b2evolution/b2evolution) - b2evolution CMS: Multiblog/CMS content publishing + forums + email marketing + social network + more... b2evolution includes everything you need to run and maintain a modern website. Optimized for low
 - [maximuskowalski/traefik2](https://github.com/maximuskowalski/traefik2) - Traefik v2: docker-compose repo
@@ -4266,7 +4260,6 @@
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [replicatedhq/dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
-- [RXWatcher/DockSTARTer](https://github.com/RXWatcher/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
 - [avraham/hass_radarr_sonarr_search_by_voice](https://github.com/avraham/hass_radarr_sonarr_search_by_voice) - Add movies to radarr by voice
 - [HawksRepos/python-plexlibrary](https://github.com/HawksRepos/python-plexlibrary) - Create and maintain dynamic Plex libraries based on recipes.
 - [ruven/iipmooviewer](https://github.com/ruven/iipmooviewer) - IIPMooViewer is an advanced javascript HTML5 image viewer for streaming high resolution scientific images
@@ -4620,7 +4613,7 @@
 ## productivity 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, storage, meetings, email, tasks, finance, notes, search, shopify, marketing, design, web app and research
+- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.

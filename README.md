@@ -868,7 +868,6 @@
 - [Buildstarted/linksfordevs](https://github.com/Buildstarted/linksfordevs) - A curated list of sources of development information including c#, c++, and other dev related links.
 - [meteoritt/topalias](https://github.com/meteoritt/topalias) - Linux bash/zsh aliases generator Гаркальщик
 - [ghuntley/thenftbay.org](https://github.com/ghuntley/thenftbay.org) - The NFT Bay is the galaxy's most resilient NFT BitTorrent site! You wouldn't steal a JPEG (or would you)
-- [bobbyiliev/101-linux-commands](https://github.com/bobbyiliev/101-linux-commands) - 101 Linux commands Open-source eBook and CLI tool
 - [KuroLabs/Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
 - [malaohu/MobaXterm-GenKey](https://github.com/malaohu/MobaXterm-GenKey) - 你懂的！
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
@@ -2632,6 +2631,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Xarritomi/auto-replyarr](https://github.com/Xarritomi/auto-replyarr) - 
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) - Puts Docker Containers to sleep and wakes them back up when they're needed
+- [The-DevOps-Daily/devops-daily](https://github.com/The-DevOps-Daily/devops-daily) - The latest news, tutorials, and guides for DevOps professionals.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love

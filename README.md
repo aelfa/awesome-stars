@@ -2749,7 +2749,7 @@
 
 ## YAML 
 
-- [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) - Girlfriend unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
+- [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) - Fiance unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
 - [stashapp/CommunityScrapers](https://github.com/stashapp/CommunityScrapers) - This is a public repository containing scrapers created by the Stash Community.
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [trinib/AdGuard-WireGuard-Unbound-DNScrypt](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt) - Linux ultimate self-hosted network security guide ║ Linux 终极自托管网络安全指南 ║ Guía definitiva de seguridad de red autohospedada de Linux ║ लिनक्स परम स्व-होस्टेड नेटवर्क सुरक्षा गाइड ║ Окончательное руковод

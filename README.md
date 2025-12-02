@@ -904,7 +904,7 @@
 ## Java 
 
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [karakun/OpenWebStart](https://github.com/karakun/OpenWebStart) - Run Web Start based applications after the release of Java 11
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
@@ -1687,6 +1687,7 @@
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
 - [Pukabyte/alfred](https://github.com/Pukabyte/alfred) - A symlink manager for realdebrid & arrs ecosystem
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
+- [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [godver3/cli_debrid](https://github.com/godver3/cli_debrid) - 
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
@@ -2139,6 +2140,7 @@
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [hush-shell/hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
@@ -2556,7 +2558,6 @@
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
-- [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [arjanterheegde/InfinitePlexLibrary](https://github.com/arjanterheegde/InfinitePlexLibrary) - Create a truly infinite Plex library without overloading your debrid provider / indexers
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
@@ -2600,7 +2601,6 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
 - [zyndex-drive/server](https://github.com/zyndex-drive/server) - High Performance Metadata & Media Streamer and User Authentication API made with Nodejs and Typescript
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.

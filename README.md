@@ -74,7 +74,6 @@
 - [VBScript](#vbscript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
-- [Visual Basic](#visual-basic)
 - [Vue](#vue)
 - [YAML](#yaml)
 
@@ -2721,10 +2720,6 @@
 ## Vim Script 
 
 - [LearnLinuxTV/personal_ansible_desktop_configs](https://github.com/LearnLinuxTV/personal_ansible_desktop_configs) - 
-
-## Visual Basic 
-
-- [OfficeDev/Office-IT-Pro-Deployment-Scripts](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts) - A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators.  If you have any feature requests or ideas for future scripts plea
 
 ## Vue 
 

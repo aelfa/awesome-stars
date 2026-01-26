@@ -445,7 +445,6 @@
 - [mdhiggins/plexautoskip-docker](https://github.com/mdhiggins/plexautoskip-docker) - Docker container for PlexAutoSkip
 - [linuxserver/docker-qdirstat](https://github.com/linuxserver/docker-qdirstat) - 
 - [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles of things
-- [hotio/qbitmanage](https://github.com/hotio/qbitmanage) - 
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [spritsail/deluge](https://github.com/spritsail/deluge) - The deluge torrent client and its web interface, wrapped in Docker.
 - [spritsail/busybox](https://github.com/spritsail/busybox) - A base docker image built around busybox and glibc, nurtured from source
@@ -2341,6 +2340,7 @@
 - [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GnuPG symmetric secrets manager using Bash.
 - [RandomNinjaAtk/docker-amd](https://github.com/RandomNinjaAtk/docker-amd) - AMD is a Lidarr companion script to automatically download music for Lidarr
 - [nozel-org/linux-serverbot](https://github.com/nozel-org/linux-serverbot) - Lightweight server monitoring and alert tool for Linux
+- [hotio/qbitmanage](https://github.com/hotio/qbitmanage) - 
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [jontsai/bash-ftw](https://github.com/jontsai/bash-ftw) - Collection of BASH scripts, aliases, and bootstraps For The Win!
 - [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
@@ -2535,6 +2535,7 @@
 
 ## Swift 
 
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.

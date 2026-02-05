@@ -177,7 +177,7 @@
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) - Small utilities that are useful in advanced password cracking
 - [six-ddc/hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [rafael-santiago/lethe](https://github.com/rafael-santiago/lethe) - A tiny data wiping library and tool.
@@ -761,7 +761,7 @@
 - [espebra/filebin2](https://github.com/espebra/filebin2) - Filebin is a web application that facilitates convenient file sharing over the web.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [rupor-github/wsl-ssh-agent](https://github.com/rupor-github/wsl-ssh-agent) - Helper to interface with Windows ssh-agent.exe service from Windows Subsystem for Linux (WSL)
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
@@ -1217,6 +1217,7 @@
 
 ## Jupyter Notebook 
 
+- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
@@ -1326,6 +1327,7 @@
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
 - [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
 - [kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
 - [OliTechFR/Discovarr](https://github.com/OliTechFR/Discovarr) - A list of all the *arr apps that are out there in the world, like Sonarr, Radarr, etc.
@@ -1689,6 +1691,7 @@
 
 ## Python 
 
+- [BYTEDz/PCLink](https://github.com/BYTEDz/PCLink) - Cross-platform desktop app for secure remote PC control and management, featuring a lightweight built-in WebUI and API for local or remote access.
 - [Pukabyte/autosync](https://github.com/Pukabyte/autosync) - Autoscan meets Syncarr.
 - [daya0576/nightwatcher](https://github.com/daya0576/nightwatcher) - Web-based IP camera viewer for fast, simple streaming in any browser 🦇
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
@@ -2576,7 +2579,7 @@
 
 ## TypeScript 
 
-- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
+- [Kha-kis/arr-dashboard](https://github.com/Kha-kis/arr-dashboard) - Unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances
 - [parcoil/sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
 - [bestxxt/SmartLedger](https://github.com/bestxxt/SmartLedger) - Self-hosted, Multi LLM model based smart ledger assistant
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research

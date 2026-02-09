@@ -514,6 +514,7 @@
 
 ## Go 
 
+- [Gaisberg/streamnzb](https://github.com/Gaisberg/streamnzb) - 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
@@ -641,7 +642,7 @@
 - [toolctl/toolctl](https://github.com/toolctl/toolctl) - The tool to control your tools
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder
-- [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
+- [mpolden/echoip](https://github.com/mpolden/echoip) - A simple IP address lookup service.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [dogbutcat/gclone](https://github.com/dogbutcat/gclone) - fork from https://github.com/donwa/gclone
@@ -2581,6 +2582,8 @@
 
 ## TypeScript 
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [Kha-kis/arr-dashboard](https://github.com/Kha-kis/arr-dashboard) - Unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances
 - [parcoil/sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
 - [bestxxt/SmartLedger](https://github.com/bestxxt/SmartLedger) - Self-hosted, Multi LLM model based smart ledger assistant

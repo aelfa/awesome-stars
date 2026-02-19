@@ -3553,7 +3553,6 @@
 - [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Replaces thumbnails and modifies titles of videos on youtube.com
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
-- [JayRHa/Custom-Compliance-Scripts](https://github.com/JayRHa/Custom-Compliance-Scripts) - 
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [yaochih/awesome-video-stabilization](https://github.com/yaochih/awesome-video-stabilization) - A curated list of video stabilization methods
 - [webfactory/ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
@@ -4691,6 +4690,7 @@
 ## powershell 
 
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+- [JayRHa/Custom-Compliance-Scripts](https://github.com/JayRHa/Custom-Compliance-Scripts) - Collection of PowerShell scripts for Intune Custom Compliance policies to validate device configurations
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
 - [EvotecIT/PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
@@ -5473,7 +5473,7 @@
 - [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an feature-rich Open Source self-hostable Pastebin.
 - [binwiederhier/pcopy](https://github.com/binwiederhier/pcopy) - pcopy is a temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
 - [getmango/Mango](https://github.com/getmango/Mango) - Mango is a self-hosted manga server and web reader
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
@@ -6226,6 +6226,7 @@
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [JayRHa/Custom-Compliance-Scripts](https://github.com/JayRHa/Custom-Compliance-Scripts) - Collection of PowerShell scripts for Intune Custom Compliance policies to validate device configurations
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - [Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools

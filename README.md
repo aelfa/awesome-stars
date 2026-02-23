@@ -818,7 +818,6 @@
 - [traefik/traefik-migration-tool](https://github.com/traefik/traefik-migration-tool) - A migration tool from Traefik v1 to Traefik v2
 - [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist) - Create named local volumes that persist in the location(s) you want
 - [ucphhpc/docker-volume-sshfs](https://github.com/ucphhpc/docker-volume-sshfs) - sshfs docker volume plugin
-- [mescon/Muximux](https://github.com/mescon/Muximux) - A self-hosted homelab dashboard with an optional built-in reverse proxy that makes stubborn apps work in iframes
 - [l3uddz/rclone](https://github.com/l3uddz/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [mawaya/rclone](https://github.com/mawaya/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
@@ -2087,7 +2086,7 @@
 - [trapexit/mergerfs-tools](https://github.com/trapexit/mergerfs-tools) - Optional tools to help manage data in a mergerfs pool
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [adamgot/python-plexlibrary](https://github.com/adamgot/python-plexlibrary) - Create and maintain dynamic Plex libraries based on recipes.
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
+- [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com) - Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy supp
 - [pbrink231/plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) - A python script for creating playlists and collections for all server users from sources like IMDB and Trakt
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [sirk123au/python-plexlibrary](https://github.com/sirk123au/python-plexlibrary) - 
@@ -2727,6 +2726,7 @@
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
+- [mescon/Muximux](https://github.com/mescon/Muximux) - A self-hosted homelab dashboard with an optional built-in reverse proxy that makes stubborn apps work in iframes
 - [cglatot/pasta](https://github.com/cglatot/pasta) - Audio & Subtitle Track Changer for Plex
 - [ckcr4lyf/qbit-race](https://github.com/ckcr4lyf/qbit-race) - Qbittorrent utilities for racing
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.

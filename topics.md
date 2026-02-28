@@ -761,6 +761,7 @@
 - [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [drvy/ufw-cloudflare](https://github.com/drvy/ufw-cloudflare) - Automatically whitelist Cloudflare IPs with UFW and get an easier way to delete old rules
+- [rfxn/linux-malware-detect](https://github.com/rfxn/linux-malware-detect) - Multi-engine Linux malware scanner with five detection stages (MD5, HEX pattern, YARA, ClamAV, statistical), real-time inotify monitoring, quarantine, and multi-channel alerting
 - [zevilz/zImageOptimizer](https://github.com/zevilz/zImageOptimizer) - Simple image optimizer for JPEG, PNG and GIF images on Linux, MacOS and FreeBSD.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [dylanaraps/birch](https://github.com/dylanaraps/birch) - An IRC client written in bash
@@ -4098,7 +4099,6 @@
 - [wouterdebie/locast2tuner](https://github.com/wouterdebie/locast2tuner) - Locast to Emby/Plex/Channels server
 - [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
 - [plexinc/plex-media-player](https://github.com/plexinc/plex-media-player) - Next generation Plex Desktop/Embedded Client
-- [rfxn/linux-malware-detect](https://github.com/rfxn/linux-malware-detect) - Linux Malware Detection (LMD)
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [ajkis/scripts](https://github.com/ajkis/scripts) - Ajki's scripts & guides

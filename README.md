@@ -961,7 +961,6 @@
 
 ## JavaScript 
 
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [knightcrawler-stremio/knightcrawler](https://github.com/knightcrawler-stremio/knightcrawler) - A selfhosted Stremio addon
 - [the-rarbg/yaps](https://github.com/the-rarbg/yaps) - Y.A.P.S [Yet Another Piracy Site]
 - [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Replaces thumbnails and modifies titles of videos on youtube.com
@@ -1700,6 +1699,7 @@
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Automated Plex media cleanup with watch-based rules, smart exclusions, and "Leaving Soon" notifications via Radarr, Sonarr & Tautulli.
 - [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Debrid Unlimited Media Bridge
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [tiredofit/docker-nginx-proxy-cloudflare-companion](https://github.com/tiredofit/docker-nginx-proxy-cloudflare-companion) - Automatically update CNAME records when Docker container starts via Cloudflare

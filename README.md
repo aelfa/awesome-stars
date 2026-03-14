@@ -432,6 +432,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) - 
 - [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [youegraillot/lidarr-on-steroids](https://github.com/youegraillot/lidarr-on-steroids) - Lidarr with some muscles thanks to deemix
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -476,7 +477,7 @@
 - [tiredofit/docker-gitlab](https://github.com/tiredofit/docker-gitlab) - Dockerized Gitlab CE w/Alpine Linux, Zabbix Monitoring and S6 Overlay
 - [nfrastack/container-wordpress](https://github.com/nfrastack/container-wordpress) - Containerized Content Management system many with customizable options
 - [nfrastack/container-nginx](https://github.com/nfrastack/container-nginx) - Containerized webserver
-- [nfrastack/container-db-backup](https://github.com/nfrastack/container-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
+- [tiredofit/db-backup](https://github.com/tiredofit/db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [tiredofit/docker-collabora-online](https://github.com/tiredofit/docker-collabora-online) - Dockerized Online Office Suite with customizable options
 - [nfrastack/container-bookstack](https://github.com/nfrastack/container-bookstack) - Dockerized Information Manager
 - [nfrastack/container-traefik](https://github.com/nfrastack/container-traefik) - Containerized Reverse Proxy with customizable options
@@ -515,6 +516,7 @@
 
 ## Go 
 
+- [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic 
 - [Gaisberg/streamnzb](https://github.com/Gaisberg/streamnzb) - 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs
@@ -1328,6 +1330,8 @@
 
 ## Others 
 
+- [mwgg/Airports](https://github.com/mwgg/Airports) - A JSON database of 28k+ airports with ICAO/IATA codes, names, cities, two-letter country identifiers, elevation, latitude & longitude, and a timezone identifier
+- [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
@@ -1534,6 +1538,7 @@
 
 ## PHP 
 
+- [sapplica/sentrifugo](https://github.com/sapplica/sentrifugo) - Sentrifugo is a FREE and powerful Human Resource Management System (HRMS) that can be easily configured to meet your organizational needs.
 - [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter) - :fire: Powerful, yet easy to use, open-source online ordering, table reservation and management system for restaurants
 - [NeoRazorX/facturascripts](https://github.com/NeoRazorX/facturascripts) - Open source ERP software. Built on modern PHP and bootstrap. Easy and powerful.
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
@@ -1689,6 +1694,11 @@
 
 ## Python 
 
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
+- [AzizKpln/Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) - This tool gives information about the phone number that you entered.
+- [vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [Faceplugin-ltd/Open-Source-Face-Recognition-SDK](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK) - The world's 1st open source face recognition SDK for Windows and Linux (Face detection, Face landmark extraction, Face feature extraction, Face template mathcing)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
@@ -2242,6 +2252,7 @@
 
 ## Shell 
 
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [amcgready/Surge](https://github.com/amcgready/Surge) - Surge is an automated media server deployment and management toolkit that streamlines the setup, configuration, and orchestration of Plex, Jellyfin, Emby, and related services using Docker, with advan
 - [kpma1985/ansible_proxmox_hetzner](https://github.com/kpma1985/ansible_proxmox_hetzner) - Setup Proxmox and OPNsense on Hetzner Bare Metal via Ansible
@@ -2575,6 +2586,10 @@
 
 ## TypeScript 
 
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - Give agents everything they need to ship fullstack apps. The backend built for agentic development.
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [Kha-kis/arr-dashboard](https://github.com/Kha-kis/arr-dashboard) - Unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances

@@ -313,6 +313,7 @@
 
 ## C++ 
 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [porla/porla](https://github.com/porla/porla) - A high performance BitTorrent client for servers and seedboxes.
@@ -1716,7 +1717,6 @@
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Automated Plex media cleanup with watch-based rules, smart exclusions, and "Leaving Soon" notifications via Radarr, Sonarr & Tautulli.
 - [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Debrid Unlimited Media Bridge
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [tiredofit/docker-nginx-proxy-cloudflare-companion](https://github.com/tiredofit/docker-nginx-proxy-cloudflare-companion) - Automatically update CNAME records when Docker container starts via Cloudflare
@@ -2590,6 +2590,7 @@
 
 ## TypeScript 
 
+- [nashaofu/shell360](https://github.com/nashaofu/shell360) - Shell360 is a cross-platform SSH and SFTP client.
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - Give agents everything they need to ship fullstack apps. The backend built for agentic development.
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -2603,6 +2604,7 @@
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
 - [ohmzi/Immaculaterr](https://github.com/ohmzi/Immaculaterr) - Plex autopilot: curated recommendations, collections, and library cleanup (optional Radarr/Sonarr integration).
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet

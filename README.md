@@ -421,7 +421,6 @@
 ## Dart 
 
 - [7-USH/TeVe](https://github.com/7-USH/TeVe) - A cross platform free IPTv player developed for Android/IOS
-- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -1887,7 +1886,6 @@
 - [boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [nwithan8/sslproxies](https://github.com/nwithan8/sslproxies) - A Python package for handling free proxies from sslproxies.org
 - [haijeploeg/excludarr](https://github.com/haijeploeg/excludarr) - Excludarr manages your libraries in Radarr/Sonarr. It keeps track of your library and checks if your movies and series are also available on a configured streaming provider. It can exclude the movies 
 - [chazlarson/sb_gd](https://github.com/chazlarson/sb_gd) - Script to set up Google Drive stuff for saltbox/cloudbox
 - [ch3p4ll3/QBittorrentBot](https://github.com/ch3p4ll3/QBittorrentBot) - This bot can control qbittorrent easily from Telegram! You can add magnet or torrent files, have a list of active downloads, delete, pause and restart downloads.

@@ -355,7 +355,7 @@
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊
 
 ## android 
@@ -1060,7 +1060,6 @@
 - [chadgeary/cloudoffice](https://github.com/chadgeary/cloudoffice) - Cloudoffice deploys Nextcloud and OnlyOffice automatically with LetsEncrypt HTTPS certificates. Text and video instructions included. Six compatible cloud providers, or via Ubuntu/Raspberry Pi. Cloud 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS 
@@ -1614,7 +1613,7 @@
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [17Halbe/z-push](https://github.com/17Halbe/z-push) - z-push docker image designed to work with tvial/docker-mailserver
 - [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -1766,7 +1765,7 @@
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [derek-zhou/liv](https://github.com/derek-zhou/liv) - Web mail of your own
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
 ## embedded 
 
@@ -2391,7 +2390,7 @@
 - [srichter/asksonic](https://github.com/srichter/asksonic) - An Alexa skill to play music from Subsonic API compatible music servers
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
 - [SpEcHiDe/UploadGram](https://github.com/SpEcHiDe/UploadGram) - https://pypi.org/project/uploadgram/
 - [shopware5/devdocs](https://github.com/shopware5/devdocs) - Shopware 5 Developers Website
@@ -2687,7 +2686,7 @@
 - [eleven-am/nino-pub](https://github.com/eleven-am/nino-pub) - Nino is a VOD streaming service built on nodeJs around the Google Drive API
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [6xtvo/Legion-Website](https://github.com/6xtvo/Legion-Website) - The official website for the Discord bot Legion.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
@@ -2833,7 +2832,7 @@
 - [rimusz/charts](https://github.com/rimusz/charts) - Helm Charts for Kubernetes
 - [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse) - Kubernetes platform from Flant
 - [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -3051,7 +3050,7 @@
 - [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [polterguy/magic](https://github.com/polterguy/magic) - Fully Autonomous AI-based Software Development Assistant
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Loopple/loopple](https://github.com/Loopple/loopple) - Template Builder for Modern Websites & Dashboards
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 
@@ -3357,7 +3356,7 @@
 - [polterguy/magic](https://github.com/polterguy/magic) - Fully Autonomous AI-based Software Development Assistant
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 
 ## node 
@@ -3414,7 +3413,7 @@
 - [tngoman/Store-POS](https://github.com/tngoman/Store-POS) - Point of Sale Desktop App built with Electron
 - [hazim-j/zeroqueue](https://github.com/hazim-j/zeroqueue) - ⏰ A low-code queue management system ⏰
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
 - [shukriadams/arewedown](https://github.com/shukriadams/arewedown) - Simple, customizable HTTP uptime and status checking service.
@@ -3525,6 +3524,7 @@
 ## osint 
 
 - [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 - [AzizKpln/Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) - This tool gives information about the phone number that you entered.
 - [vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
@@ -4772,7 +4772,7 @@
 - [shanmugharajk/react-point-of-sale](https://github.com/shanmugharajk/react-point-of-sale) - A simple point of sale app built in nodejs and reactjs
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊
 - [danhuss/awesome-sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases.
 
@@ -4855,7 +4855,7 @@
 - [librecaptcha/lc-core](https://github.com/librecaptcha/lc-core) - The LibreCaptcha framework, for self-hosted, privacy respecting CAPTCHAs
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
@@ -4976,6 +4976,7 @@
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
+- [oculix-org/SikuliX1](https://github.com/oculix-org/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
@@ -5258,7 +5259,7 @@
 - [BSoDium/Slashboard-desktop](https://github.com/BSoDium/Slashboard-desktop) - A simple and convenient dashboard to monitor the activity and performance of your home servers.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
 - [shanmugharajk/react-point-of-sale](https://github.com/shanmugharajk/react-point-of-sale) - A simple point of sale app built in nodejs and reactjs
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Loopple/loopple](https://github.com/Loopple/loopple) - Template Builder for Modern Websites & Dashboards
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊
@@ -5297,6 +5298,7 @@
 
 ## ruby 
 
+- [oculix-org/SikuliX1](https://github.com/oculix-org/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [geerlingguy/ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
@@ -5610,7 +5612,7 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN con
@@ -5626,6 +5628,7 @@
 - [Archmonger/Conreq](https://github.com/Archmonger/Conreq) - A content requesting platform.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -5800,7 +5803,7 @@
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
 ## support 
 
@@ -5855,7 +5858,7 @@
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [Loopple/loopple](https://github.com/Loopple/loopple) - Template Builder for Modern Websites & Dashboards
 - [karlhadwen/instagram](https://github.com/karlhadwen/instagram) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Instagram Using React
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
 
@@ -6054,7 +6057,7 @@
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
@@ -6323,7 +6326,6 @@
 - [6xtvo/Legion-Website](https://github.com/6xtvo/Legion-Website) - The official website for the Discord bot Legion.
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT

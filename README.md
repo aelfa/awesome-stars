@@ -252,7 +252,7 @@
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [abatsakidis/PDFDeSecure](https://github.com/abatsakidis/PDFDeSecure) - An easy-to-use PDF Unlocker. Remove copy-protection from PDF files.
 - [ermig1979/AntiDupl](https://github.com/ermig1979/AntiDupl) - A program to search similar and defect pictures on the disk
-- [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
+- [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable peer-to-peer remote desktop with no installation required.
 - [maxsnts/XwRemote](https://github.com/maxsnts/XwRemote) - Multi protocol remote client: RDP, SSH, FTP, SFTP, AWS S3, Azure File, VNC
 - [1Remote/1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful open-source tool for managing networks and troubleshooting network problems!
@@ -1227,7 +1227,7 @@
 
 ## Jupyter Notebook 
 
-- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU
+- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - Runs 405B LLMs on 8GB VRAM
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
@@ -1797,7 +1797,7 @@
 - [zhuowei/DisneyPlusMetadataDownloader](https://github.com/zhuowei/DisneyPlusMetadataDownloader) - pulls metadata from Disney+. Probably useless for you.
 - [Flemmarr/Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps
 - [olipo186/Git-Auto-Deploy](https://github.com/olipo186/Git-Auto-Deploy) - Deploy your GitHub, GitLab or Bitbucket projects automatically on Git push events or webhooks using this small HTTP server written in Python. Continuous deployment in it's most simple form.
-- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive public file downloader when curl/wget fails.
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.

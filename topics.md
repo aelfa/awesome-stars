@@ -118,6 +118,7 @@
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -307,6 +308,7 @@
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - Give agents everything they need to ship fullstack apps. The backend built for agentic development.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [roryclear/clearcam](https://github.com/roryclear/clearcam) - Add object detection, tracking, mobile notifications, and search to any security camera.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
@@ -2215,6 +2217,11 @@
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 
+## hack 
+
+- [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
+- [Squuv/WifiBF](https://github.com/Squuv/WifiBF) - This is a wifi Brute Force. script undetectable and secure!
+
 ## hacking 
 
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
@@ -2420,7 +2427,6 @@
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal) - iCal-creator for PHP
 - [iw4p/telegram-cloud](https://github.com/iw4p/telegram-cloud) - Download and upload files via your Telegram account up to 2 GB
-- [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [monogon/NetMeta](https://github.com/monogon/NetMeta) - NetMeta is a scalable network observability toolkit optimized for performance.
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
@@ -3587,7 +3593,6 @@
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.
 - [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - "Paper2Slides: From Paper to Presentation in One Click"
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [roryclear/clearcam](https://github.com/roryclear/clearcam) - Add object detection, tracking, mobile notifications, and search to any security camera.
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [ohmzi/Immaculaterr](https://github.com/ohmzi/Immaculaterr) - Plex autopilot: curated recommendations, collections, and library cleanup (optional Radarr/Sonarr integration).
@@ -4428,7 +4433,6 @@
 - [abzdel/Swing-Trading-Stock-Bot](https://github.com/abzdel/Swing-Trading-Stock-Bot) - A Python-based bot that uses the Alpaca API and swing trading principles to buy and sell securities.
 - [Visorask/Sonarr_Anime_Regex](https://github.com/Visorask/Sonarr_Anime_Regex) - 
 - [streamlinevideo/low-latency-preview](https://github.com/streamlinevideo/low-latency-preview) - A proof of concept for low latency DASH streaming using entirely open source software end to end.
-- [Squuv/WifiBF](https://github.com/Squuv/WifiBF) - This is a wifi Brute Force. script undetectable and secure!
 - [hmaverickadams/Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - Notes for Beginner Network Pentesting Course
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
 - [stsrki/KeepAliveHD](https://github.com/stsrki/KeepAliveHD) - Prevent hard-drives from going into sleep mode.

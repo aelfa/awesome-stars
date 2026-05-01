@@ -861,7 +861,6 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
-- [wirow-io/wirow-server](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
@@ -5593,7 +5592,6 @@
 - [wiredlush/easy-gate](https://github.com/wiredlush/easy-gate) - A gate to your self hosted infrastructure
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Android.
-- [wirow-io/wirow-server](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform.
 - [hmlendea/iptv-playlist-aggregator](https://github.com/hmlendea/iptv-playlist-aggregator) - .NET console application that downloads IPTV playlists from multiple providers and merges them into a single curated M3U file.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
@@ -5836,7 +5834,6 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
-- [wirow-io/wirow-server](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.

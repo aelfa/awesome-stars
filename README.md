@@ -210,7 +210,7 @@
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
 - [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service - Modern Alternative to NSSM, WinSW & FireDaemon Pro
-- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
+- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [iPromKnight/zilean](https://github.com/iPromKnight/zilean) - 
 - [Z3Prover/FirewallChecker](https://github.com/Z3Prover/FirewallChecker) - A self-contained firewall checker
@@ -1701,6 +1701,7 @@
 ## Python 
 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
@@ -2591,7 +2592,6 @@
 
 ## TypeScript 
 
-- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 - [nashaofu/shell360](https://github.com/nashaofu/shell360) - Shell360 is a cross-platform SSH and SFTP client.

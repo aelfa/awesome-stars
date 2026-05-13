@@ -475,7 +475,7 @@
 - [nfrastack/container-nginx](https://github.com/nfrastack/container-nginx) - Containerized webserver
 - [nfrastack/container-db-backup](https://github.com/nfrastack/container-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [tiredofit/docker-collabora-online](https://github.com/tiredofit/docker-collabora-online) - Dockerized Online Office Suite with customizable options
-- [nfrastack/container-bookstack](https://github.com/nfrastack/container-bookstack) - Dockerized Information Manager
+- [nfrastack/container-bookstack](https://github.com/nfrastack/container-bookstack) - Containerized Knowledge Base / Information Manager
 - [nfrastack/container-traefik](https://github.com/nfrastack/container-traefik) - Containerized Reverse Proxy with customizable options
 - [dceoy/docker-bio](https://github.com/dceoy/docker-bio) - Dockerfile repository for Bioinformatics
 - [linuxserver-archive/docker-papermerge](https://github.com/linuxserver-archive/docker-papermerge) - 
@@ -1118,7 +1118,6 @@
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
-- [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 - [smallbets/userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [euangoddard/clipboard2markdown](https://github.com/euangoddard/clipboard2markdown) - Convert rich-text on your clipbaord to markdown
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -1483,9 +1482,7 @@
 - [Lifka/hacking-resources](https://github.com/Lifka/hacking-resources) - Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [StenlyTU/K8s-training-official](https://github.com/StenlyTU/K8s-training-official) - The goal of this tutorial is to give you a good understanding of Kubernetes.
-- [nwithan8/dizqueTV-scripts](https://github.com/nwithan8/dizqueTV-scripts) - Scripts to automate dizqueTV tasks
 - [pornganizer/PGV5](https://github.com/pornganizer/PGV5) - Pornganizer V5
-- [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [ambroisemaupate/plex-profiles](https://github.com/ambroisemaupate/plex-profiles) - Personal profiles for Plex Media Server
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
@@ -2699,6 +2696,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+- [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 - [drgroot/plexcontroller](https://github.com/drgroot/plexcontroller) - Controls multiple instances of plex using the plex API
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [egoist/preader](https://github.com/egoist/preader) - Extract the main content from a web page.

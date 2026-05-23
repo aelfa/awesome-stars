@@ -1060,7 +1060,6 @@
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 - [Mika-/torrent-control](https://github.com/Mika-/torrent-control) - Firefox extension for adding torrents to remote clients.
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [stoatchat/self-hosted](https://github.com/stoatchat/self-hosted) - Deploy Stoat on your own infrastructure!
 - [FauxTuner/faux-tuner](https://github.com/FauxTuner/faux-tuner) - A virtual tuner card and EPG guide for online live TV sources like PlutoTV and Locast. Designed to work with Plex Media Server's Live TV / DVR feature.
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
@@ -1646,7 +1645,7 @@
 - [ThomasKur/M365Documentation](https://github.com/ThomasKur/M365Documentation) - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.
 - [OnyxXP/Poor_System_Performance](https://github.com/OnyxXP/Poor_System_Performance) - Generic but extensive cleanup of cookies/cache/temp files on Windows based assets.
 - [AgentRev/WindowsAppsUnfukker](https://github.com/AgentRev/WindowsAppsUnfukker) - PowerShell script to fix WindowsApps-related permission errors and crashes.
-- [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
+- [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [Shayne55434/Tautulli2Discord](https://github.com/Shayne55434/Tautulli2Discord) - 
 - [Romanitho/Winget-Install-GUI](https://github.com/Romanitho/Winget-Install-GUI) - WiGui is a tool to search, select and install Apps at once with Winget package manager
@@ -2664,6 +2663,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.

@@ -2714,7 +2714,7 @@
 - [notrab/headless-dropshipping-starter](https://github.com/notrab/headless-dropshipping-starter) - Sell one off drops, or run your own store with 1000's of products print on demand.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [Chia-Network/chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) - Chia blockchain GUI in electron/react
-- [espimarisa/hibiki](https://github.com/espimarisa/hibiki) - A Discord bot with polished community and developer tools.
+- [espimarisa/hibiki](https://github.com/espimarisa/hibiki) - [Mirror] A Discord bot with polished community and developer tools.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers

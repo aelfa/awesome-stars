@@ -941,7 +941,7 @@
 - [clean-apps/CleanSCAN](https://github.com/clean-apps/CleanSCAN) - A simple, smart and efficient document scanner for Android
 - [guardianproject/PixelKnot](https://github.com/guardianproject/PixelKnot) - Image stego app using the F5 algorithm
 - [matrix-org/matrix-android-sdk](https://github.com/matrix-org/matrix-android-sdk) - The Matrix SDK for Android - DEPRECATED
-- [mynttt/UpdateTool](https://github.com/mynttt/UpdateTool) - A tool to update the IMDB ratings for Plex libraries that contain movies/series and use the IMDB agent to receive ratings
+- [marcherschel/UpdateTool](https://github.com/marcherschel/UpdateTool) - A tool to update the IMDB ratings for Plex libraries that contain movies/series and use the IMDB agent to receive ratings
 - [dogtagpki/pki](https://github.com/dogtagpki/pki) - The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management.
 - [scottyab/rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
 - [projectmatris/antimalwareapp](https://github.com/projectmatris/antimalwareapp) - Anti-malware for Android using machine learning

@@ -3603,6 +3603,7 @@
 
 ## others 
 
+- [qooode/nzbdavex](https://github.com/qooode/nzbdavex) - 
 - [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [mwgg/Airports](https://github.com/mwgg/Airports) - A JSON database of 28k+ airports with ICAO/IATA codes, names, cities, two-letter country identifiers, elevation, latitude & longitude, and a timezone identifier

@@ -1052,7 +1052,7 @@
 
 ## clojure 
 
-- [kiranshila/Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord
+- [activexray/Doplarr](https://github.com/activexray/Doplarr) - An *arr request bot for Discord
 - [tanrax/RSSPAPER](https://github.com/tanrax/RSSPAPER) - Generate your own static RSS newspaper that you can embed on your device (PWA support)
 
 ## cloud 
@@ -1434,7 +1434,7 @@
 - [methatronc/checker](https://github.com/methatronc/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
 - [projetssd/ssdv2](https://github.com/projetssd/ssdv2) - Script Seedbox Docker - local ou rclone avec sécurité Oauth, Authelia, Cloudlfare, Radarr, Sonarr, Plex ....
 - [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
-- [kiranshila/Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord
+- [activexray/Doplarr](https://github.com/activexray/Doplarr) - An *arr request bot for Discord
 - [chrisdewa/dpytools](https://github.com/chrisdewa/dpytools) - Collection of easy to use, beginner friendly but powerful, orthogonal tools to speed up discord bots development (discord.py)
 - [afonsojramos/discrakt](https://github.com/afonsojramos/discrakt) - The Trakt 🎥 Plex ▶️ Discord 🎮 Rich Presence that you didn't know you needed.
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
@@ -1599,7 +1599,7 @@
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [projetssd/ssdv2](https://github.com/projetssd/ssdv2) - Script Seedbox Docker - local ou rclone avec sécurité Oauth, Authelia, Cloudlfare, Radarr, Sonarr, Plex ....
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
-- [kiranshila/Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord
+- [activexray/Doplarr](https://github.com/activexray/Doplarr) - An *arr request bot for Discord
 - [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
@@ -3610,7 +3610,6 @@
 - [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic 
 - [sapplica/sentrifugo](https://github.com/sapplica/sentrifugo) - Sentrifugo is a FREE and powerful Human Resource Management System (HRMS) that can be easily configured to meet your organizational needs.
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
-- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [Gaisberg/streamnzb](https://github.com/Gaisberg/streamnzb) - 
 - [Kha-kis/arr-dashboard](https://github.com/Kha-kis/arr-dashboard) - Unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances
 - [BYTEDz/PCLink](https://github.com/BYTEDz/PCLink) - Cross-platform desktop app for secure remote PC control and management, featuring a lightweight built-in WebUI and API for local or remote access.
@@ -5581,6 +5580,7 @@
 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin

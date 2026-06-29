@@ -912,7 +912,6 @@
 - [storaged-project/udisks](https://github.com/storaged-project/udisks) - The UDisks project provides a daemon, tools and libraries to access and manipulate disks, storage devices and technologies.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 
 ## c-plus-plus 
@@ -3666,6 +3665,8 @@
 
 ## others 
 
+- [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - All in one self hosted, private media library
+- [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [NuvioMedia/NuvioWebTVInstaller](https://github.com/NuvioMedia/NuvioWebTVInstaller) - Official Desktop installer for Nuvio TV webOS and Samsung Tizen builds
 - [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb) - Official Nuvio WebOS, TizenOS Repository
 - [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) - Official Nuvio Desktop Repository

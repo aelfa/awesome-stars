@@ -202,6 +202,7 @@
 
 ## C# # 
 
+- [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - All in one self hosted, private media library
 - [qooode/nzbdavex](https://github.com/qooode/nzbdavex) - 
 - [avikeid2007/Ping-Legacy](https://github.com/avikeid2007/Ping-Legacy) - Ping Legacy gives a legacy experience to test ping to get connection status and quality to network or internet.
 - [TheUltimateC0der/listrr](https://github.com/TheUltimateC0der/listrr) - listrr.pro creates and maintains lists on trakt.tv completely automated based on your filters.
@@ -1702,6 +1703,7 @@
 
 ## Python 
 
+- [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you

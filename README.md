@@ -921,6 +921,7 @@
 
 ## Java 
 
+- [faizann24/wifi-bruteforcer-fsecurify](https://github.com/faizann24/wifi-bruteforcer-fsecurify) - Android application to brute force WiFi passwords without requiring a rooted device.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [karakun/OpenWebStart](https://github.com/karakun/OpenWebStart) - Run Web Start based applications after the release of Java 11
@@ -968,6 +969,7 @@
 
 ## JavaScript 
 
+- [gamonoid/icehrm](https://github.com/gamonoid/icehrm) - Manage your employees easily with a robust and efficient Human Resource Management System
 - [NuvioMedia/NuvioWebTVInstaller](https://github.com/NuvioMedia/NuvioWebTVInstaller) - Official Desktop installer for Nuvio TV webOS and Samsung Tizen builds
 - [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb) - Official Nuvio WebOS, TizenOS Repository
 - [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation

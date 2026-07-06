@@ -202,6 +202,7 @@
 
 ## C# # 
 
+- [dgherman/nzbdav2](https://github.com/dgherman/nzbdav2) - NzbDav fork with Provider Stats and Audio Support
 - [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - All in one self hosted, private media library
 - [qooode/nzbdavex](https://github.com/qooode/nzbdavex) - 
 - [avikeid2007/Ping-Legacy](https://github.com/avikeid2007/Ping-Legacy) - Ping Legacy gives a legacy experience to test ping to get connection status and quality to network or internet.
@@ -2330,7 +2331,7 @@
 - [spherex-dev/docker-backup-volume](https://github.com/spherex-dev/docker-backup-volume) - Tooling to backup docker volumes
 - [newsnowlabs/docker-ingress-routing-daemon](https://github.com/newsnowlabs/docker-ingress-routing-daemon) - Docker swarm daemon that modifies ingress mesh routing to expose true client IPs to service containers
 - [sualko/bbb-optimize](https://github.com/sualko/bbb-optimize) - Better audio quality, increase recording processing speed, dynamic video profile, pagination, fix 1007/1020 errors and use apply-config.sh to manage your customizations are some key techniques for you
-- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [bradleyfrank/ansible](https://github.com/bradleyfrank/ansible) - Ansible playbook for bootstrapping macOS/Linux workstations and managing dotfiles.
 - [Neo-Oli/termux-ubuntu](https://github.com/Neo-Oli/termux-ubuntu) - Ubuntu chroot on termux
 - [tuanpham-dev/termux-ubuntu](https://github.com/tuanpham-dev/termux-ubuntu) - This helps you install Ubuntu 20 + XFCE4 desktop on Termux with ease.
@@ -2607,6 +2608,7 @@
 
 ## TypeScript 
 
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories

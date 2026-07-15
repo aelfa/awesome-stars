@@ -3698,7 +3698,7 @@
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [NuvioMedia/NuvioWebTVInstaller](https://github.com/NuvioMedia/NuvioWebTVInstaller) - Official Desktop installer for Nuvio TV webOS and Samsung Tizen builds
 - [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb) - Official Nuvio WebOS, TizenOS Repository
-- [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) - Official Nuvio Desktop Repository
+- [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) - ⚠️ Alpha Software - Testers Only
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
 - [xeroxmalf/stremiarr](https://github.com/xeroxmalf/stremiarr) - Stremiarr is a production-grade, self-hosted media streaming stack. It integrates torrent discovery (Comet), Real-Debrid unrestrict services (Rclone), and optimized stream proxying (Go-based Handoff) 

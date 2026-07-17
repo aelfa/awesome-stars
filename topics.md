@@ -468,7 +468,7 @@
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 
 ## ansible 
 
@@ -3689,7 +3689,7 @@
 
 ## others 
 
-- [nzbdav/nzbdav](https://github.com/nzbdav/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
+- [nzbdav/nzbdav](https://github.com/nzbdav/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API. A super-fork of related projects to the OG nzbdav-dev version.
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [dgherman/nzbdav2](https://github.com/dgherman/nzbdav2) - NzbDav fork with Provider Stats and Audio Support
 - [gamonoid/icehrm](https://github.com/gamonoid/icehrm) - Manage your employees easily with a robust and efficient Human Resource Management System
@@ -3715,7 +3715,7 @@
 - [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - Runs 405B LLMs on 8GB VRAM
 - [Pukabyte/autosync](https://github.com/Pukabyte/autosync) - Autoscan meets Syncarr.
 - [nicocapalbo/dmbdb](https://github.com/nicocapalbo/dmbdb) - 
-- [bestxxt/SmartLedger](https://github.com/bestxxt/SmartLedger) - Self-hosted, Multi LLM model based smart ledger assistant
+- [bestxxt/SmartLedger](https://github.com/bestxxt/SmartLedger) - A self-hosted, retro-style smart ledger assistant powered by LLMs.
 - [daya0576/nightwatcher](https://github.com/daya0576/nightwatcher) - Web-based IP camera viewer for fast, simple streaming in any browser 🦇
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.
 - [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - "Paper2Slides: From Paper to Presentation in One Click"
@@ -5044,7 +5044,7 @@
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 
 ## prompt-engineering 
 
@@ -5457,7 +5457,7 @@
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 
 ## rust 
 
@@ -5842,7 +5842,7 @@
 ## shell 
 
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [wick3dr0se/fml](https://github.com/wick3dr0se/fml) - :card_index_dividers: A stupid simple, fast TUI file manager written in BASH v4.2+
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.

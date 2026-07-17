@@ -202,7 +202,7 @@
 
 ## C# # 
 
-- [nzbdav/nzbdav](https://github.com/nzbdav/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
+- [nzbdav/nzbdav](https://github.com/nzbdav/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API. A super-fork of related projects to the OG nzbdav-dev version.
 - [dgherman/nzbdav2](https://github.com/dgherman/nzbdav2) - NzbDav fork with Provider Stats and Audio Support
 - [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - All in one self hosted, private media library
 - [qooode/nzbdavex](https://github.com/qooode/nzbdavex) - 
@@ -2167,7 +2167,7 @@
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 
 ## Rust 
 
@@ -2289,7 +2289,7 @@
 - [kpma1985/ansible_proxmox_hetzner](https://github.com/kpma1985/ansible_proxmox_hetzner) - Setup Proxmox and OPNsense on Hetzner Bare Metal via Ansible
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
-- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
 - [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
 - [BMDan/tuning-primer.sh](https://github.com/BMDan/tuning-primer.sh) - MySQL Tuning-Primer.sh, updated and improved
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
@@ -2621,7 +2621,7 @@
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [Kha-kis/arr-dashboard](https://github.com/Kha-kis/arr-dashboard) - Unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances
 - [thedogecraft/sparkle](https://github.com/thedogecraft/sparkle) - A Windows app to debloat and optimize your PC
-- [bestxxt/SmartLedger](https://github.com/bestxxt/SmartLedger) - Self-hosted, Multi LLM model based smart ledger assistant
+- [bestxxt/SmartLedger](https://github.com/bestxxt/SmartLedger) - A self-hosted, retro-style smart ledger assistant powered by LLMs.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
 - [ohmzi/Immaculaterr](https://github.com/ohmzi/Immaculaterr) - Plex autopilot: curated recommendations, collections, and library cleanup (optional Radarr/Sonarr integration).

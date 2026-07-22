@@ -3689,6 +3689,7 @@
 
 ## others 
 
+- [I-am-PUID-0/NeutArr](https://github.com/I-am-PUID-0/NeutArr) - Automated missing media hunter and quality upgrader for *arr apps.
 - [nzbdav/nzbdav](https://github.com/nzbdav/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API. A super-fork of related projects to the OG nzbdav-dev version.
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [dgherman/nzbdav2](https://github.com/dgherman/nzbdav2) - NzbDav fork with Provider Stats and Audio Support

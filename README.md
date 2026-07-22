@@ -1705,6 +1705,7 @@
 
 ## Python 
 
+- [I-am-PUID-0/NeutArr](https://github.com/I-am-PUID-0/NeutArr) - Automated missing media hunter and quality upgrader for *arr apps.
 - [frotms/PaddleOCR2Pytorch](https://github.com/frotms/PaddleOCR2Pytorch) - PaddleOCR inference in PyTorch. Converted from [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - All-in-One Development Tool based on PaddlePaddle
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents

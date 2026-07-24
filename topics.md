@@ -2256,7 +2256,7 @@
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [dsoprea/GDriveFS](https://github.com/dsoprea/GDriveFS) - An innovative FUSE wrapper for Google Drive.
 - [ClaudiuGeorgiu/PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)
-- [edelstone/material-palette-generator](https://github.com/edelstone/material-palette-generator) - 🎨 Perfect Material Design palettes from any hex color.
+- [edelstone/material-palette-generator](https://github.com/edelstone/material-palette-generator) - 🎨 Perfect Material Design palettes from any color input.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 
@@ -3277,7 +3277,7 @@
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [edelstone/material-palette-generator](https://github.com/edelstone/material-palette-generator) - 🎨 Perfect Material Design palettes from any hex color.
+- [edelstone/material-palette-generator](https://github.com/edelstone/material-palette-generator) - 🎨 Perfect Material Design palettes from any color input.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 
 ## mcp 

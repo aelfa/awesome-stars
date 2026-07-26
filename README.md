@@ -204,7 +204,7 @@
 
 - [nzbdav/nzbdav](https://github.com/nzbdav/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API. A super-fork of related projects to the OG nzbdav-dev version.
 - [dgherman/nzbdav2](https://github.com/dgherman/nzbdav2) - NzbDav fork with Provider Stats and Audio Support
-- [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - All in one self hosted, private media library
+- [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - Your whole media life in one private, self-hosted library—watch, read, listen, request, and manage across web, iPhone, iPad, and Apple TV.
 - [qooode/nzbdavex](https://github.com/qooode/nzbdavex) - 
 - [avikeid2007/Ping-Legacy](https://github.com/avikeid2007/Ping-Legacy) - Ping Legacy gives a legacy experience to test ping to get connection status and quality to network or internet.
 - [TheUltimateC0der/listrr](https://github.com/TheUltimateC0der/listrr) - listrr.pro creates and maintains lists on trakt.tv completely automated based on your filters.
@@ -518,7 +518,6 @@
 ## Go 
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [xeroxmalf/stremiarr](https://github.com/xeroxmalf/stremiarr) - Stremiarr is a production-grade, self-hosted media streaming stack. It integrates torrent discovery (Comet), Real-Debrid unrestrict services (Rclone), and optimized stream proxying (Go-based Handoff) 
 - [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic 
 - [Gaisberg/streamnzb](https://github.com/Gaisberg/streamnzb) - 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
@@ -865,6 +864,7 @@
 
 - [kmanjari/hrms](https://github.com/kmanjari/hrms) - Human Resource Management System automation using Laravel 5.2
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
+- [xeroxmalf/stremiarr](https://github.com/xeroxmalf/stremiarr) - Stremiarr is a production-grade, self-hosted media streaming stack. It integrates torrent discovery (Comet), Real-Debrid unrestrict services (Rclone), and optimized stream proxying (Go-based Handoff) 
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [debridmediamanager/hashlists](https://github.com/debridmediamanager/hashlists) - Share your media library or mirror others
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.

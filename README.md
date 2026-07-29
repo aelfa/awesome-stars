@@ -1740,7 +1740,7 @@
 - [studio-dots-ai/dots.ocr](https://github.com/studio-dots-ai/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Automated Plex media cleanup with watch-based rules, smart exclusions, and "Leaving Soon" notifications via Radarr, Sonarr & Tautulli.
-- [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Debrid Unlimited Media Bridge
+- [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Distributed Unlimited Media Bridge (DUMB) is an All-In-One (AIO) Docker image for building and operating a complete automated media stack from one container.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [tiredofit/docker-nginx-proxy-cloudflare-companion](https://github.com/tiredofit/docker-nginx-proxy-cloudflare-companion) - Automatically update CNAME records when Docker container starts via Cloudflare

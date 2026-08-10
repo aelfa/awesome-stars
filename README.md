@@ -238,7 +238,7 @@
 - [jellyfin/TMDbLib](https://github.com/jellyfin/TMDbLib) - C#.Net library for TheMovieDB
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
-- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
+- [polterguy/magic](https://github.com/polterguy/magic) - Turn plain English into a working full-stack app — database, secure API, business logic, and frontend — running on your own hardware, with zero lock-in
 - [hmlendea/iptv-playlist-aggregator](https://github.com/hmlendea/iptv-playlist-aggregator) - .NET console application that downloads IPTV playlists from multiple providers and merges them into a single curated M3U file.
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
@@ -1212,7 +1212,6 @@
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [caridy/plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer) - CLI tool to fix subtitles needed by Plex Media Center
 - [iwalton3/media-scripts](https://github.com/iwalton3/media-scripts) - Scripts to assist with handling media files.
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
 ## Jinja 
 
@@ -2610,6 +2609,7 @@
 
 ## TypeScript 
 
+- [DSmart33/Usenet-Ultimate](https://github.com/DSmart33/Usenet-Ultimate) - Modern Usenet addon for Stremio
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
@@ -2783,6 +2783,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 
 ## VBScript 

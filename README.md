@@ -203,7 +203,7 @@
 
 ## C# # 
 
-- [infinidysk/infinidysk](https://github.com/infinidysk/infinidysk) - InfiniDysk - The NzbDAV SuperFork. Usenet streaming with a WebDAV server and a SABnzbd-compatible API. 900+ commits ahead.
+- [infinidysk/infinidysk](https://github.com/infinidysk/infinidysk) - InfiniDysk - The NzbDAV SuperFork. Usenet streaming with a WebDAV server and a SABnzbd-compatible API. 1000+ commits ahead.
 - [dgherman/nzbdav2](https://github.com/dgherman/nzbdav2) - NzbDav fork with Provider Stats and Audio Support
 - [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - Your whole media life in one private, self-hosted library—watch, read, listen, request, and manage across web, iPhone, iPad, and Apple TV.
 - [qooode/nzbdavex](https://github.com/qooode/nzbdavex) - 
@@ -971,6 +971,7 @@
 ## JavaScript 
 
 - [gamonoid/icehrm](https://github.com/gamonoid/icehrm) - Manage your employees easily with a robust and efficient Human Resource Management System
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [NuvioMedia/NuvioWebTVInstaller](https://github.com/NuvioMedia/NuvioWebTVInstaller) - Official Desktop installer for Nuvio TV webOS and Samsung Tizen builds
 - [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb) - Official Nuvio WebOS, TizenOS Repository
 - [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
@@ -1425,7 +1426,6 @@
 - [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard) - A curated list of amazingly awesome dashboards/visualization resources.
 - [turbo/openftp4](https://github.com/turbo/openftp4) - A list of all FTP servers in IPv4 that allow anonymous logins.
 - [wahyd4/aria2-ariang-x-docker-compose](https://github.com/wahyd4/aria2-ariang-x-docker-compose) - Docker compose files for Aria2+ AriaNg+ filerun/ Nextcloud/ h5ai + Plex.  图形化BT，磁力，离线下载，文件管理，播放，投屏
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [baker-scripts/pmm-config](https://github.com/baker-scripts/pmm-config) - Kometa (Plex Meta Manager) configuration — collection templates, overlays, and metadata management
 - [Shayne55434/kometa](https://github.com/Shayne55434/kometa) - My setup for Plex Meta Manager
 - [stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) - Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
@@ -1899,6 +1899,7 @@
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [PyWaves/BlackBot](https://github.com/PyWaves/BlackBot) - Grid Trading Bot
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [enzobes/WarezBot](https://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release
 - [boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
@@ -2290,7 +2291,7 @@
 - [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
-- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Inspect, control, and manipulate a command's effects before modifying your live system.
 - [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
 - [BMDan/tuning-primer.sh](https://github.com/BMDan/tuning-primer.sh) - MySQL Tuning-Primer.sh, updated and improved
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
@@ -2611,7 +2612,6 @@
 
 - [DSmart33/Usenet-Ultimate](https://github.com/DSmart33/Usenet-Ultimate) - Modern Usenet addon for Stremio
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 - [nashaofu/shell360](https://github.com/nashaofu/shell360) - Shell360 is a cross-platform SSH and SFTP client.

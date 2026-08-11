@@ -3703,7 +3703,7 @@
 - [Lystad93/Easynews_as_indexer_x](https://github.com/Lystad93/Easynews_as_indexer_x) - Fork and improvement of retry logic
 - [Sanket9225/Easynews_as_indexer](https://github.com/Sanket9225/Easynews_as_indexer) - 
 - [I-am-PUID-0/NeutArr](https://github.com/I-am-PUID-0/NeutArr) - Automated missing media hunter and quality upgrader for *arr apps.
-- [infinidysk/infinidysk](https://github.com/infinidysk/infinidysk) - InfiniDysk - The NzbDAV SuperFork. Usenet streaming with a WebDAV server and a SABnzbd-compatible API. 900+ commits ahead.
+- [infinidysk/infinidysk](https://github.com/infinidysk/infinidysk) - InfiniDysk - The NzbDAV SuperFork. Usenet streaming with a WebDAV server and a SABnzbd-compatible API. 1000+ commits ahead.
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [dgherman/nzbdav2](https://github.com/dgherman/nzbdav2) - NzbDav fork with Provider Stats and Audio Support
 - [gamonoid/icehrm](https://github.com/gamonoid/icehrm) - Manage your employees easily with a robust and efficient Human Resource Management System
@@ -5870,7 +5870,7 @@
 ## shell 
 
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Inspect, control, and manipulate a command's effects before modifying your live system.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [wick3dr0se/fml](https://github.com/wick3dr0se/fml) - :card_index_dividers: A stupid simple, fast TUI file manager written in BASH v4.2+
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.

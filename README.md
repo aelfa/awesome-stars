@@ -211,7 +211,7 @@
 - [TheUltimateC0der/listrr](https://github.com/TheUltimateC0der/listrr) - listrr.pro creates and maintains lists on trakt.tv completely automated based on your filters.
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
-- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
+- [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service with Real-Time Monitoring
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [iPromKnight/zilean](https://github.com/iPromKnight/zilean) - 
@@ -238,7 +238,7 @@
 - [jellyfin/TMDbLib](https://github.com/jellyfin/TMDbLib) - C#.Net library for TheMovieDB
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
-- [polterguy/magic](https://github.com/polterguy/magic) - Turn plain English into a working full-stack app — database, secure API, business logic, and frontend — running on your own hardware, with zero lock-in
+- [polterguy/magic](https://github.com/polterguy/magic) - An Open Source Alternative to Lovable and Supabase in one system!
 - [hmlendea/iptv-playlist-aggregator](https://github.com/hmlendea/iptv-playlist-aggregator) - .NET console application that downloads IPTV playlists from multiple providers and merges them into a single curated M3U file.
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
@@ -367,7 +367,7 @@
 - [hash3liZer/Syntax-Checker](https://github.com/hash3liZer/Syntax-Checker) - A Simple Syntax Checker to check for basic errors in a file. Written in C++
 - [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
@@ -1695,7 +1695,7 @@
 - [blueal/Stream-Deck-Scripts](https://github.com/blueal/Stream-Deck-Scripts) - My collection of scripts and commands running on my personal Elgato Stream Deck
 - [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
 - [MysticRyuujin/PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) - Scan Plex Library for Missing Episodes using TheTVDB
 
 ## Pug 

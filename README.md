@@ -476,7 +476,7 @@
 - [tiredofit/docker-gitlab](https://github.com/tiredofit/docker-gitlab) - Dockerized Gitlab CE w/Alpine Linux, Zabbix Monitoring and S6 Overlay
 - [nfrastack/container-wordpress](https://github.com/nfrastack/container-wordpress) - Containerized Content Management system many with customizable options
 - [nfrastack/container-nginx](https://github.com/nfrastack/container-nginx) - Containerized webserver
-- [nfrastack/container-db-backup](https://github.com/nfrastack/container-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
+- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [tiredofit/docker-collabora-online](https://github.com/tiredofit/docker-collabora-online) - Dockerized Online Office Suite with customizable options
 - [nfrastack/container-bookstack](https://github.com/nfrastack/container-bookstack) - Containerized Knowledge Base / Information Manager
 - [nfrastack/container-traefik](https://github.com/nfrastack/container-traefik) - Containerized Reverse Proxy with customizable options
@@ -1762,7 +1762,7 @@
 - [rivenmedia/riven](https://github.com/rivenmedia/riven) - Handle your Media Library with ease!
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [angristan/palette](https://github.com/angristan/palette) - Extract color palette from an image with k-means and k-NN // Project for the AI/ML class at Hanyang University
-- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
+- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
@@ -1981,7 +1981,7 @@
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [macr0dev/Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - Plex metadata scraper for Audiobooks
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. Connect your agents now and build on the Agentic Cloud 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [RiffSphere/Collectarr](https://github.com/RiffSphere/Collectarr) - 
 - [RhinoRhys/radarr-collections](https://github.com/RhinoRhys/radarr-collections) - Movie discovery tool for Radarr to follow Movie Collections and People's work.

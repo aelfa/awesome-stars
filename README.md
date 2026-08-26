@@ -665,7 +665,7 @@
 - [tomtom5152/dnsyo](https://github.com/tomtom5152/dnsyo) - ALL THE DNS. Query up to 1000 name servers to view the state of your DNS across the internet.
 - [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
-- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
 - [jenssegers/captain](https://github.com/jenssegers/captain) - ⚓️ Easily start and stop docker compose projects
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
@@ -979,6 +979,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [knightcrawler-stremio/knightcrawler](https://github.com/knightcrawler-stremio/knightcrawler) - A selfhosted Stremio addon
@@ -1742,7 +1743,6 @@
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Automated Plex media cleanup with watch-based rules, smart exclusions, and "Leaving Soon" notifications via Radarr, Sonarr & Tautulli.
 - [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Distributed Unlimited Media Bridge (DUMB) is an All-In-One (AIO) Docker image for building and operating a complete automated media stack from one container.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [tiredofit/docker-nginx-proxy-cloudflare-companion](https://github.com/tiredofit/docker-nginx-proxy-cloudflare-companion) - Automatically update CNAME records when Docker container starts via Cloudflare
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews

@@ -34,6 +34,7 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -665,7 +666,6 @@
 - [tomtom5152/dnsyo](https://github.com/tomtom5152/dnsyo) - ALL THE DNS. Query up to 1000 name servers to view the state of your DNS across the internet.
 - [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [jenssegers/captain](https://github.com/jenssegers/captain) - ⚓️ Easily start and stop docker compose projects
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
@@ -920,6 +920,10 @@
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [zoomhub/zoomhub](https://github.com/zoomhub/zoomhub) - Share and view high-resolution images effortlessly
+
+## Inno Setup 
+
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 
 ## Java 
 

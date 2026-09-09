@@ -1017,7 +1017,6 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
@@ -1728,7 +1727,7 @@
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
-- [AzizKpln/Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) - This tool gives information about the phone number that you entered.
+- [AzizKpln/Gokboru_Intel](https://github.com/AzizKpln/Gokboru_Intel) - This tool gives information about the phone number that you entered.
 - [vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [Faceplugin-ltd/Open-Source-Face-Recognition-SDK](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK) - Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face
@@ -1853,6 +1852,7 @@
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [Drapersniper/Qbitrr](https://github.com/Drapersniper/Qbitrr) - A simple Python script to talk to Qbit and Arr's
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [JakeWharton/qbt-tracker-hound](https://github.com/JakeWharton/qbt-tracker-hound) - Maintains a tag on torrents with broken trackers in qBittorrent
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex

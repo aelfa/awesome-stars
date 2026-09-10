@@ -1074,7 +1074,7 @@
 - [Makeshift/nginx-retry-proxy](https://github.com/Makeshift/nginx-retry-proxy) - A customisable backup proxy server that helps Nginx retry connections to upstreams.
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
-- [Mika-/torrent-control](https://github.com/Mika-/torrent-control) - Firefox extension for adding torrents to remote clients.
+- [mika-si/torrent-control](https://github.com/mika-si/torrent-control) - Firefox extension for adding torrents to remote clients.
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [stoatchat/self-hosted](https://github.com/stoatchat/self-hosted) - Deploy Stoat on your own infrastructure!
 - [FauxTuner/faux-tuner](https://github.com/FauxTuner/faux-tuner) - A virtual tuner card and EPG guide for online live TV sources like PlutoTV and Locast. Designed to work with Plex Media Server's Live TV / DVR feature.
@@ -2023,7 +2023,6 @@
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-- [rix1337/FeedCrawler](https://github.com/rix1337/FeedCrawler) - FeedCrawler automatisiert bequem das Hinzufügen von Links für den JDownloader.
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [tenasi/plexannouncer](https://github.com/tenasi/plexannouncer) - 
 - [mdhiggins/sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized format with metadata tagging to create a beautiful and uniform media library

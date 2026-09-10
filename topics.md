@@ -598,7 +598,6 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [rix1337/FeedCrawler](https://github.com/rix1337/FeedCrawler) - FeedCrawler automatisiert bequem das Hinzufügen von Links für den JDownloader.
 - [chadgeary/cloudoffice](https://github.com/chadgeary/cloudoffice) - Cloudoffice deploys Nextcloud and OnlyOffice automatically with LetsEncrypt HTTPS certificates. Text and video instructions included. Six compatible cloud providers, or via Ubuntu/Raspberry Pi. Cloud 
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
@@ -4180,7 +4179,7 @@
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [fscorrupt/docker-tautulli2discord](https://github.com/fscorrupt/docker-tautulli2discord) - Send Tautulli Stats via Webhook to Discord Channel
 - [chazlarson/sb_gd](https://github.com/chazlarson/sb_gd) - Script to set up Google Drive stuff for saltbox/cloudbox
-- [Mika-/torrent-control](https://github.com/Mika-/torrent-control) - Firefox extension for adding torrents to remote clients.
+- [mika-si/torrent-control](https://github.com/mika-si/torrent-control) - Firefox extension for adding torrents to remote clients.
 - [Justintime50/woodchips](https://github.com/Justintime50/woodchips) - The cutest little logger you've ever seen.
 - [ddo/fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal
 - [red217/EmbyExternalPlayerLauncher](https://github.com/red217/EmbyExternalPlayerLauncher) - Emby External Player Launcher lets you play videos from your Emby server in MPC-HC.

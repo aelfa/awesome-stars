@@ -204,7 +204,7 @@
 
 ## C# # 
 
-- [infinidysk/infinidysk](https://github.com/infinidysk/infinidysk) - InfiniDysk - The NzbDAV SuperFork. Usenet streaming with a WebDAV server and a SABnzbd-compatible API. 1200+ commits ahead.
+- [infinidysk/infinidysk](https://github.com/infinidysk/infinidysk) - InfiniDysk - The NzbDAV SuperFork. Usenet streaming with a WebDAV server and a SABnzbd-compatible API.
 - [dgherman/nzbdav2](https://github.com/dgherman/nzbdav2) - NzbDav fork with Provider Stats and Audio Support
 - [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - Your whole media life in one private, self-hosted library—watch, read, listen, request, and manage across web, iPhone, iPad, and Apple TV.
 - [qooode/nzbdavex](https://github.com/qooode/nzbdavex) - 
@@ -578,7 +578,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [DRuggeri/nut_exporter](https://github.com/DRuggeri/nut_exporter) - Network UPS Tools Prometheus Exporter
-- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
+- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is an open-core authorization management platform for authorizing every identity and governing every action across applications, gateways, workloads, and AI agents.
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [qdm12/tinier](https://github.com/qdm12/tinier) - Make your videos, images and audio files tinier
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
@@ -2131,7 +2131,7 @@
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [sirk123au/python-plexlibrary](https://github.com/sirk123au/python-plexlibrary) - 
 - [iwalton3/plex-mpv-shim](https://github.com/iwalton3/plex-mpv-shim) - Cast media from Plex Mobile and Web apps to MPV. (Unofficial)
-- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
+- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV-Based Jellyfin Client with Offline Sync
 - [atrpm/emby_gdrive_autoscan](https://github.com/atrpm/emby_gdrive_autoscan) - 
 - [titooo7/plex_emby_jellyfin_autoscan](https://github.com/titooo7/plex_emby_jellyfin_autoscan) - A very basic fork of plex_autoscan created to make it compatible with Jellyfin and Emby. Useful if you host your files in google drive
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine

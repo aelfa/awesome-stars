@@ -929,7 +929,6 @@
 
 - [faizann24/wifi-bruteforcer-fsecurify](https://github.com/faizann24/wifi-bruteforcer-fsecurify) - Android application to brute force WiFi passwords without requiring a rooted device.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [karakun/OpenWebStart](https://github.com/karakun/OpenWebStart) - Run Web Start based applications after the release of Java 11
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
@@ -1609,6 +1608,7 @@
 - [poppabear8883/UNIT3D-INSTALLER](https://github.com/poppabear8883/UNIT3D-INSTALLER) - Provisioner and Installer for the UNIT3D Torrent Tracker Platform.
 - [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS].  Supports IMAP/SMTP, JMAP and EWS (Exchange Web Services)
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [WordPress/application-passwords](https://github.com/WordPress/application-passwords) - 
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
@@ -2638,6 +2638,7 @@
 - [Disane87/docudigger](https://github.com/Disane87/docudigger) - Website scraper for getting invoices automagically as pdf (useful for taxes or DMS)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki
@@ -2751,7 +2752,6 @@
 - [espimarisa/hibiki](https://github.com/espimarisa/hibiki) - [Mirror] A Discord bot with polished community and developer tools.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [michelonsouza/encrypt-storage](https://github.com/michelonsouza/encrypt-storage) - EncryptStorage provide a little more security in frontend

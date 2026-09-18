@@ -929,6 +929,7 @@
 
 - [faizann24/wifi-bruteforcer-fsecurify](https://github.com/faizann24/wifi-bruteforcer-fsecurify) - Android application to brute force WiFi passwords without requiring a rooted device.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [karakun/OpenWebStart](https://github.com/karakun/OpenWebStart) - Run Web Start based applications after the release of Java 11
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
@@ -975,7 +976,6 @@
 ## JavaScript 
 
 - [gamonoid/icehrm](https://github.com/gamonoid/icehrm) - Manage your employees easily with a robust and efficient Human Resource Management System
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [NuvioMedia/NuvioTVSmart-Installer](https://github.com/NuvioMedia/NuvioTVSmart-Installer) - Official Desktop installer for Nuvio TV webOS and Samsung Tizen builds
 - [NuvioMedia/NuvioTVSmart](https://github.com/NuvioMedia/NuvioTVSmart) - Official Nuvio WebOS, TizenOS Repository
 - [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
@@ -2612,6 +2612,7 @@
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction
 - [DSmart33/Usenet-Ultimate](https://github.com/DSmart33/Usenet-Ultimate) - Modern Usenet addon for Stremio
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 - [nashaofu/shell360](https://github.com/nashaofu/shell360) - Shell360 is a cross-platform SSH and SFTP client.
@@ -2627,6 +2628,7 @@
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
 - [ohmzi/Immaculaterr](https://github.com/ohmzi/Immaculaterr) - Plex autopilot: curated recommendations, collections, and library cleanup (optional Radarr/Sonarr integration).
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [arjanterheegde/InfinitePlexLibrary](https://github.com/arjanterheegde/InfinitePlexLibrary) - Create a truly infinite Plex library without overloading your debrid provider / indexers
@@ -2637,7 +2639,6 @@
 - [Disane87/docudigger](https://github.com/Disane87/docudigger) - Website scraper for getting invoices automagically as pdf (useful for taxes or DMS)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki

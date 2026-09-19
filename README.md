@@ -643,6 +643,7 @@
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - Backup and restore Ed25519 SSH keys with seed words 🫠
 - [mehrdadrad/radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
@@ -1017,7 +1018,6 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
@@ -1851,6 +1851,7 @@
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [Drapersniper/Qbitrr](https://github.com/Drapersniper/Qbitrr) - A simple Python script to talk to Qbit and Arr's
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [JakeWharton/qbt-tracker-hound](https://github.com/JakeWharton/qbt-tracker-hound) - Maintains a tag on torrents with broken trackers in qBittorrent
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
@@ -1936,7 +1937,7 @@
 - [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database.
 - [jbbriel/cloudflare-py](https://github.com/jbbriel/cloudflare-py) - Script to enable and disable pools in CF Load Balancers
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [shiruken/plexcollection](https://github.com/shiruken/plexcollection) - Automatically update Plex collections using Trakt lists
 - [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other lan
@@ -2170,6 +2171,7 @@
 
 ## Rust 
 
+- [nzbfast/nzbfast](https://github.com/nzbfast/nzbfast) - The fast Usenet downloader. One self-contained executable: line-rate downloads, one-pass verify and extract, poster wall, built-in indexer. Speaks the SABnzbd and NZBGet APIs, so Sonarr, Radarr, nzb36
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [Dominux/Pentaract](https://github.com/Dominux/Pentaract) - Unlimited file cloud storage based on using Telegram API
@@ -2375,7 +2377,6 @@
 - [coder8338/appbox_installer](https://github.com/coder8338/appbox_installer) - Appbox installer for radarr, sonarr, sickchill, jackett, couchpotato, nzbget, sabnzbdplus, ombi, lidarr, organizr, nzbhydra2, bazarr, flexget, filebot, synclounge, medusa, lazylibrarian, pyload, ngpos
 - [jerheij/docker-spotweb](https://github.com/jerheij/docker-spotweb) - Alpine based Docker Spotweb image
 - [jgeusebroek/docker-spotweb](https://github.com/jgeusebroek/docker-spotweb) - A docker image running ubuntu/26.04 Linux and Spotweb (Develop banch)
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [geekman/xqrepack](https://github.com/geekman/xqrepack) - patch XiaoQiang images to maintain SSH & UART access
 - [saltydk/scripts](https://github.com/saltydk/scripts) - Ajki's scripts & guides
 - [TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts) - The ultimate collection of scripts to download everything you bought on GOG.com

@@ -190,7 +190,6 @@
 - [dista/nginx-g-streaming](https://github.com/dista/nginx-g-streaming) - nginx G streaming: http-flv, rtmp streaming🌤
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Ylianst/MeshAgent](https://github.com/Ylianst/MeshAgent) - MeshAgent used along with MeshCentral to remotely manage computers. Many variations of the background management agent are included as binaries in the MeshCentral project.
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
@@ -280,6 +279,7 @@
 - [ispysoftware/iSpy](https://github.com/ispysoftware/iSpy) - Open source surveillance software
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 - [saltydk/SARotate](https://github.com/saltydk/SARotate) - 
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Ylianst/MeshCentralRouter](https://github.com/Ylianst/MeshCentralRouter) - Windows tool that performs TCP/UDP port mapping thru the MeshCentral server
 - [Ylianst/MeshCentralInstaller](https://github.com/Ylianst/MeshCentralInstaller) - Windows installer for MeshCentral
 - [Ylianst/MeshCentralAssistant](https://github.com/Ylianst/MeshCentralAssistant) - Tray icon tool for the MeshCentral Agent. It displays the state of the agent, you can start and stop the agent and request help.
@@ -766,6 +766,7 @@
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place.
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [mrwiora/NAMEinator](https://github.com/mrwiora/NAMEinator) - NAMEinator DNS Benchmark tool (namebench successor)
 - [espebra/filebin2](https://github.com/espebra/filebin2) - Filebin is a web application that facilitates convenient file sharing over the web.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -1012,7 +1013,7 @@
 - [ggrove87/Expense-Tracker](https://github.com/ggrove87/Expense-Tracker) - 
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
-- [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) - Self host your media and share with unique links
+- [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) - Self host your media and share with unique links
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
@@ -2170,6 +2171,7 @@
 
 ## Rust 
 
+- [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager
 - [nzbfast/nzbfast](https://github.com/nzbfast/nzbfast) - The fast Usenet downloader. One self-contained executable: line-rate downloads, one-pass verify and extract, poster wall, built-in indexer. Speaks the SABnzbd and NZBGet APIs, so Sonarr, Radarr, nzb36
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
@@ -2608,6 +2610,7 @@
 
 ## TypeScript 
 
+- [dream-num/univer](https://github.com/dream-num/univer) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 - [sawdoctor/Usenet-Ultimate](https://github.com/sawdoctor/Usenet-Ultimate) - Intelligent Usenet search platform and Newznab server for Sonarr, Radarr, Prowlarr and Stremio
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction
 - [DSmart33/Usenet-Ultimate](https://github.com/DSmart33/Usenet-Ultimate) - Modern Usenet addon for Stremio
@@ -2732,7 +2735,6 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 - [drgroot/plexcontroller](https://github.com/drgroot/plexcontroller) - Controls multiple instances of plex using the plex API

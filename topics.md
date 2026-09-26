@@ -474,6 +474,7 @@
 
 ## angular 
 
+- [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
@@ -5519,6 +5520,8 @@
 
 ## rust 
 
+- [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) - Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
+- [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
 - [nzbfast/nzbfast](https://github.com/nzbfast/nzbfast) - The fast Usenet downloader. One self-contained executable: line-rate downloads, one-pass verify and extract, poster wall, built-in indexer. Speaks the SABnzbd and NZBGet APIs, so Sonarr, Radarr, nzb36
 - [nashaofu/shell360](https://github.com/nashaofu/shell360) - Shell360 is a cross-platform SSH and SFTP client.
 - [Dominux/Pentaract](https://github.com/Dominux/Pentaract) - Unlimited file cloud storage based on using Telegram API

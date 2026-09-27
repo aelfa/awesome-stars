@@ -190,6 +190,7 @@
 - [dista/nginx-g-streaming](https://github.com/dista/nginx-g-streaming) - nginx G streaming: http-flv, rtmp streaming🌤
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Ylianst/MeshAgent](https://github.com/Ylianst/MeshAgent) - MeshAgent used along with MeshCentral to remotely manage computers. Many variations of the background management agent are included as binaries in the MeshCentral project.
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
@@ -278,7 +279,6 @@
 - [ispysoftware/iSpy](https://github.com/ispysoftware/iSpy) - Open source surveillance software
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 - [saltydk/SARotate](https://github.com/saltydk/SARotate) - 
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Ylianst/MeshCentralRouter](https://github.com/Ylianst/MeshCentralRouter) - Windows tool that performs TCP/UDP port mapping thru the MeshCentral server
 - [Ylianst/MeshCentralInstaller](https://github.com/Ylianst/MeshCentralInstaller) - Windows installer for MeshCentral
 - [Ylianst/MeshCentralAssistant](https://github.com/Ylianst/MeshCentralAssistant) - Tray icon tool for the MeshCentral Agent. It displays the state of the agent, you can start and stop the agent and request help.

@@ -3810,6 +3810,7 @@
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.
 - [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - "Paper2Slides: From Paper to Presentation in One Click"
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [studio-dots-ai/dots.ocr](https://github.com/studio-dots-ai/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [ohmzi/Immaculaterr](https://github.com/ohmzi/Immaculaterr) - Plex autopilot: curated recommendations, collections, and library cleanup (optional Radarr/Sonarr integration).
 - [kipsilabs/altmount](https://github.com/kipsilabs/altmount) - usenet virtual fs
@@ -5657,7 +5658,6 @@
 
 ## security 
 
-- [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 139-tool MCP server for real-time global intelligence from free public APIs: markets, SEC filings, conflict, military, aircraft-cohort early warning, refugee and migration flows, cyber, climate, news,
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
